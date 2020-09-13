@@ -191,7 +191,7 @@ class WiktionaryParser(object):
                 if definition_tag.name == 'p':
                     text_to_append = definition_tag.text.strip()
                     if text_to_append:
-                        definition_text.append(text_to_append)
+                        definition_text.append(f"#{text_to_append}")
                 if definition_tag.name in ['ol', 'ul']:
                     for element in definition_tag.find_all('li', recursive=False):
                         if element.text:
@@ -232,7 +232,8 @@ class WiktionaryParser(object):
                                 index += 1
                             examples.append({
                                 "index": index,
-                                "text": example_text})
+                                "text": example_text
+                            })
                         element.clear()
                 example_list.append((def_index, examples, def_type))
                 table = table.find_next_sibling()
