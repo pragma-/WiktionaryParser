@@ -215,7 +215,7 @@ class WiktionaryParser(object):
         for def_index, def_id, def_type in definition_id_list:
             span_tag = self.soup.find_all('span', {'id': def_id})[0]
             table = span_tag.parent
-            while table.name != 'ol':
+            while table is not None and table.name != 'ol':
                 table = table.find_next_sibling()
             examples = []
             while table and table.name == 'ol':
