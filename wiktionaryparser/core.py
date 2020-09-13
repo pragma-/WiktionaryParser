@@ -1,3 +1,4 @@
+import json
 import re, requests
 from wiktionaryparser.utils import WordData, Definition, RelatedWord
 from bs4 import BeautifulSoup
@@ -20,6 +21,9 @@ RELATIONS = [
     "coordinate terms",
 ]
 
+with open("translations.json") as translations_file:
+    TRANSLATIONS = json.load(translations_file)
+
 def is_subheading(child, parent):
     child_headings = child.split(".")
     parent_headings = parent.split(".")
@@ -38,6 +42,7 @@ class WiktionaryParser(object):
         self.session.mount("http://", requests.adapters.HTTPAdapter(max_retries = 2))
         self.session.mount("https://", requests.adapters.HTTPAdapter(max_retries = 2))
         self.language = 'english'
+        self.language_code = 'en'
         self.current_word = None
         self.PARTS_OF_SPEECH = copy(PARTS_OF_SPEECH)
         self.RELATIONS = copy(RELATIONS)
@@ -64,6 +69,16 @@ class WiktionaryParser(object):
         relation = relation.lower()
         self.RELATIONS.remove(relation)
         self.INCLUDED_ITEMS.remove(relation)
+
+    def set_language_code(self, language_code=None):
+        if language_code is not None:
+            self.language_code = language_code
+            self.url = f"https://{language_code}.wiktionary.org/wiki/{{}}?printable=yes"
+
+    def translate(self, related_id):
+        if self.language_code == "en":
+            return related_id
+        return TRANSLATIONS[self.language_code].get(related_id, related_id)
 
     def set_default_language(self, language=None):
         if language is not None:
@@ -96,6 +111,7 @@ class WiktionaryParser(object):
             checklist = self.RELATIONS
         else:
             return None
+        checklist = [self.translate(item) for item in checklist]
         id_list = []
         if len(contents) == 0:
             return [('1', x.title(), x) for x in checklist if self.soup.find('span', {'id': x.title()})]
@@ -116,10 +132,11 @@ class WiktionaryParser(object):
                 start_index = content.find_previous().text + '.'
         if len(contents) != 0 and not start_index:
             return []
+        included_items = [self.translate(item) for item in self.INCLUDED_ITEMS]
         for content in contents:
             index = content.find_previous().text
             content_text = self.remove_digits(content.text.lower())
-            if index.startswith(start_index) and content_text in self.INCLUDED_ITEMS:
+            if index.startswith(start_index) and content_text in included_items:
                 word_contents.append(content)
         word_data = {
             'examples': self.parse_examples(word_contents),
