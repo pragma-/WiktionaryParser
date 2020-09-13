@@ -191,7 +191,7 @@ class WiktionaryParser(object):
                 if definition_tag.name == 'p':
                     text_to_append = definition_tag.text.strip()
                     if text_to_append:
-                        definition_text.append(text_to_append)
+                        definition_text.append(f"#{text_to_append}")
                 if definition_tag.name in ['ol', 'ul']:
                     for element in definition_tag.find_all('li', recursive=False):
                         if element.text:
@@ -219,14 +219,23 @@ class WiktionaryParser(object):
                 table = table.find_next_sibling()
             examples = []
             while table and table.name == 'ol':
-                for element in table.find_all('dd'):
-                    example_text = re.sub(r'\([^)]*\)', '', element.text.strip())
-                    if example_text:
-                        examples.append(example_text)
-                    element.clear()
-                example_list.append((def_index, examples, def_type))
                 for quot_list in table.find_all("ul", recursive=True):
                     quot_list.clear()
+                for element in table.find_all('dd'):
+                    if element.find("span") is None:
+                        example_text = re.sub(r'\([^)]*\)', '', element.text.strip())
+                        if example_text:
+                            index = 0
+                            for li in table.find_all("li"):
+                                if li == element.parent.parent:
+                                    break
+                                index += 1
+                            examples.append({
+                                "index": index,
+                                "text": example_text
+                            })
+                        element.clear()
+                example_list.append((def_index, examples, def_type))
                 table = table.find_next_sibling()
         return example_list
 
