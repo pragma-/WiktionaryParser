@@ -21,4 +21,6 @@ setup(
    'Development Status :: 5 - Production/Stable',
    'License :: OSI Approved :: MIT License',
   ],
+  package_data={'': ['languages.json', 'translations.json']},
+  include_package_data=True
 )
