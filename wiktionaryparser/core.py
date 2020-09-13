@@ -246,7 +246,7 @@ class WiktionaryParser(object):
                 else:
                     for list_tag in etymology_tag.find_all('li'):
                         etymology_text += list_tag.text + '\n'
-            etymology_list.append((etymology_index, etymology_text))
+            etymology_list.append((etymology_index, etymology_text.strip()))
         return etymology_list
 
     def parse_related_words(self, word_contents):
