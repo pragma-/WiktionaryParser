@@ -189,7 +189,9 @@ class WiktionaryParser(object):
                 definition_tag = table
                 table = table.find_next_sibling()
                 if definition_tag.name == 'p':
-                    definition_text.append(definition_tag.text.strip())
+                    text_to_append = definition_tag.text.strip()
+                    if text_to_append:
+                        definition_text.append(text_to_append)
                 if definition_tag.name in ['ol', 'ul']:
                     for element in definition_tag.find_all('li', recursive=False):
                         if element.text:
