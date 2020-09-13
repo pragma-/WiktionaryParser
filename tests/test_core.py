@@ -84,7 +84,7 @@ class TestParser(unittest.TestCase):
         self.__test_fetch(lang, word, old_id)
 
     def __test_fetch(self, lang: str, word: str, old_id: int):
-        parser.set_default_language(lang)
+        parser.set_language(lang)
         fetched_word = parser.fetch(word, old_id=old_id)
 
         print("Testing \"{}\" in \"{}\"".format(word, lang))

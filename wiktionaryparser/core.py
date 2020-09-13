@@ -24,6 +24,9 @@ RELATIONS = [
 with open("translations.json") as translations_file:
     TRANSLATIONS = json.load(translations_file)
 
+with open("languages.json") as languages_file:
+    LANGUAGES = json.load(languages_file)
+
 def is_subheading(child, parent):
     child_headings = child.split(".")
     parent_headings = parent.split(".")
@@ -70,21 +73,18 @@ class WiktionaryParser(object):
         self.RELATIONS.remove(relation)
         self.INCLUDED_ITEMS.remove(relation)
 
-    def set_language_code(self, language_code=None):
-        if language_code is not None:
-            self.language_code = language_code
-            self.url = f"https://{language_code}.wiktionary.org/wiki/{{}}?printable=yes"
-
     def translate(self, related_id):
         if self.language_code == "en":
             return related_id
         return TRANSLATIONS[self.language_code].get(related_id, related_id)
 
-    def set_default_language(self, language=None):
-        if language is not None:
-            self.language = language.lower()
+    def set_language(self, language_code):
+        if language_code is not None:
+            self.language_code = language_code.lower()
+            self.language = LANGUAGES[self.language_code]
+            self.url = f"https://{self.language_code}.wiktionary.org/wiki/{{}}?printable=yes"
 
-    def get_default_language(self):
+    def get_language(self):
         return self.language
 
     def clean_html(self):
