@@ -28,12 +28,14 @@
         "synonyms": "",
         "antonyms": "",
         "hypernyms": "",
-        "hyponyms":  "",
+        "hyponyms": "",
         "meronyms": "",
         "holonyms": "",
         "troponyms": "",
         "related terms": "",
-        "coordinate terms": ""
+        "coordinate terms": "",
+        "etymology": "",
+        "pronunciation": ""
     },
     "ro": {
         "noun": "substantiv",
@@ -69,6 +71,8 @@
         "holonyms": "holonime",
         "troponyms": "troponime",
         "related terms": "cuvinte apropiate",
-        "coordinate terms": "cuvinte derivate"
+        "coordinate terms": "cuvinte derivate",
+        "etymology": "etimologie",
+        "pronunciation": "pronunție"
     }
 }
