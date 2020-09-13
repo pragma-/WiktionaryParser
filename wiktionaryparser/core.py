@@ -225,8 +225,13 @@ class WiktionaryParser(object):
                     if element.find("span") is None:
                         example_text = re.sub(r'\([^)]*\)', '', element.text.strip())
                         if example_text:
+                            index = 0
+                            for li in table.find_all("li"):
+                                if li == element.parent.parent:
+                                    break
+                                index += 1
                             examples.append({
-                                "index": table.index(element.parent.parent) + 1,
+                                "index": index,
                                 "text": example_text})
                         element.clear()
                 example_list.append((def_index, examples, def_type))
