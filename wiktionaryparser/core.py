@@ -1,5 +1,6 @@
 import json
 import re, requests
+import pkgutil
 from wiktionaryparser.utils import WordData, Definition, RelatedWord
 from bs4 import BeautifulSoup
 from itertools import zip_longest
@@ -21,11 +22,8 @@ RELATIONS = [
     "coordinate terms",
 ]
 
-with open("translations.json") as translations_file:
-    TRANSLATIONS = json.load(translations_file)
-
-with open("languages.json") as languages_file:
-    LANGUAGES = json.load(languages_file)
+TRANSLATIONS = json.loads(pkgutil.get_data(__name__, "translations.json").decode("utf-8"))
+LANGUAGES = json.loads(pkgutil.get_data(__name__, "languages.json").decode("utf-8"))
 
 def is_subheading(child, parent):
     child_headings = child.split(".")
