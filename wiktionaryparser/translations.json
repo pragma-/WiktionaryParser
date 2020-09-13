@@ -24,7 +24,16 @@
         "particle": "",
         "predicative": "",
         "participle": "",
-        "suffix": ""
+        "suffix": "",
+        "synonyms": "",
+        "antonyms": "",
+        "hypernyms": "",
+        "hyponyms":  "",
+        "meronyms": "",
+        "holonyms": "",
+        "troponyms": "",
+        "related terms": "",
+        "coordinate terms": ""
     },
     "ro": {
         "noun": "substantiv",
@@ -51,6 +60,15 @@
         "particle": "particulă",
         "predicative": "predicativ",
         "participle": "participiu",
-        "suffix": "sufix"
+        "suffix": "sufix",
+        "synonyms": "sinonime",
+        "antonyms": "antonime",
+        "hypernyms": "hipernime",
+        "hyponyms": "hiponime",
+        "meronyms": "meronime",
+        "holonyms": "holonime",
+        "troponyms": "troponime",
+        "related terms": "cuvinte apropiate",
+        "coordinate terms": "cuvinte derivate"
     }
 }
