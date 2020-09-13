@@ -219,14 +219,17 @@ class WiktionaryParser(object):
                 table = table.find_next_sibling()
             examples = []
             while table and table.name == 'ol':
-                for element in table.find_all('dd'):
-                    example_text = re.sub(r'\([^)]*\)', '', element.text.strip())
-                    if example_text:
-                        examples.append(example_text)
-                    element.clear()
-                example_list.append((def_index, examples, def_type))
                 for quot_list in table.find_all("ul", recursive=True):
                     quot_list.clear()
+                for element in table.find_all('dd'):
+                    if element.find("span") is None:
+                        example_text = re.sub(r'\([^)]*\)', '', element.text.strip())
+                        if example_text:
+                            examples.append({
+                                "index": table.index(element.parent.parent) + 1,
+                                "text": example_text})
+                        element.clear()
+                example_list.append((def_index, examples, def_type))
                 table = table.find_next_sibling()
         return example_list
 
