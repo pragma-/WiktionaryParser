@@ -1,3 +1,4 @@
+import json
 import re, requests
 from wiktionaryparser.utils import WordData, Definition, RelatedWord
 from bs4 import BeautifulSoup
@@ -20,6 +21,12 @@ RELATIONS = [
     "coordinate terms",
 ]
 
+with open("translations.json") as translations_file:
+    TRANSLATIONS = json.load(translations_file)
+
+with open("languages.json") as languages_file:
+    LANGUAGES = json.load(languages_file)
+
 def is_subheading(child, parent):
     child_headings = child.split(".")
     parent_headings = parent.split(".")
@@ -38,6 +45,7 @@ class WiktionaryParser(object):
         self.session.mount("http://", requests.adapters.HTTPAdapter(max_retries = 2))
         self.session.mount("https://", requests.adapters.HTTPAdapter(max_retries = 2))
         self.language = 'english'
+        self.language_code = 'en'
         self.current_word = None
         self.PARTS_OF_SPEECH = copy(PARTS_OF_SPEECH)
         self.RELATIONS = copy(RELATIONS)
@@ -65,11 +73,18 @@ class WiktionaryParser(object):
         self.RELATIONS.remove(relation)
         self.INCLUDED_ITEMS.remove(relation)
 
-    def set_default_language(self, language=None):
-        if language is not None:
-            self.language = language.lower()
+    def translate(self, related_id):
+        if self.language_code == "en":
+            return related_id
+        return TRANSLATIONS[self.language_code].get(related_id, related_id)
 
-    def get_default_language(self):
+    def set_language(self, language_code):
+        if language_code is not None:
+            self.language_code = language_code.lower()
+            self.language = LANGUAGES[self.language_code]
+            self.url = f"https://{self.language_code}.wiktionary.org/wiki/{{}}?printable=yes"
+
+    def get_language(self):
         return self.language
 
     def clean_html(self):
@@ -96,6 +111,7 @@ class WiktionaryParser(object):
             checklist = self.RELATIONS
         else:
             return None
+        checklist = [self.translate(item) for item in checklist]
         id_list = []
         if len(contents) == 0:
             return [('1', x.title(), x) for x in checklist if self.soup.find('span', {'id': x.title()})]
@@ -116,10 +132,11 @@ class WiktionaryParser(object):
                 start_index = content.find_previous().text + '.'
         if len(contents) != 0 and not start_index:
             return []
+        included_items = [self.translate(item) for item in self.INCLUDED_ITEMS]
         for content in contents:
             index = content.find_previous().text
             content_text = self.remove_digits(content.text.lower())
-            if index.startswith(start_index) and content_text in self.INCLUDED_ITEMS:
+            if index.startswith(start_index) and content_text in included_items:
                 word_contents.append(content)
         word_data = {
             'examples': self.parse_examples(word_contents),
@@ -172,7 +189,9 @@ class WiktionaryParser(object):
                 definition_tag = table
                 table = table.find_next_sibling()
                 if definition_tag.name == 'p':
-                    definition_text.append(definition_tag.text.strip())
+                    text_to_append = definition_tag.text.strip()
+                    if text_to_append:
+                        definition_text.append(text_to_append)
                 if definition_tag.name in ['ol', 'ul']:
                     for element in definition_tag.find_all('li', recursive=False):
                         if element.text:
@@ -196,7 +215,7 @@ class WiktionaryParser(object):
         for def_index, def_id, def_type in definition_id_list:
             span_tag = self.soup.find_all('span', {'id': def_id})[0]
             table = span_tag.parent
-            while table.name != 'ol':
+            while table is not None and table.name != 'ol':
                 table = table.find_next_sibling()
             examples = []
             while table and table.name == 'ol':
@@ -227,7 +246,7 @@ class WiktionaryParser(object):
                 else:
                     for list_tag in etymology_tag.find_all('li'):
                         etymology_text += list_tag.text + '\n'
-            etymology_list.append((etymology_index, etymology_text))
+            etymology_list.append((etymology_index, etymology_text.strip()))
         return etymology_list
 
     def parse_related_words(self, word_contents):
