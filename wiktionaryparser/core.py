@@ -222,7 +222,7 @@ class WiktionaryParser(object):
                 for quot_list in table.find_all("ul", recursive=True):
                     quot_list.clear()
                 for element in table.find_all('dd'):
-                    if element.find("span", {"class": "nyms synonym"}) is None:
+                    if element.find("span", {"class": "nyms"}) is None:
                         example_text = re.sub(r'\([^)]*\)', '', element.text.strip())
                         if example_text:
                             index = 0
