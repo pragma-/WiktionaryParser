@@ -89,6 +89,8 @@ class WiktionaryParser(object):
         unwanted_classes = ['sister-wikipedia', 'thumb', 'reference', 'cited-source']
         for tag in self.soup.find_all(True, {'class': unwanted_classes}):
             tag.extract()
+        [x.decompose() for x in self.soup.findAll(
+            lambda tag: (not tag.contents or len(tag.get_text(strip=True)) <= 0) and not tag.name == 'br')]
 
     def remove_digits(self, string):
         return string.translate(str.maketrans('', '', digits)).strip()
