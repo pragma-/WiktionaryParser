@@ -310,3 +310,77 @@ class WiktionaryParser(object):
         self.current_word = word
         self.clean_html()
         return self.get_word_data(language.lower())
+
+    @staticmethod
+    def _pack_definitions_and_examples_recursive(
+            definitions_list: list, examples_list: list, output_list: list,
+            definitions_index=0, examples_index=0
+    ):
+        global overall_definitions_index
+
+        if definitions_index >= len(definitions_list):
+            return
+
+        while definitions_index < len(definitions_list) and type(definitions_list[definitions_index]) is list:
+            nested_list = []
+            WiktionaryParser._pack_definitions_and_examples_recursive(
+                definitions_list[definitions_index], examples_list, nested_list, 0, examples_index
+            )
+            output_list.append(nested_list)
+            definitions_index += 1
+
+            if definitions_index >= len(definitions_list):
+                return
+
+        # It's a heading - and examples' indexes ignore headings, so overall_definitions_index won't be incremented
+        if definitions_list[definitions_index][0] == "#":
+            output_list.append(definitions_list[definitions_index])
+            definitions_index += 1
+        else:
+            examples_to_pack = []
+            while (examples_index < len(examples_list) and
+                   examples_list[examples_index]["index"] <= overall_definitions_index):
+                if examples_list[examples_index]["index"] == overall_definitions_index:
+                    examples_to_pack.append(examples_list[examples_index]["text"])
+                examples_index += 1
+            if examples_to_pack:
+                output_list.append({
+                    "text": definitions_list[definitions_index],
+                    "examples": examples_to_pack
+                })
+            else:
+                output_list.append(definitions_list[definitions_index])
+            overall_definitions_index += 1
+            definitions_index += 1
+
+        WiktionaryParser._pack_definitions_and_examples_recursive(
+            definitions_list, examples_list, output_list, definitions_index, examples_index
+        )
+
+    @staticmethod
+    def pack_definitions_and_examples(word: list) -> list:
+        def pack(definitions_list: list, examples_list: list, output_list: list):
+            global overall_definitions_index
+            overall_definitions_index = 0
+            WiktionaryParser._pack_definitions_and_examples_recursive(definitions_list, examples_list, output_list)
+
+        if not word or not word[0]["definitions"] or not word[0]["definitions"][0]["text"]:
+            return []
+
+        etymologies_list = []
+        for etymology in word:
+            parts_of_speech_list = []
+            for part_of_speech in etymology["definitions"]:
+                part_of_speech_name = part_of_speech["partOfSpeech"]
+                definitions = part_of_speech["text"]
+                examples = part_of_speech["examples"]
+                packed_definitions_and_examples = []
+                pack(definitions, examples, packed_definitions_and_examples)
+                if packed_definitions_and_examples:
+                    parts_of_speech_list.append({
+                        "part_of_speech": part_of_speech_name,
+                        "text": packed_definitions_and_examples
+                    })
+            if parts_of_speech_list:
+                etymologies_list.append(parts_of_speech_list)
+        return etymologies_list
