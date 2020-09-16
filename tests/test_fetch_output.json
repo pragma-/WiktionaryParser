@@ -1,0 +1,2776 @@
+{
+    "en": {
+        "grapple": [
+            {
+                "etymology": "From Middle English *grapplen (\u201cto seize, lay hold of\u201d), from Old English *gr\u00e6pplian (\u201cto seize\u201d) (compare Old English \u0121egr\u00e6ppian (\u201cto seize\u201d)), from Proto-Germanic *graipil\u014dn\u0105, *grabbal\u014dn\u0105 (\u201cto seize\u201d), from Proto-Indo-European *g\u02b0reb\u02b0- (\u201cto take, seize, rake\u201d), equivalent to grab +\u200e -le. Cognate with Dutch grabbelen (\u201cto grope, scramble, scrabble\u201d), German grabbeln (\u201cto rummage, grope about\u201d) and grapsen, grapschen (\u201cto seize, grasp, grabble\u201d). Influenced in some senses by grapple (\u201ctool with claws or hooks\u201d, noun) (see below). See further at grasp.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#grapple (third-person singular simple present grapples, present participle grappling, simple past and past participle grappled)",
+                            "(transitive) To seize something and hold it firmly.",
+                            "(intransitive) To wrestle or tussle.",
+                            "(figurative, with with) To ponder and intensely evaluate a problem."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 2,
+                                "text": "to grapple with one's conscience"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#grapple (countable and uncountable, plural grapples)",
+                            "A close hand-to-hand struggle; (uncountable) the act of grappling."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(Received Pronunciation, General American) enPR: gr\u0103p\u02b9\u0259l, IPA: /\u02c8\u0261\u0279\u00e6p\u0259l/",
+                        "Rhymes: -\u00e6p\u0259l",
+                        "Hyphenation: grap\u2027ple"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English *grapple, *graple, from Old French grappil (\u201ca ship's grapple\u201d) (compare Old French grappin (\u201chook\u201d)), from Old French grape, grappe, crape (\u201chook\u201d), of Germanic origin, from Frankish *krapp\u014d (\u201chook\u201d), from Proto-Indo-European *grep- (\u201chook\u201d), *gremb- (\u201ccrooked, uneven\u201d), from Proto-Indo-European *ger- (\u201cto turn, bend, twist\u201d). See further at grape. Influenced in some senses by grapple (\u201cseize\u201d, verb) (see above).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#grapple (plural grapples)",
+                            [
+                                "A tool with claws or hooks which is used to catch or hold something.",
+                                "(nautical) A device consisting of iron claws, attached to the end of a rope, used for grasping and holding an enemy ship prior to boarding; a grappling iron.",
+                                "(nautical) A grapnel (\u201ctype of anchor\u201d)."
+                            ]
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#grapple (third-person singular simple present grapples, present participle grappling, simple past and past participle grappled)",
+                            "(transitive) To fasten, as with a grapple; (by extension) to fix; to join indissolubly.",
+                            "(transitive, intransitive) To climb (whether by means of a grapple and rope, or by hand, etc).",
+                            "(intransitive) To use a grapple (for example to attempt to find, hook, and raise a net or cable).",
+                            "(transitive, intransitive) To hook and raise with a grapple."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(Received Pronunciation, General American) enPR: gr\u0103p\u02b9\u0259l, IPA: /\u02c8\u0261\u0279\u00e6p\u0259l/",
+                        "Rhymes: -\u00e6p\u0259l",
+                        "Hyphenation: grap\u2027ple"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "cat": [
+            {
+                "etymology": "From Middle English cat, catte, from Old English catt (\u201cmale cat\u201d), catte (\u201cfemale cat\u201d), from Proto-Germanic *kattuz.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (plural cats)",
+                            [
+                                "An animal of the family Felidae:\nSynonym: felid",
+                                "A domesticated subspecies (Felis silvestris catus) of feline animal, commonly kept as a house pet. [from 8thc.]Synonyms: puss, pussy, malkin, kitty, pussy-cat, grimalkin; see also Thesaurus:cat",
+                                "Any similar animal of the family Felidae, which includes lions, tigers, bobcats, etc."
+                            ],
+                            [
+                                "A person:",
+                                "(offensive) A spiteful or angry woman. [from early 13thc.]Synonym: bitch",
+                                "An enthusiast or player of jazz.",
+                                "(slang) A person (usually male).\nSynonyms: bloke, chap, cove, dude, fellow, fella, guy",
+                                "(slang) A prostitute. [from at least early 15thc.]"
+                            ],
+                            "(nautical) A strong tackle used to hoist an anchor to the cathead of a ship.",
+                            "(chiefly nautical) Short form of cat-o'-nine-tails.",
+                            "(archaic) A sturdy merchant sailing vessel (now only in \"catboat\").",
+                            [
+                                "(archaic, uncountable) The game of \"trap and ball\" (also called \"cat and dog\").",
+                                "The trap of the game of \"trap and ball\"."
+                            ],
+                            "(archaic) The pointed piece of wood that is struck in the game of tipcat.",
+                            "(slang, vulgar, African American Vernacular English) A vagina, a vulva; the female external genitalia.",
+                            "A double tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed.",
+                            "(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences.\nSynonyms: tortoise, Welsh cat"
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(any member of the suborder (sometimes superfamily) Feliformia or Feloidea): feliform (\"cat-like\" carnivoran), feloid (compare Caniformia, Canoidea)",
+                                    "(any member of the subfamily Felinae, genera Puma, Acinonyx, Lynx, Leopardus, and Felis)): feline cat, a feline",
+                                    "(any member of the subfamily Pantherinae, genera Panthera, Uncia and Neofelis): pantherine cat, a pantherine",
+                                    "(technically, all members of the genus Panthera): panther (i.e. tiger, lion, jaguar, leopard), (narrow sense) panther (i.e. black panther)",
+                                    "(any member of the extinct subfamily Machairodontinae, genera Smilodon, Homotherium, Miomachairodus, etc.): Smilodontini, Machairodontini (Homotherini), Metailurini, \"saber-toothed cat\" (saber-tooth)"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "(domestic species): housecat, malkin, kitten, mouser, tomcat"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#cat (third-person singular simple present cats, present participle catting, simple past and past participle catted)",
+                            "(nautical, transitive) To hoist (the anchor) by its ring so that it hangs at the cathead.",
+                            "(nautical, transitive) To flog with a cat-o'-nine-tails.",
+                            "(slang) To vomit something.",
+                            "To go wandering at night.",
+                            "To gossip in a catty manner."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (plural cats)",
+                            "Abbreviation of catamaran."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Abbreviation of catenate.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (plural cats)",
+                            "(computing) A program and command in Unix that reads one or more files and directs their content to the standard output."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#cat (third-person singular simple present cats, present participle catting, simple past and past participle catted)",
+                            "(computing, transitive) To apply the cat command to (one or more files).",
+                            "(computing, slang) To dump large amounts of data on (an unprepared target) usually with no intention of browsing it carefully."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Possibly a shortened form of catastrophic.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#cat (not comparable)",
+                            "(Ireland, informal) Terrible, disastrous."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The weather was cat, so they returned home early."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Shortened from methcathinone.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (uncountable)",
+                            "(slang) A street name of the drug methcathinone."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Shortened from catapult.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (plural cats)",
+                            "(military, naval) A catapult."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "a carrier's bow cats"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (plural cats)",
+                            "Abbreviation of category."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (plural cats)",
+                            "Abbreviation of catfish."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(UK) IPA: /kat/",
+                        "Rhymes: -\u00e6t",
+                        "Homophone: Kat"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Abbreviation of caterpillar.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#cat (plural cats)",
+                            "(slang) Any of a variety of earth-moving machines. (from their manufacturer Caterpillar Inc.)",
+                            "A caterpillar drive vehicle (a ground vehicle which uses caterpillar tracks), especially tractors, trucks, minibuses, and snow groomers."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "dog": [
+            {
+                "etymology": "From Middle English dogge (whence also Scots dug (\u201cdog\u201d)), from Old English dogga, docga, of uncertain origin.\nThe original meaning seems to have been a common dog, as opposed to a well-bred one, or something like 'cur', and perhaps later came to be used for stocky dogs. Possibly a pet-form diminutive with suffix -ga (compare frocga (\u201cfrog\u201d), *picga (\u201cpig\u201d)), appended to a base *dog-, *doc- of unclear origin and meaning. One possibility is Old English dox (\u201cdark, swarthy\u201d) (compare frocga from frox). Another is Old Saxon <d\u00f4g> \"good\" (English dow, German taugen), the theory being that this could have been a commonly used epithet for dogs, especially by children. [3]In 14th-century England, hound (from Old English hund) was the general word for all domestic canines, and dog referred to a subtype resembling the modern mastiff and bulldog. By the 16th century, dog had become the general word, and hound had begun to refer only to breeds used for hunting. In the 16th century, the word dog was adopted by several continental European languages as their word for mastiff.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#dog (plural dogs)",
+                            "A mammal, Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+                            "Any member of the Family Canidae, including domestic dogs, wolves, coyotes, jackals, foxes, and their relatives (extant and extinct); canid.",
+                            "(often attributive) A male dog, wolf or fox, as opposed to a bitch or vixen.",
+                            "(slang, derogatory) A dull, unattractive girl or woman.",
+                            "(slang) A man (derived from definition 2).",
+                            "(slang, derogatory) A coward.",
+                            "(derogatory) Someone who is morally reprehensible.",
+                            "(slang) A sexually aggressive man (cf. horny).",
+                            "Any of various mechanical devices for holding, gripping, or fastening something, particularly with a tooth-like projection.",
+                            "(Can we clean up(+) this sense?) A click or pallet adapted to engage the teeth of a ratchet-wheel, to restrain the back action; a click or pawl. (See also: ratchet, windlass)",
+                            "A metal support for logs in a fireplace.",
+                            "(cartomancy) The eighteenth Lenormand card.",
+                            "A hot dog.",
+                            "(poker slang) Underdog.",
+                            "(slang, almost always  in the plural) Foot.",
+                            "(Cockney rhyming slang) (from \"dog and bone\") Phone or mobile phone.",
+                            "One of the cones used to divide up a racetrack when training horses.",
+                            "shortened form of dog meat.",
+                            "(film, slang) A flop; a film that performs poorly at the box office."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(animal): taxonomic names: Canis familiaris, Canis domesticus, Canis familiarus domesticus, Canis canis, Canis aegyptius, Canis familiarus aegyptius, Canis melitaeus, Canis familiarus melitaeus, Canis molossus, Canis familiarus molossus, Canis saultor, Canis familiaris saultor",
+                                    "(animal): domestic dog, hound, canine; see also Thesaurus:dog",
+                                    "(male): stud, sire",
+                                    "(man): bloke (British), chap (British), dude, fellow, guy, man; see also Thesaurus:man",
+                                    "(morally reprehensible person): cad, bounder, blackguard, fool, hound, heel, scoundrel",
+                                    "(mechanical device): click, detent, pawl",
+                                    "(metal support for logs): andiron, firedog, dogiron"
+                                ]
+                            },
+                            {
+                                "relationshipType": "coordinate terms",
+                                "words": [
+                                    "(male adult dog): bitch, pup, puppy"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "(animal): Afghan hound, bloodhound, chihuahua, coonhound, dachshund, deerhound, foxhound, gazehound, German shepherd, greyhound, hound, Irish wolfhound, Norwegian elkhound, otterhound, pointer, poodle, retriever, Russian wolfhound, scenthound, setter, sheepdog, shepherd, sighthound, spaniel, staghound, terrier, wolfhound"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hypernyms",
+                                "words": [
+                                    "(animal): canid"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The dog barked all night long."
+                            },
+                            {
+                                "index": 3,
+                                "text": "She\u2019s a real dog."
+                            },
+                            {
+                                "index": 4,
+                                "text": "You lucky dog!"
+                            },
+                            {
+                                "index": 4,
+                                "text": "He's a silly dog."
+                            },
+                            {
+                                "index": 5,
+                                "text": "Come back and fight, you dogs!"
+                            },
+                            {
+                                "index": 6,
+                                "text": "You dirty dog."
+                            },
+                            {
+                                "index": 10,
+                                "text": "The dogs were too hot to touch."
+                            },
+                            {
+                                "index": 14,
+                                "text": "My dogs are barking! \u2015 My feet hurt!"
+                            },
+                            {
+                                "index": 15,
+                                "text": "My dog is dead.My mobile-phone battery has run out of charge and is no longer able to function."
+                            },
+                            {
+                                "index": 19,
+                                "text": "My mobile-phone battery has run out of charge and is no longer able to function."
+                            },
+                            {
+                                "index": 17,
+                                "text": "Did you know that in South Korea, they eat dog?"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#dog (third-person singular simple present dogs, present participle dogging, simple past and past participle dogged)",
+                            "(transitive) To pursue with the intent to catch.",
+                            "(transitive) To follow in an annoying or harassing way.",
+                            "(transitive, nautical) To fasten a hatch securely.",
+                            "(intransitive, emerging usage in  Britain) To watch, or participate, in sexual activity in a public place.",
+                            "(intransitive, transitive) To intentionally restrict one's productivity as employee; to work at the slowest rate that goes unpunished.",
+                            "(transitive) To criticize.",
+                            "(transitive, military) To divide (a watch) with a comrade."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(to pursue with intent to catch): chase, chase after, go after, pursue, tag, tail, track, trail",
+                                    "(to restrict one's productivity): soldier, goldbrick"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 1,
+                                "text": "The woman cursed him so that trouble would dog his every step."
+                            },
+                            {
+                                "index": 2,
+                                "text": "It is very important to dog down these hatches..."
+                            },
+                            {
+                                "index": 3,
+                                "text": "I admit that I like to dog at my local country park."
+                            },
+                            {
+                                "index": 4,
+                                "text": "A surprise inspection of the night shift found that some workers were dogging it."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(Received Pronunciation) IPA: /d\u0252\u0261/",
+                        "(US) enPR: d\u00f4g, IPA: /d\u0254\u0261/",
+                        "(US, Canada, cot\u2013caught merger) IPA: /d\u0251\u0261/",
+                        "Rhymes: -\u0252\u0261"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "test": [
+            {
+                "etymology": "From Middle English test, teste, borrowed from Old French test, teste (\u201can earthen vessel, especially a pot in which metals were tried\u201d), from Latin testum (\u201cthe lid of an earthen vessel, an earthen vessel, an earthen pot\u201d), from *terstus, past participle of the root *tersa (\u201cdry land\u201d). See terra, thirst.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#test (plural tests)",
+                            "A challenge, trial.",
+                            "A cupel or cupelling hearth in which precious metals are melted for trial and refinement.",
+                            "(academia) An examination, given often during the academic term.",
+                            "A session in which a product or piece of equipment is examined under everyday or extreme conditions to evaluate its durability, etc.",
+                            "(cricket, normally \u201cTest\u201d) A Test match.",
+                            "(marine biology) The external calciferous shell, or endoskeleton, of an echinoderm, e.g. sand dollars and sea urchins.",
+                            "(botany) Testa; seed coat.",
+                            "(obsolete) Judgment; distinction; discrimination."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(challenge, trial): See Thesaurus:test",
+                                    "(academics: examination): examination, quiz"
+                                ]
+                            },
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "(academics: examination): recess"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "acid test",
+                                    "babysitter test",
+                                    "blood test",
+                                    "duck test",
+                                    "field test",
+                                    "flame test",
+                                    "inkblot test",
+                                    "litmus test",
+                                    "multiple-choice test",
+                                    "nose test",
+                                    "Rorschach test",
+                                    "single-choice test",
+                                    "smell test",
+                                    "smoke test",
+                                    "sniff test",
+                                    "software test",
+                                    "stress test"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#test (third-person singular simple present tests, present participle testing, simple past and past participle tested)",
+                            "To challenge.",
+                            "To refine (gold, silver, etc.) in a test or cupel; to subject to cupellation.",
+                            "To put to the proof; to prove the truth, genuineness, or quality of by experiment, or by some principle or standard; to try.",
+                            "(academics) To administer or assign an examination, often given during the academic term, to (somebody).",
+                            "To place a product or piece of equipment under everyday and/or extreme conditions and examine it for its durability, etc.",
+                            "(copulative) To be shown to be by test.",
+                            "(chemistry) To examine or try, as by the use of some reagent."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Climbing the mountain tested our stamina."
+                            },
+                            {
+                                "index": 2,
+                                "text": "to test the soundness of a principle; to test the validity of an argument"
+                            },
+                            {
+                                "index": 5,
+                                "text": "He tested positive for cancer."
+                            },
+                            {
+                                "index": 6,
+                                "text": "to test a solution by litmus paper"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "IPA: /t\u025bst/",
+                        "Rhymes: -\u025bst",
+                        "(South African) IPA: /test/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English teste, from Old French teste, test and Latin testis (\u201cone who attests, a witness\u201d).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#test (plural tests)",
+                            "(obsolete) A witness."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#test (third-person singular simple present tests, present participle testing, simple past and past participle tested)",
+                            "(obsolete, transitive) To attest (a document) legally, and date it.",
+                            "(obsolete, intransitive) To make a testament, or will."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "attest",
+                                    "contest",
+                                    "detest",
+                                    "protest"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "IPA: /t\u025bst/",
+                        "Rhymes: -\u025bst",
+                        "(South African) IPA: /test/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Clipping of testosterone.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#test (uncountable)",
+                            "(informal, slang, body building) testosterone"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "IPA: /t\u025bst/",
+                        "Rhymes: -\u025bst",
+                        "(South African) IPA: /test/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "house": [
+            {
+                "etymology": "From Middle English hous, hus, from Old English h\u016bs (\u201cdwelling, shelter, house\u201d), from Proto-Germanic *h\u016bs\u0105 (compare Scots hoose, West Frisian h\u00fbs, Dutch huis, Low German Huus, German Haus, Danish hus, Norwegian Bokm\u00e5l hus and Swedish hus), possibly from Proto-Indo-European *(s)kews-, from *(s)kew- (\u201cto cover, hide\u201d). Eclipsed non-native Middle English meson, measoun (\u201chouse\u201d), borrowed from Old French maison (\u201chouse\u201d). More at hose.\nThe uncommon plural form housen is from Middle English husen, housen.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#house (countable and uncountable, plural houses or (dialectal) housen or (chiefly humorous) hice)",
+                            "A structure built or serving as an abode of human beings. [from 9th c.]",
+                            "The people who live in a house; a household. [from 9th c.]",
+                            [
+                                "A building used for something other than a residence (typically with qualifying word). [from 10th c.]",
+                                "A place of business; a company or organisation, especially a printing press, a publishing company, or a couturier. [from 10th c.]",
+                                "A place of public accommodation or entertainment, especially a public house, an inn, a restaurant, a theatre, or a casino; or the management thereof.[from 10th c.]",
+                                "(historical) A workhouse."
+                            ],
+                            "The audience for a live theatrical or similar performance. [from 10th c.]",
+                            "A theatre.",
+                            "(politics) A building where a deliberative assembly meets; whence the assembly itself, particularly a component of a legislature. [from 10th c.]",
+                            "A dynasty; a family with its ancestors and descendants, especially a royal or noble one. [from 10th c.]",
+                            "(figurative) A place of rest or repose. [from 9th c.]",
+                            "A grouping of schoolchildren for the purposes of competition in sports and other activities. [from 19th c.]",
+                            "An animal's shelter or den, or the shell of an animal such as a snail, used for protection. [from 10th c.]",
+                            "(astrology) One of the twelve divisions of an astrological chart. [from 14th c.]",
+                            "(cartomancy) The fourth Lenormand card.",
+                            "(chess, now rare) A square on a chessboard, regarded as the proper place of a piece. [from 16th c.]",
+                            "(curling) The four concentric circles where points are scored on the ice. [from 19th c.]",
+                            "Lotto; bingo. [from 20th c.]",
+                            "(uncountable) A children's game in which the players pretend to be members of a household.",
+                            "(US, dialect) A small stand of trees in a swamp.",
+                            "(sudoku) A set of cells in a Sudoku puzzle which must contain each digit exactly once, such as a row, column, or 3\u00d73 box in classic Sudoku."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(establishment): shop",
+                                    "(company or organisation): shop"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hypernyms",
+                                "words": [
+                                    "building"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "alehouse",
+                                    "auction house",
+                                    "backhouse",
+                                    "basket house",
+                                    "birdhouse",
+                                    "boathouse",
+                                    "boghouse",
+                                    "chapter house",
+                                    "coffee house",
+                                    "common house",
+                                    "cophouse",
+                                    "country house",
+                                    "doghouse",
+                                    "doll's house",
+                                    "dosshouse",
+                                    "flophouse",
+                                    "frame house",
+                                    "full house",
+                                    "glasshouse",
+                                    "Government House",
+                                    "Greek house",
+                                    "greenhouse",
+                                    "grow house",
+                                    "guesthouse, guest house",
+                                    "halfway house",
+                                    "haunted house",
+                                    "house of assembly",
+                                    "House of Commons",
+                                    "house of correction",
+                                    "house of detention",
+                                    "house of God",
+                                    "house of ill fame",
+                                    "house of ill repute",
+                                    "House of Lords",
+                                    "house of office",
+                                    "house of worship",
+                                    "Houses of Parliament",
+                                    "jakeshouse",
+                                    "lighthouse",
+                                    "little house",
+                                    "longhouse, long-house, long house",
+                                    "lower house",
+                                    "meetinghouse, meeting house",
+                                    "move house",
+                                    "outhouse",
+                                    "playhouse",
+                                    "play house",
+                                    "poorhouse",
+                                    "prisonhouse",
+                                    "privy house",
+                                    "public house",
+                                    "publishing house",
+                                    "pumphouse, pump house",
+                                    "royal house",
+                                    "safehouse",
+                                    "schoolhouse, school house",
+                                    "scouthouse",
+                                    "shithouse",
+                                    "shophouse",
+                                    "siegehouse",
+                                    "storehouse",
+                                    "tea house",
+                                    "tiny house",
+                                    "town house",
+                                    "tribal house",
+                                    "upper house",
+                                    "warehouse",
+                                    "wartime house",
+                                    "weather house",
+                                    "Wendy house",
+                                    "White House",
+                                    "whorehouse"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "This is my house and my family's ancestral home."
+                            },
+                            {
+                                "index": 2,
+                                "text": "The former carriage house had been made over into a guest house."
+                            },
+                            {
+                                "index": 2,
+                                "text": "On arriving at the zoo, we immediately headed for the monkey house."
+                            },
+                            {
+                                "index": 3,
+                                "text": "A small publishing house would have a contract with an independent fulfillment house."
+                            },
+                            {
+                                "index": 4,
+                                "text": "One more, sir, then I'll have to stop serving you \u2013 rules of the house, I'm afraid."
+                            },
+                            {
+                                "index": 4,
+                                "text": "The house always wins."
+                            },
+                            {
+                                "index": 7,
+                                "text": "After her swan-song, there wasn't a dry eye in the house."
+                            },
+                            {
+                                "index": 8,
+                                "text": "The petition was so ridiculous that the house rejected it after minimal debate."
+                            },
+                            {
+                                "index": 9,
+                                "text": "A curse lay upon the House of Atreus."
+                            },
+                            {
+                                "index": 11,
+                                "text": "I was a member of Spenser house when I was at school."
+                            },
+                            {
+                                "index": 18,
+                                "text": "As the babysitter, Emma always acted as the mother whenever the kids demanded to play house."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: hous, IPA: /ha\u028as/",
+                        "(Canada) IPA: /h\u028c\u028as/",
+                        "Rhymes: -a\u028as",
+                        "enPR: houz, IPA: /ha\u028az/",
+                        "Rhymes: -a\u028as, -a\u028az",
+                        "Homophone: how's (verb)"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English housen, from Old English h\u016bsian, from Proto-Germanic *h\u016bs\u014dn\u0105 (\u201cto house, live, dwell\u201d), from the noun (see above). Compare Dutch huizen (\u201cto live, dwell, reside\u201d), German Low German husen (\u201cto live, dwell, reside\u201d), German hausen (\u201cto live, dwell, reside\u201d), Norwegian Nynorsk husa (\u201cto house\u201d), Faroese h\u00fasa (\u201cto house\u201d), Icelandic h\u00fasa (\u201cto shelter, house\u201d).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#house (third-person singular simple present houses, present participle housing, simple past and past participle housed)",
+                            "(transitive) To keep within a structure or container.",
+                            "(transitive) To admit to residence; to harbor/harbour.",
+                            "To take shelter or lodging; to abide; to lodge.",
+                            "(transitive, astrology) To dwell within one of the twelve astrological houses.",
+                            "(transitive) To contain or cover mechanical parts.",
+                            "(obsolete) To drive to a shelter.",
+                            "(obsolete) To deposit and cover, as in the grave.",
+                            "(nautical) To stow in a safe place; to take down and make safe.",
+                            "(Canada, US, slang, transitive) To eat."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(keep within a structure or container): store",
+                                    "(admit to residence): accommodate, harbor/harbour, host, put up",
+                                    "(contain or enclose mechanical parts): enclose"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The car is housed in the garage."
+                            },
+                            {
+                                "index": 7,
+                                "text": "to house the upper spars"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: hous, IPA: /ha\u028as/",
+                        "(Canada) IPA: /h\u028c\u028as/",
+                        "Rhymes: -a\u028as",
+                        "enPR: houz, IPA: /ha\u028az/",
+                        "Rhymes: -a\u028as, -a\u028az",
+                        "Homophone: how's (verb)"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Probably from The Warehouse, a nightclub in Chicago, Illinois, USA, where the music became popular around 1985.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#house (uncountable)",
+                            "(music) House music."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "game": [
+            {
+                "etymology": "From Middle English game, gamen, gammen, from Old English gamen (\u201csport, joy, mirth, pastime, game, amusement, pleasure\u201d), from Proto-West Germanic *gaman, from Proto-Germanic *gaman\u0105 (\u201camusement, pleasure, game\", literally \"participation, communion, people together\u201d), from *ga- (collective prefix) + *mann- (\u201cman\u201d); or alternatively from *ga- + a root from Proto-Indo-European *men- (\u201cto think, have in mind\u201d).\nCognate with Middle High German gamen (\u201cjoy, amusement, fun, pleasure\u201d), Swedish gamman (\u201cmirth, rejoicing, merriment\u201d), Icelandic gaman (\u201cfun\u201d). Related to gammon, gamble.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#game (countable and uncountable, plural games)",
+                            [
+                                "A playful or competitive activity.",
+                                "A playful activity that may be unstructured; an amusement or pastime.",
+                                "(countable) An activity described by a set of rules, especially for the purpose of entertainment, often competitive or having an explicit goal.",
+                                "(countable) A particular instance of playing a game; match.",
+                                "That which is gained, such as the stake in a game.",
+                                "The number of points necessary to win a game.",
+                                "(card games) In some games, a point awarded to the player whose cards add up to the largest sum.",
+                                "(countable) The equipment that enables such activity, particularly as packaged under a title.",
+                                "One's manner, style, or performance in playing a game.",
+                                "(obsolete, uncountable) An amorous dalliance."
+                            ],
+                            "(countable) A video game.",
+                            "(countable, informal, nearly always singular) A field of gainful activity, as an industry or profession.",
+                            "(countable, figurative) Something that resembles a game with rules, despite not being designed.",
+                            "(countable, military) An exercise simulating warfare, whether computerized or involving human participants.",
+                            "(uncountable) Wild animals hunted for food.",
+                            "(uncountable, informal, used mostly of males) The ability to seduce someone, usually by strategy.",
+                            "(uncountable, slang) Mastery; the ability to excel at something.",
+                            "(countable) A questionable or unethical practice in pursuit of a goal; a scheme."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "See also Thesaurus:game",
+                                    "(synonyms to be checked): pastime, play, recreation, frolic, sport, diversion, fun, amusement, merriment, festivity, entertainment, spree, prank, lark, gambol, merrymaking, gaiety",
+                                    "(instance of gameplay): match",
+                                    "(field of gainful activity): line",
+                                    "(military): wargame",
+                                    "(business or occupation): racket",
+                                    "(questionable practices): racket"
+                                ]
+                            },
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "(antonyms to be checked): drudgery, work, toil"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 1,
+                                "text": "Being a child is all fun and games."
+                            },
+                            {
+                                "index": 2,
+                                "text": "Games in the classroom can make learning fun."
+                            },
+                            {
+                                "index": 3,
+                                "text": "Sally won the game."
+                            },
+                            {
+                                "index": 3,
+                                "text": "They can turn the game around in the second half."
+                            },
+                            {
+                                "index": 5,
+                                "text": "In short whist, five points are game."
+                            },
+                            {
+                                "index": 7,
+                                "text": "Some of the games in the closet we have on the computer as well."
+                            },
+                            {
+                                "index": 8,
+                                "text": "Study can help your game of chess."
+                            },
+                            {
+                                "index": 8,
+                                "text": "Hit the gym if you want to toughen up your game."
+                            },
+                            {
+                                "index": 11,
+                                "text": "When it comes to making sales, John is the best in the game."
+                            },
+                            {
+                                "index": 11,
+                                "text": "He's in the securities game somehow."
+                            },
+                            {
+                                "index": 12,
+                                "text": "In the game of life, you may find yourself playing the waiting game far too often."
+                            },
+                            {
+                                "index": 14,
+                                "text": "The forest has plenty of game."
+                            },
+                            {
+                                "index": 15,
+                                "text": "He didn't get anywhere with her because he had no game."
+                            },
+                            {
+                                "index": 17,
+                                "text": "You want to borrow my credit card for a week? What's your game?"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#game (comparative gamer, superlative gamest)",
+                            "(colloquial) Willing to participate.",
+                            "(of an animal) That shows a tendency to continue to fight against another animal, despite being wounded, often severely.",
+                            "Persistent, especially in senses similar to the above.",
+                            "Injured, lame (of a limb)."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(willing to participate): sporting, willing, daring, disposed, favorable, nervy, courageous, valiant"
+                                ]
+                            },
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "(willing to participate): cautious, disinclined"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#game (third-person singular simple present games, present participle gaming, simple past and past participle gamed)",
+                            "(intransitive) To gamble.",
+                            "(intransitive) To play video games.",
+                            "(transitive) To exploit loopholes in a system or bureaucracy in a way which defeats or nullifies the spirit of the rules in effect, usually to obtain a result which otherwise would be unobtainable.",
+                            "(transitive, slang, of males) To perform premeditated seduction strategy."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 2,
+                                "text": "We'll bury them in paperwork, and game the system."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: g\u0101m, IPA: /\u0261e\u026am/",
+                        "Rhymes: -e\u026am"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "line": [
+            {
+                "etymology": "From Middle English line, lyne, from Old English l\u012bne (\u201cline, cable, rope, hawser, series, row, rule, direction\u201d), from Proto-Germanic *l\u012bn\u01ed (\u201cline, rope, flaxen cord, thread\u201d), from Proto-Germanic *l\u012bn\u0105 (\u201cflax, linen\u201d), from Proto-Indo-European *l\u012bno- (\u201cflax\u201d).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#line (plural lines)",
+                            [
+                                "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight.",
+                                "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.\nSynonym: straight line",
+                                "(geometry, informal) A line segment; a continuous finite segment of such a figure.\nSynonym: line segment",
+                                "(graph theory) An edge of a graph.",
+                                "(geography) A circle of latitude or of longitude, as represented on a map.",
+                                "(geography, \u2018the line\u2019 or \u2018equinoctial line\u2019) The equator.",
+                                "(music) One of the straight horizontal and parallel prolonged strokes on and between which the notes are placed.",
+                                "(cricket) The horizontal path of a ball towards the batsman (see also length).",
+                                "(soccer) The goal line."
+                            ],
+                            "A rope, cord, string, or thread, of any thickness.",
+                            "A hose or pipe, of any size.",
+                            "Direction, path.",
+                            "The wire connecting one telegraphic station with another, a telephone or internet cable between two points: a telephone or network connection.",
+                            "A clothesline.",
+                            "A letter, a written form of communication.\nSynonyms: epistle, letter, note",
+                            "A connected series of public conveyances, as a roadbed or railway track; and hence, an established arrangement for forwarding merchandise, etc.",
+                            "(military) A trench or rampart, or the non-physical demarcation of the extent of the territory occupied by specified forces.",
+                            "The exterior limit of a figure or territory: a boundary, contour, or outline; a demarcation.",
+                            "A long tape or ribbon marked with units for measuring; a tape measure.",
+                            "(obsolete) A measuring line or cord.",
+                            "That which was measured by a line, such as a field or any piece of land set apart; hence, allotted place of abode.",
+                            "A threadlike crease or wrinkle marking the face, hand, or body; hence, a characteristic mark.",
+                            "Lineament; feature; figure (of one's body).",
+                            "A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. [from mid-16thc.]Synonyms: lineup (Canada), queue (UK, Ireland)",
+                            "(military) The regular infantry of an army, as distinguished from militia, guards, volunteer corps, cavalry, artillery, etc.",
+                            "A series or succession of ancestors or descendants of a given person; a family or race; compare lineage.",
+                            [
+                                "A small amount of text. Specifically:",
+                                "A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text.\nSynonym: row",
+                                "A verse (in poetry).",
+                                "A sentence of dialogue, especially [from the later 19thc.] in a play, movie, or the like.",
+                                "A lie or exaggeration, especially one told to gain another's approval or prevent losing it."
+                            ],
+                            "Course of conduct, thought, occupation, or policy; method of argument; department of industry, trade, or intellectual activity. [from earlier 17thc.]",
+                            "The official, stated position (or set of positions) of an individual or group, particularly a political or religious faction. [from later 19thc.]",
+                            "A set of products or services sold by a business, or by extension, the business itself. [from earlier 19thc.]",
+                            "(stock exchange) A number of shares taken by a jobber.",
+                            [
+                                "A measure of length:",
+                                "(historical) A tsarist-era Russian unit of measure, approximately equal to one tenth of an English inch, used especially when measuring the calibre of firearms.",
+                                "One twelfth of an inch.",
+                                "One fortieth of an inch."
+                            ],
+                            "(historical) A maxwell, a unit of magnetic flux.",
+                            "(baseball, slang, 1800s, with \"the\") The batter\u2019s box.",
+                            "(fencing, \u2018line of engagement\u2019) The position in which the fencers hold their swords.",
+                            "(engineering) Proper relative position or adjustment (of parts, not as to design or proportion, but with reference to smooth working).",
+                            "A small portion or serving of a powdery illegal drug.",
+                            "(obsolete) Instruction; doctrine.",
+                            "(genetics) Population of cells derived from a single cell and containing the same genetic makeup.",
+                            "(perfusion line) a set composed of a spike, a drip chamber, a clamp, a Y-injection site, a three-way stopcock and a catheter.",
+                            "(ice hockey) A group of forwards that play together.",
+                            "(medicine, colloquial) A vascular catheter."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "(geometry) curve, point, segment",
+                                    "lineage",
+                                    "lineal",
+                                    "linear"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The arrow descended in a curved line."
+                            },
+                            {
+                                "index": 10,
+                                "text": "a brake line"
+                            },
+                            {
+                                "index": 10,
+                                "text": "the main water line to the house"
+                            },
+                            {
+                                "index": 11,
+                                "text": "the line of sight"
+                            },
+                            {
+                                "index": 11,
+                                "text": "the line of vision"
+                            },
+                            {
+                                "index": 12,
+                                "text": "I tried to make a call, but the line was dead."
+                            },
+                            {
+                                "index": 12,
+                                "text": "a dedicated line;\u2003 a shared line"
+                            },
+                            {
+                                "index": 12,
+                                "text": "Please speak up, the line is very faint."
+                            },
+                            {
+                                "index": 14,
+                                "text": "Drop me a line."
+                            },
+                            {
+                                "index": 15,
+                                "text": "a line of stages"
+                            },
+                            {
+                                "index": 15,
+                                "text": "an express line"
+                            },
+                            {
+                                "index": 23,
+                                "text": "The line forms on the right."
+                            },
+                            {
+                                "index": 23,
+                                "text": "There is a line of houses."
+                            },
+                            {
+                                "index": 27,
+                                "text": "The answer to the comprehension question can be found in the third line of the accompanying text."
+                            },
+                            {
+                                "index": 29,
+                                "text": "He was perfecting his pickup lines for use at the bar."
+                            },
+                            {
+                                "index": 29,
+                                "text": "\"It is what it is\" was one his more annoying lines."
+                            },
+                            {
+                                "index": 30,
+                                "text": "Don't feed me a line!"
+                            },
+                            {
+                                "index": 32,
+                                "text": "Remember, your answers must match the party line."
+                            },
+                            {
+                                "index": 33,
+                                "text": "line of business, product line"
+                            },
+                            {
+                                "index": 33,
+                                "text": "How many buses does the line have?"
+                            },
+                            {
+                                "index": 33,
+                                "text": "The airline is in danger of bankruptcy."
+                            },
+                            {
+                                "index": 42,
+                                "text": "the engine is in line / out of line"
+                            },
+                            {
+                                "index": 48,
+                                "text": "patient had a line inserted"
+                            },
+                            {
+                                "index": 48,
+                                "text": "line sepsis"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+                            "(transitive) To place (objects) into a line (usually used with \"up\"); to form into a line; to align.",
+                            "(transitive) To place persons or things along the side of for security or defense; to strengthen by adding; to fortify.",
+                            "(transitive) To form a line along.",
+                            "(transitive) To mark with a line or lines, to cover with lines.",
+                            "(transitive, obsolete) To represent by lines; to delineate; to portray.",
+                            "(transitive) To read or repeat line by line.",
+                            "(intransitive, baseball) To hit a line drive; to hit a line drive which is caught for an out. Compare fly and ground.",
+                            "(transitive) To track (wild bees) to their nest by following their line of flight.",
+                            "(transitive) To measure."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "to line troops"
+                            },
+                            {
+                                "index": 1,
+                                "text": "to line works with soldiers"
+                            },
+                            {
+                                "index": 3,
+                                "text": "to line a copy book"
+                            },
+                            {
+                                "index": 5,
+                                "text": "to line out a hymn"
+                            },
+                            {
+                                "index": 6,
+                                "text": "Jones lined to left in his last at-bat."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: l\u012bn, IPA: /la\u026an/",
+                        "Rhymes: -a\u026an"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Old English l\u012bn (\u201cflax, linen, cloth\u201d). For more information, see the entry linen.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#line (uncountable)",
+                            "(obsolete) Flax; linen, particularly the longer fiber of flax."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+                            "(transitive) To cover the inner surface of (something), originally especially with linen.",
+                            "To reinforce (the back of a book) with glue and glued scrap material such as fabric or paper.",
+                            "(transitive) To fill or supply (something), as a purse with money."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The bird lines its nest with soft grass."
+                            },
+                            {
+                                "index": 0,
+                                "text": "to line a cloak with silk or fur"
+                            },
+                            {
+                                "index": 0,
+                                "text": "to line a box with paper or tin"
+                            },
+                            {
+                                "index": 0,
+                                "text": "paintings lined the walls of the cavernous dining room"
+                            },
+                            {
+                                "index": 2,
+                                "text": "to line the shelves"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: l\u012bn, IPA: /la\u026an/",
+                        "Rhymes: -a\u026an"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Borrowed from Middle French ligner.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+                            "(transitive, now rare, of a dog) To copulate with, to impregnate."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: l\u012bn, IPA: /la\u026an/",
+                        "Rhymes: -a\u026an"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "catch": [
+            {
+                "etymology": "From Middle English cacchen, from Anglo-Norman cachier, from Late Latin capti\u0101re, present active infinitive of capti\u014d, from Latin capt\u014d, frequentative of capi\u014d. Akin to Modern French chasser (from Old French chacier) and Spanish cazar, and thus a doublet of chase. Displaced Middle English fangen (\"to catch\"; > Modern English fang (verb)), from Old English f\u014dn (\u201cto seize, take\u201d); Middle English lacchen (\"to catch\"; > Modern English latch), from Old English l\u00e6\u010b\u010ban.\nThe verb became irregular, possibly under the influence of the semantically similar latch (from Old English l\u00e6\u010b\u010ban) whose past tense was lahte, lauhte, laught (Old English l\u00e6hte) until becoming regularised in Modern English.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#catch (countable and uncountable, plural catches)",
+                            "(countable) The act of seizing or capturing.",
+                            "(countable) The act of catching an object in motion, especially a ball.",
+                            "(countable) The act of noticing, understanding or hearing.",
+                            "(uncountable) The game of catching a ball.",
+                            "(countable) Something which is captured or caught.",
+                            "(countable, colloquial, by extension) A find, in particular a boyfriend or girlfriend or prospective spouse.",
+                            "(countable) A stopping mechanism, especially a clasp which stops something from opening.",
+                            "(countable) A hesitation in voice, caused by strong emotion.",
+                            "(countable, sometimes  noun adjunct) A concealed difficulty, especially in a deal or negotiation.",
+                            "(countable) A crick; a sudden muscle pain during unaccustomed positioning when the muscle is in use.",
+                            "(countable) A fragment of music or poetry.",
+                            "(obsolete) A state of readiness to capture or seize; an ambush.",
+                            "(countable, agriculture) A crop which has germinated and begun to grow.",
+                            "(obsolete) A type of strong boat, usually having two masts; a ketch.",
+                            "(countable, music) A type of humorous round in which the voices gradually catch up with one another; usually sung by men and often having bawdy lyrics.",
+                            "(countable, music) The refrain; a line or lines of a song which are repeated from verse to verse.",
+                            "(countable, cricket, baseball) The act of catching a hit ball before it reaches the ground, resulting in an out.",
+                            "(countable, cricket) A player in respect of his catching ability; particularly one who catches well.",
+                            "(countable, rowing) The first contact of an oar with the water.",
+                            "(countable, phonetics) A stoppage of breath, resembling a slight cough.",
+                            "Passing opportunities seized; snatches.",
+                            "A slight remembrance; a trace."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(act of capturing): seizure, capture, collar, snatch",
+                                    "(the act of catching a ball): grasp, snatch",
+                                    "(act of noticing): observation",
+                                    "(a find): prize, find; conquest, beau",
+                                    "(quantity captured): haul, take",
+                                    "(stopping mechanism): stop, chock; clasp, hasp, latch",
+                                    "(hidden difficulty): snag, problem; trick, gimmick, hitch",
+                                    "(fragment of music): snatch, fragment; snippet, bit",
+                                    "(refrain): chorus, refrain, burden"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The catch of the perpetrator was the product of a year of police work."
+                            },
+                            {
+                                "index": 1,
+                                "text": "The player made an impressive catch."
+                            },
+                            {
+                                "index": 1,
+                                "text": "Nice catch!"
+                            },
+                            {
+                                "index": 2,
+                                "text": "Good catch. I never would have remembered that."
+                            },
+                            {
+                                "index": 3,
+                                "text": "The kids love to play catch."
+                            },
+                            {
+                                "index": 4,
+                                "text": "The fishermen took pictures of their catch."
+                            },
+                            {
+                                "index": 4,
+                                "text": "The catch amounted to five tons of swordfish."
+                            },
+                            {
+                                "index": 5,
+                                "text": "Did you see his latest catch?"
+                            },
+                            {
+                                "index": 5,
+                                "text": "He's a good catch."
+                            },
+                            {
+                                "index": 6,
+                                "text": "She installed a sturdy catch to keep her cabinets closed tight."
+                            },
+                            {
+                                "index": 7,
+                                "text": "There was a catch in his voice when he spoke his father's name."
+                            },
+                            {
+                                "index": 8,
+                                "text": "It sounds like a great idea, but what's the catch?"
+                            },
+                            {
+                                "index": 8,
+                                "text": "Be careful, that's a catch question."
+                            },
+                            {
+                                "index": 9,
+                                "text": "I bent over to see under the table and got a catch in my side."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#catch (third-person singular simple present catches, present participle catching, simple past and past participle caught)",
+                            [
+                                "(heading) To capture, overtake.",
+                                "(transitive) To capture or snare (someone or something which would rather escape). [from 13thc.]",
+                                "(transitive) To entrap or trip up a person; to deceive. [from 14thc.]",
+                                "(transitive, figurative, dated) To marry or enter into a similar relationship with.",
+                                "(transitive) To reach (someone) with a strike, blow, weapon etc. [from 16thc.]",
+                                "(transitive) To overtake or catch up to; to be in time for. [from 17thc.]",
+                                "(transitive) To unpleasantly discover unexpectedly; to unpleasantly surprise (someone doing something). [from 17thc.]",
+                                "(transitive) To travel by means of. [from 19thc.]",
+                                "(transitive, rare) To become pregnant. (Only in past tense or as participle.) [from 19thc.]"
+                            ],
+                            [
+                                "(heading) To seize hold of.",
+                                "(transitive, dated) To grab, seize, take hold of. [from 13thc.]",
+                                "(transitive) To take or replenish something necessary, such as breath or sleep. [from 14thc.]",
+                                "(transitive) To grip or entangle. [from 17thc.]",
+                                "(intransitive) To be held back or impeded.",
+                                "(intransitive) To engage with some mechanism; to stick, to succeed in interacting with something or initiating some process.",
+                                "(transitive) To have something be held back or impeded.",
+                                "(intransitive) To make a grasping or snatching motion (at). [from 17thc.]",
+                                "(transitive) Of fire, to spread or be conveyed to. [from 18thc.]",
+                                "(transitive, rowing) To grip (the water) with one's oars at the beginning of the stroke. [from 19thc.]",
+                                "(intransitive, agriculture) To germinate and set down roots. [from 19thc.]",
+                                "(transitive, surfing) To contact a wave in such a way that one can ride it back to shore.",
+                                "(transitive, computing) To handle an exception. [from 20thc.]"
+                            ],
+                            [
+                                "(heading) To intercept.",
+                                "(transitive) To seize or intercept an object moving through the air (or, sometimes, some other medium). [from 16thc.]",
+                                "(transitive, now rare) To seize (an opportunity) when it occurs. [from 16thc.]",
+                                "(transitive, cricket) To end a player's innings by catching a hit ball before the first bounce. [from 18thc.]",
+                                "(transitive, intransitive, baseball) To play (a specific period of time) as the catcher. [from 19thc.]"
+                            ],
+                            [
+                                "(heading) To receive (by being in the way).",
+                                "(transitive) To be the victim of (something unpleasant, painful etc.). [from 13thc.]",
+                                "(transitive) To be touched or affected by (something) through exposure. [from 13thc.]",
+                                "(transitive) To be infected by (an illness). [from 16thc.]",
+                                "(intransitive) To spread by infection or similar means.",
+                                "(transitive, intransitive) To receive or be affected by (wind, water, fire etc.). [from 18thc.]",
+                                "(transitive) To acquire, as though by infection; to take on through sympathy or infection. [from 16thc.]",
+                                "(transitive) To be hit by something.",
+                                "(intransitive) To serve well or poorly for catching, especially for catching fish.",
+                                "(intransitive) To get pregnant."
+                            ],
+                            [
+                                "(heading) To take in with one's senses or intellect.",
+                                "(transitive) To grasp mentally: perceive and understand. [from 16thc.]",
+                                "(transitive, informal) To take in; to watch or listen to (an entertainment). [from 20thc.]",
+                                "(transitive) To reproduce or echo a spirit or idea faithfully. [from 17thc.]"
+                            ],
+                            [
+                                "(heading) To seize attention, interest.",
+                                "(transitive) To charm or entrance. [from 14thc.]",
+                                "(transitive) To attract and hold (a faculty or organ of sense). [from 17thc.]"
+                            ],
+                            "(heading) To obtain or experience"
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(seize in motion): fang, snatch, grab",
+                                    "(capture prey): capture, take; snare, hook",
+                                    "(be hit): take, get"
+                                ]
+                            },
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "drop, release"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 1,
+                                "text": "I hope I catch a fish.\u2003 He ran but we caught him at the exit.\u2003 The police caught the robber at a nearby casino."
+                            },
+                            {
+                                "index": 4,
+                                "text": "If he catches you on the chin, you'll be on the mat."
+                            },
+                            {
+                                "index": 5,
+                                "text": "If you leave now you might catch him.\u2003 I would love to have dinner but I have to catch a plane."
+                            },
+                            {
+                                "index": 6,
+                                "text": "He was caught on video robbing the bank.\u2003 He was caught in the act of stealing a biscuit."
+                            },
+                            {
+                                "index": 7,
+                                "text": "catch the bus"
+                            },
+                            {
+                                "index": 10,
+                                "text": "I caught her by the arm and turned her to face me."
+                            },
+                            {
+                                "index": 11,
+                                "text": "I have to stop for a moment and catch my breath.\u2003 I caught some Z's on the train."
+                            },
+                            {
+                                "index": 12,
+                                "text": "My leg was caught in a tree-root."
+                            },
+                            {
+                                "index": 13,
+                                "text": "Be careful your dress doesn't catch on that knob.\u2003 His voice caught when he came to his father's name."
+                            },
+                            {
+                                "index": 14,
+                                "text": "Push it in until it catches.\u2003 The engine finally caught and roared to life."
+                            },
+                            {
+                                "index": 15,
+                                "text": "I caught my heel on the threshold."
+                            },
+                            {
+                                "index": 16,
+                                "text": "He caught at the railing as he fell."
+                            },
+                            {
+                                "index": 17,
+                                "text": "The fire spread slowly until it caught the eaves of the barn."
+                            },
+                            {
+                                "index": 19,
+                                "text": "The seeds caught and grew."
+                            },
+                            {
+                                "index": 21,
+                                "text": "When the program catches an exception, this is recorded in the log file."
+                            },
+                            {
+                                "index": 23,
+                                "text": "I will throw you the ball, and you catch it.\u2003 Watch me catch this raisin in my mouth."
+                            },
+                            {
+                                "index": 25,
+                                "text": "Townsend hit 29 before he was caught by Wilson."
+                            },
+                            {
+                                "index": 26,
+                                "text": "He caught the last three innings."
+                            },
+                            {
+                                "index": 28,
+                                "text": "You're going to catch a beating if they find out."
+                            },
+                            {
+                                "index": 29,
+                                "text": "The sunlight caught the leaves and the trees turned to gold.\u2003 Her hair was caught by the light breeze."
+                            },
+                            {
+                                "index": 30,
+                                "text": "Everyone seems to be catching the flu this week."
+                            },
+                            {
+                                "index": 32,
+                                "text": "The bucket catches water from the downspout.\u2003 The trees caught quickly in the dry wind."
+                            },
+                            {
+                                "index": 33,
+                                "text": "She finally caught the mood of the occasion."
+                            },
+                            {
+                                "index": 34,
+                                "text": "He caught a bullet in the back of the head last year."
+                            },
+                            {
+                                "index": 36,
+                                "text": "Well, if you didn't catch this time, we'll have more fun trying again until you do."
+                            },
+                            {
+                                "index": 38,
+                                "text": "Did you catch his name?\u2003 Did you catch the way she looked at him?"
+                            },
+                            {
+                                "index": 39,
+                                "text": "I have some free time tonight so I think I'll catch a movie."
+                            },
+                            {
+                                "index": 40,
+                                "text": "You've really caught his determination in this sketch."
+                            },
+                            {
+                                "index": 43,
+                                "text": "He managed to catch her attention.\u2003 The enormous scarf did catch my eye."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: k\u0103ch, IPA: /k\u00e6t\u0361\u0283/",
+                        "(US) enPR: k\u0103ch, k\u0115ch, IPA: /k\u00e6t\u0361\u0283/, /k\u025bt\u0361\u0283/",
+                        "Noah Webster's American Dictionary (1828) regards /k\u025bt\u0283/ as the \"popular or common pronunciation.\" It is labeled \"not infreq[uent]\" in Kenyon & Knott (1949).",
+                        "Rhymes: -\u00e6t\u0283, -\u025bt\u0283"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "trip up": [
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#trip up (third-person singular simple present trips up, present participle tripping up, simple past and past participle tripped up)",
+                            "(intransitive) To commit an error, make a mistake.",
+                            "(transitive) To cause (someone) to commit an error, trick into a mistake.",
+                            "(intransitive) To fall or stumble.",
+                            "(transitive) To cause (someone) to fall or stumble."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "error": [
+            {
+                "etymology": "From Anglo-Norman errour, from Old French error, from Latin error (\u201cwandering about\u201d), infinitive of err\u014d (\u201cto wander, to err\u201d). Cognate with Gothic \ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf36\ud800\udf34\ud800\udf39 (airzei, \u201cerror\u201d), Gothic \ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf36\ud800\udf3e\ud800\udf30\ud800\udf3d (airzjan, \u201cto lead astray\u201d). More at err.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#error (countable and uncountable, plural errors)",
+                            "(uncountable) The state, quality, or condition of being wrong.",
+                            "(countable) A mistake; an accidental wrong action or a false statement not made deliberately.",
+                            "(countable, uncountable) Sin; transgression.",
+                            "(computing, countable) A failure to complete a task, usually involving a premature termination.",
+                            "(statistics, countable) The difference between a measured or calculated value and a true one.",
+                            "(baseball, countable) A play which is scored as having been made incorrectly.",
+                            "(appellate  law, uncountable) One or more mistakes in a trial that could be grounds for review of the judgement.",
+                            "Any alteration in the DNA chemical structure occurring during DNA replication, recombination or repairing."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(state of being wrong): wrength",
+                                    "(a mistake): blooper, blunder, boo-boo, defect, fault, faux pas, fluff, flub, fumble, gaffe, lapse, mistake, slip, stumble, thinko",
+                                    "See also Thesaurus:error"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "absolute error",
+                                    "compass error",
+                                    "conjunctive error",
+                                    "measurement error",
+                                    "round-off error",
+                                    "sampling error",
+                                    "separative error",
+                                    "spelling error",
+                                    "syntax error",
+                                    "typographical error",
+                                    "unforced error"
+                                ]
+                            },
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "comedy of errors",
+                                    "err",
+                                    "errant",
+                                    "erroneous",
+                                    "erroneously",
+                                    "error bar",
+                                    "error catastrophe",
+                                    "error correction",
+                                    "error handler",
+                                    "error handling",
+                                    "error in judgement",
+                                    "error in judgment",
+                                    "error message",
+                                    "error of judgement",
+                                    "error of judgment",
+                                    "in error",
+                                    "margin of error",
+                                    "plaintiff in error",
+                                    "trial and error"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#error (third-person singular simple present errors, present participle erroring, simple past and past participle errored)",
+                            "(computing) To function improperly due to an error, especially accompanied by error message.",
+                            "(telecommunications) To show or contain an error or fault.",
+                            "(nonstandard) To err."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "err"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The web-page took a long time to load and errored out."
+                            },
+                            {
+                                "index": 0,
+                                "text": "Remove that line of code and the script should stop erroring there."
+                            },
+                            {
+                                "index": 0,
+                                "text": "This directory errors with a \"Permission denied\" message."
+                            },
+                            {
+                                "index": 1,
+                                "text": "The block transmission errored near the start and could not be received."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(UK) enPR: \u0115r'\u0259(r), IPA: /\u02c8\u025b\u0279\u0259(\u0279)/",
+                        "(US) IPA: /\u02c8\u025b\u0279\u025a/",
+                        "(some accents) IPA: /\u02c8\u025b\u025a/",
+                        "Rhymes: -\u025br\u0259(r)",
+                        "Hyphenation: error",
+                        "Homophone: era (in non-rhotic US pronunciations)",
+                        "Homophones: air, e'er, ere, heir (in some US pronunciations)",
+                        "Homophone: err (in some US pronunciations)"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "true": [
+            {
+                "etymology": "From Middle English trewe, from Old English tr\u012bewe, (Mercian) tr\u0113owe (\u201ctrusty, faithful\u201d), from Proto-Germanic *triwwiz (compare Saterland Frisian trjou (\u201chonest\u201d), Dutch getrouw and trouw, German treu, Norwegian and Swedish trygg (\u201csafe, secure\u2019\u201d), from pre-Germanic *drewh\u2082yos, from Proto-Indo-European *drewh\u2082- (\u201csteady, firm\u201d) (compare Irish dearbh (\u201csure\u201d), Old Prussian druwis (\u201cfaith\u201d), Ancient Greek \u03b4\u03c1\u03bf\u03cc\u03bd (dro\u00f3n, \u201cfirm\u201d)), extension of *d\u00f3ru (\u201ctree\u201d). More at tree.\nFor the semantic development, compare Latin robustus (\u201ctough\u201d) from robur (\u201cred oak\u201d).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#true (comparative truer or more true, superlative truest or most true)",
+                            "(of a statement) Conforming to the actual state of reality or fact; factually correct.",
+                            "Conforming to a rule or pattern; exact; accurate.",
+                            "(logic) Of the state in Boolean logic that indicates an affirmative or positive result.",
+                            "Loyal, faithful.",
+                            "Genuine; legitimate.",
+                            "Used in the designation of group of species, or sometimes a single species, to indicate that it belongs to the clade its common name (which may be more broadly scoped in common speech) is restricted to in technical speech, or to distinguish it from a similar species, the latter of which may be called false.",
+                            "(of an aim or missile in archery, shooting, golf, etc.) Accurate; following a path toward the target.",
+                            "(chiefly probability) Fair, unbiased, not loaded.",
+                            "(Of a literary genre) based on actual historical events."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "(of a statement, logic, loyal): false",
+                                    "untrue"
+                                ]
+                            },
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "truth"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "This is a true story."
+                            },
+                            {
+                                "index": 1,
+                                "text": "a true copy; \u00a0 a true likeness of the original"
+                            },
+                            {
+                                "index": 2,
+                                "text": "\"A and B\" is true if and only if \"A\" is true and \"B\" is true."
+                            },
+                            {
+                                "index": 3,
+                                "text": "He\u2019s turned out to be a true friend."
+                            },
+                            {
+                                "index": 4,
+                                "text": "This is true Parmesan cheese."
+                            },
+                            {
+                                "index": 4,
+                                "text": "The true king has returned!"
+                            },
+                            {
+                                "index": 5,
+                                "text": "true sparrows "
+                            },
+                            {
+                                "index": 5,
+                                "text": "true spiders"
+                            },
+                            {
+                                "index": 5,
+                                "text": "true blusher "
+                            },
+                            {
+                                "index": 8,
+                                "text": "true crimetrue romance"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "adverb",
+                        "text": [
+                            "#true (not comparable)",
+                            "(of shooting, throwing etc) Accurately."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "this gun shoots true"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#true (countable and uncountable, plural trues)",
+                            "(uncountable) The state of being in alignment.",
+                            "(uncountable, obsolete) Truth.",
+                            "(countable, obsolete) A pledge or truce."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#true (third-person singular simple present trues, present participle trueing or truing, simple past and past participle trued)",
+                            "To straighten.",
+                            "To make even, level, symmetrical, or accurate, align; adjust."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "He trued the spokes of the bicycle wheel."
+                            },
+                            {
+                                "index": 1,
+                                "text": "We spent all night truing up the report."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(UK) IPA: /t\u0279u\u02d0/",
+                        "(US) enPR: tr\u014d\u014d IPA: /t\u0279u/, [t\u0361\u0283\u0279\u00fc]",
+                        "(archaic) IPA: /t\u0279ju\u02d0/",
+                        "(now dialectal) IPA: /t\u0279\u026a\u028a\u032f/",
+                        "Rhymes: -u\u02d0"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "golf": [
+            {
+                "etymology": "The word is first known in English from the 15th century from Scots. Although the etymology is uncertain, the most likely origin is that it comes from the Middle Dutch colve, colf (\u201cclub\u201d), ultimately from Proto-Germanic *kulb\u00f4 (\u201cclub\u201d), related to German Kolben (\u201cpiston, rod\u201d), Swedish kolv (\u201cpiston, rod\u201d), Old English clopp (\u201crock; cliff\u201d).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#golf (uncountable)",
+                            "(sports) A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
+                            "The letter G in the ICAO spelling alphabet."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#golf (third-person singular simple present golfs, present participle golfing, simple past and past participle golfed)",
+                            "(intransitive) To play the game of golf.",
+                            "(computing) To write something in as few characters as possible (e.g. in code golf, regex golf)"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(Received Pronunciation) IPA: /\u0261\u0252lf/",
+                        "(Conservative RP) IPA: /\u0261\u0252f/",
+                        "(General American) IPA: /\u0261\u0251lf/, /\u0261\u0254lf/",
+                        "Rhymes: -\u0252lf"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "wave": [
+            {
+                "etymology": "From Middle English waven, from Old English wafian (\u201cto wave, fluctuate, waver in mind, wonder\u201d), from Proto-Germanic *wab\u014dn\u0105, *wabjan\u0105 (\u201cto wander, sway\u201d), from Proto-Indo-European *web\u02b0- (\u201cto move to and from, wander\u201d). Cognate with Middle High German waben (\u201cto wave\u201d), German wabern (\u201cto waft\u201d), Icelandic v\u00e1fa (\u201cto fluctuate, waver, doubt\u201d). See also waver.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#wave (third-person singular simple present waves, present participle waving, simple past and past participle waved)",
+                            "(intransitive) To move back and forth repeatedly and somewhat loosely.",
+                            "(intransitive) To move one\u2019s hand back and forth (generally above the head) in greeting or departure.",
+                            "(transitive, metonymically) To call attention to, or give a direction or command to, by a waving motion, as of the hand; to signify by waving; to beckon; to signal; to indicate.",
+                            "(intransitive) To have an undulating or wavy form.",
+                            "(transitive) To raise into inequalities of surface; to give an undulating form or surface to.",
+                            "(transitive) To produce waves to the hair.",
+                            "(intransitive, baseball) To swing and miss at a pitch.",
+                            "(transitive) To cause to move back and forth repeatedly.",
+                            "(transitive, metonymically) To signal (someone or something) with a waving movement.",
+                            "(intransitive, obsolete) To fluctuate; to waver; to be in an unsettled state.",
+                            "(intransitive, ergative) To move like a wave, or by floating; to waft."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "wave off"
+                                ]
+                            },
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "wave the white flag"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The flag waved in the gentle breeze."
+                            },
+                            {
+                                "index": 2,
+                                "text": "I waved goodbye from across the room."
+                            },
+                            {
+                                "index": 6,
+                                "text": "Jones waves at strike one."
+                            },
+                            {
+                                "index": 7,
+                                "text": "The starter waved the flag to begin the race."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: w\u0101v, IPA: /we\u026av/",
+                        "Homophone: waive",
+                        "Rhymes: -e\u026av"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English *wave, partially from waven (\u201cto fluctuate, wave\u201d) (see above) and partially from Middle English wawe, waghe (\u201cwave\u201d), from Old English w\u01e3g (\u201ca wave, billow, motion, water, flood, sea\u201d), from Proto-Germanic *w\u0113gaz (\u201cmotion, storm, wave\u201d), from Proto-Indo-European *we\u01f5\u02b0- (\u201cto drag, carry\u201d). Cognate with North Frisian weage (\u201cwave, flood, sea\u201d), German Woge (\u201cwave\u201d), French vague (\u201cwave\u201d) (from Germanic), Gothic \ud800\udf45\ud800\udf34\ud800\udf32\ud800\udf43 (w\u0113gs, \u201ca wave\u201d). See also waw.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#wave (plural waves)",
+                            "A moving disturbance in the level of a body of liquid; an undulation.",
+                            "(poetic) The ocean.",
+                            "(physics) A moving disturbance in the energy level of a field.",
+                            "A shape that alternatingly curves in opposite directions.",
+                            "Any of a number of species of moths in the geometrid subfamily Sterrhinae, which have wavy markings on the wings.",
+                            "A loose back-and-forth movement, as of the hands.",
+                            "(figurative) A sudden unusually large amount of something that is temporarily experienced.\nSynonym: rush",
+                            "(video games, by extension) One of the successive swarms of enemies sent to attack the player in certain games.",
+                            "(usually \"the wave\") A group activity in a crowd imitating a wave going through water, where people in successive parts of the crowd stand and stretch upward, then sit."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(an undulation): und (obsolete, rare)",
+                                    "(group activity): Mexican wave (chiefly Commonwealth)"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "longwave, long wave",
+                                    "mediumwave, medium wave",
+                                    "shortwave, short wave",
+                                    "cosine wave",
+                                    "electromagnetic wave",
+                                    "Elliott wave",
+                                    "episodic wave",
+                                    "gamma wave",
+                                    "gravitational wave",
+                                    "gravity-inertia wave",
+                                    "harmonic wave",
+                                    "incident wave",
+                                    "Kelvin wave",
+                                    "light wave",
+                                    "longitudinal wave",
+                                    "magnetic wave",
+                                    "mechanical wave",
+                                    "metachronal wave",
+                                    "Mexican wave",
+                                    "modulated wave",
+                                    "new wave",
+                                    "ocean wave",
+                                    "plane wave",
+                                    "radio wave",
+                                    "rogue wave",
+                                    "sea wave",
+                                    "seismic wave",
+                                    "shock wave",
+                                    "sine wave",
+                                    "sinusoidal wave",
+                                    "sound wave",
+                                    "standing wave",
+                                    "transverse wave",
+                                    "wind wave"
+                                ]
+                            },
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "first-wave feminism",
+                                    "fourth-wave feminism",
+                                    "Gaussian wave packet",
+                                    "make waves",
+                                    "matter waves",
+                                    "no wave",
+                                    "second-wave feminism",
+                                    "third-wave feminism",
+                                    "wave equation",
+                                    "wave field synthesis",
+                                    "wave form",
+                                    "wave function",
+                                    "wave mechanics",
+                                    "wave motion",
+                                    "wave node",
+                                    "wave number",
+                                    "wave packet",
+                                    "wave-particle duality",
+                                    "wave reflection",
+                                    "wave ski",
+                                    "wavetable",
+                                    "wave theory",
+                                    "wave train",
+                                    "wave vector"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The wave traveled from the center of the lake before breaking on the shore."
+                            },
+                            {
+                                "index": 2,
+                                "text": "Gravity waves, while predicted by theory for decades, have been notoriously difficult to detect."
+                            },
+                            {
+                                "index": 3,
+                                "text": "Her hair had a nice wave to it."
+                            },
+                            {
+                                "index": 3,
+                                "text": "sine wave"
+                            },
+                            {
+                                "index": 5,
+                                "text": "He dismissed her with a wave of the hand."
+                            },
+                            {
+                                "index": 6,
+                                "text": "A wave of shoppers stampeded through the door when the store opened for its Christmas discount special."
+                            },
+                            {
+                                "index": 6,
+                                "text": "A wave of retirees began moving to the coastal area."
+                            },
+                            {
+                                "index": 6,
+                                "text": "A wave of emotion overcame her when she thought about her son who was killed in battle."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: w\u0101v, IPA: /we\u026av/",
+                        "Homophone: waive",
+                        "Rhymes: -e\u026av"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "See waive.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#wave (third-person singular simple present waves, present participle waving, simple past and past participle waved)",
+                            "Obsolete spelling of waive"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: w\u0101v, IPA: /we\u026av/",
+                        "Homophone: waive",
+                        "Rhymes: -e\u026av"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "song": [
+            {
+                "etymology": "From Middle English song, sang, from Old English song, sang (\u201cnoise, song, singing, chanting; poetry; a poem to be sung or recited, psalm, lay\u201d), from Proto-Germanic *sangwaz (\u201csinging, song\u201d), from Proto-Indo-European *seng\u02b7\u02b0- (\u201cto sing\u201d). Cognate with Scots sang, song (\u201csinging, song\u201d), Saterland Frisian Song (\u201csong\u201d), West Frisian sang (\u201csong\u201d), Dutch zang (\u201csong\u201d), Low German sang (\u201csong\u201d), German Sang (\u201csinging, song\u201d), Swedish s\u00e5ng (\u201csong\u201d), Norwegian Bokm\u00e5l sang (\u201csong\u201d), Norwegian Nynorsk song (\u201csong\u201d), Icelandic s\u00f6ngur (\u201csong\u201d), Ancient Greek \u1f40\u03bc\u03c6\u03ae (omph\u1e17, \u201cvoice, oracle\u201d). More at sing.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#song (plural songs)",
+                            "A musical composition with lyrics for voice or voices, performed by singing.",
+                            "(by extension) Any musical composition.",
+                            "Poetical composition; poetry; verse.",
+                            "The act or art of singing.",
+                            "A melodious sound made by a bird, insect, whale or other animal.",
+                            "(ornithology) The distinctive sound that a male bird utters to attract a mate or to protect his territory; contrasts with call",
+                            "Something that costs only a little; chiefly in for a song.",
+                            "An object of derision; a laughing stock."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Thomas listened to his favorite song on the radio yesterday."
+                            },
+                            {
+                                "index": 4,
+                                "text": "I love hearing the song of canary birds."
+                            },
+                            {
+                                "index": 6,
+                                "text": "He bought that car for a song."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(UK) IPA: /s\u0252\u014b/",
+                        "(US) IPA: /s\u0254\u014b/, /s\u0251\u014b/",
+                        "Rhymes: -\u0252\u014b"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "a": [
+            {
+                "etymology": "From Middle English and Old English lower case letter a and split of Middle English and Old English lower case letter \u00e6.\n Old English lower case letter a from 7th century replacement by Latin lower case letter a of the Anglo-Saxon Futhorc letter \u16aa (a, \u201c\u0101c\u201d), derived from Runic letter \u16ab (a, \u201cAnsuz\u201d).\n Old English lower case letter \u00e6 from 7th century replacement by Latin lower case ligature \u00e6 of the Anglo-Saxon Futhorc letter \u16ab (\u00e6, \u201c\u00e6sc\u201d), also derived from Runic letter \u16ab (a, \u201cAnsuz\u201d).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "letter",
+                        "text": [
+                            "#a (lower case, upper case A, plural a's)",
+                            "The first letter of the English alphabet, called a and written in the Latin script."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "numeral",
+                        "text": [
+                            "#a (lower case, upper case A)",
+                            "The ordinal number first, derived from this letter of the English alphabet, called a and written in the Latin script."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#a (plural aes)",
+                            "The name of the Latin script letter A/a."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English a, from Old English \u0101n (\u201cone; a; lone; sole\u201d). The \"n\" was gradually lost before consonants in almost all dialects by the 15th century.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "article",
+                        "text": [
+                            "#a (indefinite)",
+                            "One; any indefinite example of; used to denote a singular item of a group. [First attested prior to 1150]",
+                            "Used in conjunction with the adjectives score, dozen, hundred, thousand, and million, as a function word.",
+                            "One certain or particular; any single. [First attested between around 1150 and 1350]",
+                            "The same; one. [16th Century]",
+                            "Any, every; used before a noun which has become modified to limit its scope; also used with a negative to indicate not a single one.",
+                            "Used before plural nouns modified by few, good many, couple, great many, etc.",
+                            "Someone or something like; similar to; Used before a proper noun to create an example out of it."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "There was a man here looking for you yesterday."
+                            },
+                            {
+                                "index": 1,
+                                "text": "I've seen it happen a hundred times."
+                            },
+                            {
+                                "index": 2,
+                                "text": "We've received an interesting letter from a Mrs. Miggins of London."
+                            },
+                            {
+                                "index": 3,
+                                "text": "We are of a mind on matters of morals."
+                            },
+                            {
+                                "index": 4,
+                                "text": "A man who dies intestate leaves his children troubles and difficulties."
+                            },
+                            {
+                                "index": 4,
+                                "text": "He fell all that way, and hasn't a bump on his head?"
+                            },
+                            {
+                                "index": 6,
+                                "text": "The center of the village was becoming a Times Square."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English a, o, from Old English a-, an, on.\nUnstressed form of on.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "preposition",
+                        "text": [
+                            "#a",
+                            "(archaic) To do with position or direction; In, on, at, by, towards, onto. [First attested before 1150]",
+                            "To do with separation; In, into. [First attested before 1150]",
+                            "To do with time; Each, per, in, on, by. [First attested before 1150]",
+                            "(obsolete) To do with method; In, with. [First attested before 1150]",
+                            "(obsolete) To do with role or capacity; In. [First attested before 1150]",
+                            "To do with status; In. [First attested before 1150]",
+                            "(archaic) To do with process, with a passive verb; In the course of, experiencing. [First attested before 1150]",
+                            "(archaic) To do with an action, an active verb; Engaged in. [16th century]",
+                            "(archaic) To do with an action/movement; To, into. [16th century]"
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Stand a tiptoe."
+                            },
+                            {
+                                "index": 1,
+                                "text": "Torn a pieces."
+                            },
+                            {
+                                "index": 2,
+                                "text": "I brush my teeth twice a day."
+                            },
+                            {
+                                "index": 4,
+                                "text": "A God\u2019s name."
+                            },
+                            {
+                                "index": 5,
+                                "text": "King James Bible \nTo set the people a worke."
+                            },
+                            {
+                                "index": 9,
+                                "text": "To set the people a worke."
+                            },
+                            {
+                                "index": 6,
+                                "text": "1964, Bob Dylan, The Times They Are a-Changin\u2019The times, they are a-changin'."
+                            },
+                            {
+                                "index": 9,
+                                "text": "The times, they are a-changin'."
+                            },
+                            {
+                                "index": 7,
+                                "text": "1611, King James Bible, Hebrews 11-21\nJacob, when he was a dying"
+                            },
+                            {
+                                "index": 9,
+                                "text": "Jacob, when he was a dying"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English a, ha contraction of have, or haven.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#a",
+                            "(archaic or slang) Have. [between 1150 and 1350, continued in some use until 1650; used again after 1950]"
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "I'd a come, if you'd a asked."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English a, a reduced form of he (\u201che\u201d)/ha (\u201che\u201d), heo (\u201cshe\u201d)/ha (\u201cshe\u201d) and ha (\u201cit\u201d) (as well as of hie, hie (\u201cthey\u201d)).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "pronoun",
+                        "text": [
+                            "#a",
+                            "(obsolete outside England and Scotland dialects) He, or sometimes she, it. [1150-1900] (clarification of this definition is needed)"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Variant spelling of ah.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "interjection",
+                        "text": [
+                            "#a",
+                            "A meaningless syllable: ah."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Middle English of, with apocope of the final f and vowel reduction.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "preposition",
+                        "text": [
+                            "#a",
+                            "(archaic or slang) Of."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The name of John a Gaunt."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "From Northern Middle English aw, alteration of all.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adverb",
+                        "text": [
+                            "#a (not comparable)",
+                            "(chiefly Scotland) All. [First attested from 1350 to 1470.]"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#a (not comparable)",
+                            "(chiefly Scotland) All. [First attested from 1350 to 1470.]"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Symbols",
+                "definitions": [
+                    {
+                        "partOfSpeech": "symbol",
+                        "text": [
+                            "#a",
+                            "Distance from leading edge to aerodynamic center.",
+                            "specific absorption coefficient",
+                            "specific rotation",
+                            "allele (recessive)"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adverb",
+                        "text": [
+                            "#a",
+                            "(crosswords) across"
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Do you have the answer for 23a?"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "particle",
+                        "text": [
+                            "#a",
+                            "Alternative form of -a (\u201cempty syllable added to songs, poetry, verse and other speech\u201d)"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
+                        "(UK, US) IPA: /e\u026a/",
+                        "(General Australian) IPA: /\u00e6\u026a/",
+                        "Rhymes: -e\u026a",
+                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
+                        "(stressed) IPA: /e\u026a/",
+                        "(unstressed) IPA: /\u0259/",
+                        "Homophone: her (non-rhotic, unstressed)",
+                        "IPA: /\u0259/",
+                        "IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0259/",
+                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
+                        "IPA: /\u0259/, /\u0251\u02d0/",
+                        "(US) IPA: /\u0259/",
+                        "(Received Pronunciation) IPA: /\u0254/"
+                    ],
+                    "audio": []
+                }
+            }
+        ]
+    }
+}

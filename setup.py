@@ -10,7 +10,7 @@ setup(
   long_description = long_desc,
   long_description_content_type='text/markdown',
   packages = ['wiktionaryparser', 'tests'],
-  data_files=[('testOutput', ['tests/testOutput.json']), ('readme', ['readme.md']), ('requirements', ['requirements.txt'])],
+  data_files=[('testOutput', ['tests/test_fetch_output.json', 'tests/test_pack_output.json']), ('readme', ['readme.md']), ('requirements', ['requirements.txt'])],
   author = 'Suyash Behera',
   author_email = 'sne9x@outlook.com',
   url = 'https://github.com/Suyash458/WiktionaryParser', 
