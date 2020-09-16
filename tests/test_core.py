@@ -16,25 +16,21 @@ html_test_files_dir = os.path.join(tests_dir, 'html_test_files')
 markup_test_files_dir = os.path.join(tests_dir, 'markup_test_files')
 
 test_words = [
-    ('ἀγγελία', 47719496, ['Ancient Greek']),
-    ('grapple', 50080840, ['English']),
-    ('test', 50342756, ['English']),
-    ('patronise', 49023308, ['English']),
-    ('abiologically', 43781266, ['English']),
-    ('alexin', 50152026, ['English']),
-    ('song', 50235564, ['English']),
-    ('house', 50356446, ['English']),
-    ('video', 50291344, ['Latin']),
-    ('seg', 50359832, ['Norwegian Bokmål']),
-    ('aldersblandet', 38616917, ['Norwegian Bokmål']),
-    ('by', 50399022, ['Norwegian Bokmål']),
-    ('for', 50363295, ['Norwegian Bokmål']),
-    ('admiral', 50357597, ['Norwegian Bokmål']),
-    ('heis', 49469949, ['Norwegian Bokmål']),
-    ('konkurs', 48269433, ['Norwegian Bokmål']),
-    ('pantergaupe', 46717478, ['Norwegian Bokmål']),
-    ('maldivisk', 49859434, ['Norwegian Bokmål']),
-    ('house', 50356446, ['Swedish'])
+    ('grapple', 60361156, ['en']),
+    ('cat', 60300266, ['en']),
+    ('dog', 60355953, ['en']),
+    ('test', 60380981, ['en']),
+    ('house', 60395574, ['en']),
+    ('game', 60329229, ['en']),
+    ('line', 60329678, ['en']),
+    ('catch', 60198254, ['en']),
+    ('trip up', 59323170, ['en']),
+    ('error', 60354714, ['en']),
+    ('true', 60221581, ['en']),
+    ('golf', 60185260, ['en']),
+    ('wave', 60213185, ['en']),
+    ('song', 60388804, ['en']),
+    ('a', 60361249, ['en']),
 ]
 
 
@@ -96,7 +92,7 @@ class TestParser(unittest.TestCase):
 
         if diff != {}:
             print("Found mismatch in \"{}\" in \"{}\"".format(word, lang))
-            print(json.dumps(json.loads(diff.json), indent=4))
+            print(json.dumps(json.loads(diff.to_json()), indent=4))
             print("Actual result:")
             print(json.dumps(fetched_word, indent=4))
 
