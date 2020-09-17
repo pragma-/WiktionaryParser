@@ -132,6 +132,14 @@ class WiktionaryParser(object):
                 start_index = content.find_previous().text + '.'
         if len(contents) != 0 and not start_index:
             return []
+        if len(contents) == 0:
+            headlines = self.soup.find_all("span", {"class": "mw-headline"})
+            did_find_language = False
+            for headline in headlines:
+                if headline.text.lower() == language:
+                    did_find_language = True
+            if not did_find_language:
+                return []
         included_items = [self.translate(item) for item in self.INCLUDED_ITEMS]
         for content in contents:
             index = content.find_previous().text
