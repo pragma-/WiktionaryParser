@@ -32,7 +32,7 @@
                         [
                             "A tool with claws or hooks which is used to catch or hold something.",
                             "(nautical) A device consisting of iron claws, attached to the end of a rope, used for grasping and holding an enemy ship prior to boarding; a grappling iron.",
-                            "(nautical) A grapnel (\u201ctype of anchor\u201d)."
+                            "(nautical) A grapnel (“type of anchor”)."
                         ]
                     ]
                 },
@@ -200,7 +200,7 @@
                         {
                             "text": "(slang, derogatory) A dull, unattractive girl or woman.",
                             "examples": [
-                                "She\u2019s a real dog."
+                                "She’s a real dog."
                             ]
                         },
                         {
@@ -237,7 +237,7 @@
                         {
                             "text": "(slang, almost always  in the plural) Foot.",
                             "examples": [
-                                "My dogs are barking! \u2015 My feet hurt!"
+                                "My dogs are barking! ― My feet hurt!"
                             ]
                         },
                         {
@@ -296,7 +296,7 @@
                         "A cupel or cupelling hearth in which precious metals are melted for trial and refinement.",
                         "(academia) An examination, given often during the academic term.",
                         "A session in which a product or piece of equipment is examined under everyday or extreme conditions to evaluate its durability, etc.",
-                        "(cricket, normally \u201cTest\u201d) A Test match.",
+                        "(cricket, normally “Test”) A Test match.",
                         "(marine biology) The external calciferous shell, or endoskeleton, of an echinoderm, e.g. sand dollars and sea urchins.",
                         "(botany) Testa; seed coat.",
                         "(obsolete) Judgment; distinction; discrimination."
@@ -393,7 +393,7 @@
                             {
                                 "text": "A place of public accommodation or entertainment, especially a public house, an inn, a restaurant, a theatre, or a casino; or the management thereof.[from 10th c.]",
                                 "examples": [
-                                    "One more, sir, then I'll have to stop serving you \u2013 rules of the house, I'm afraid.",
+                                    "One more, sir, then I'll have to stop serving you – rules of the house, I'm afraid.",
                                     "The house always wins."
                                 ]
                             },
@@ -438,7 +438,7 @@
                             ]
                         },
                         "(US, dialect) A small stand of trees in a swamp.",
-                        "(sudoku) A set of cells in a Sudoku puzzle which must contain each digit exactly once, such as a row, column, or 3\u00d73 box in classic Sudoku."
+                        "(sudoku) A set of cells in a Sudoku puzzle which must contain each digit exactly once, such as a row, column, or 3×3 box in classic Sudoku."
                     ]
                 }
             ],
@@ -600,7 +600,7 @@
                         "#line (plural lines)",
                         [
                             {
-                                "text": "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight.",
+                                "text": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
                                 "examples": [
                                     "The arrow descended in a curved line."
                                 ]
@@ -609,7 +609,7 @@
                             "(geometry, informal) A line segment; a continuous finite segment of such a figure.\nSynonym: line segment",
                             "(graph theory) An edge of a graph.",
                             "(geography) A circle of latitude or of longitude, as represented on a map.",
-                            "(geography, \u2018the line\u2019 or \u2018equinoctial line\u2019) The equator.",
+                            "(geography, ‘the line’ or ‘equinoctial line’) The equator.",
                             "(music) One of the straight horizontal and parallel prolonged strokes on and between which the notes are placed.",
                             "(cricket) The horizontal path of a ball towards the batsman (see also length).",
                             "(soccer) The goal line."
@@ -633,7 +633,7 @@
                             "text": "The wire connecting one telegraphic station with another, a telephone or internet cable between two points: a telephone or network connection.",
                             "examples": [
                                 "I tried to make a call, but the line was dead.",
-                                "a dedicated line;\u2003 a shared line",
+                                "a dedicated line;  a shared line",
                                 "Please speak up, the line is very faint."
                             ]
                         },
@@ -713,8 +713,8 @@
                             "One fortieth of an inch."
                         ],
                         "(historical) A maxwell, a unit of magnetic flux.",
-                        "(baseball, slang, 1800s, with \"the\") The batter\u2019s box.",
-                        "(fencing, \u2018line of engagement\u2019) The position in which the fencers hold their swords.",
+                        "(baseball, slang, 1800s, with \"the\") The batter’s box.",
+                        "(fencing, ‘line of engagement’) The position in which the fencers hold their swords.",
                         {
                             "text": "(engineering) Proper relative position or adjustment (of parts, not as to design or proportion, but with reference to smooth working).",
                             "examples": [
@@ -910,7 +910,7 @@
                             {
                                 "text": "(transitive) To capture or snare (someone or something which would rather escape). [from 13thc.]",
                                 "examples": [
-                                    "I hope I catch a fish.\u2003 He ran but we caught him at the exit.\u2003 The police caught the robber at a nearby casino."
+                                    "I hope I catch a fish.  He ran but we caught him at the exit.  The police caught the robber at a nearby casino."
                                 ]
                             },
                             "(transitive) To entrap or trip up a person; to deceive. [from 14thc.]",
@@ -924,13 +924,13 @@
                             {
                                 "text": "(transitive) To overtake or catch up to; to be in time for. [from 17thc.]",
                                 "examples": [
-                                    "If you leave now you might catch him.\u2003 I would love to have dinner but I have to catch a plane."
+                                    "If you leave now you might catch him.  I would love to have dinner but I have to catch a plane."
                                 ]
                             },
                             {
                                 "text": "(transitive) To unpleasantly discover unexpectedly; to unpleasantly surprise (someone doing something). [from 17thc.]",
                                 "examples": [
-                                    "He was caught on video robbing the bank.\u2003 He was caught in the act of stealing a biscuit."
+                                    "He was caught on video robbing the bank.  He was caught in the act of stealing a biscuit."
                                 ]
                             },
                             {
@@ -952,7 +952,7 @@
                             {
                                 "text": "(transitive) To take or replenish something necessary, such as breath or sleep. [from 14thc.]",
                                 "examples": [
-                                    "I have to stop for a moment and catch my breath.\u2003 I caught some Z's on the train."
+                                    "I have to stop for a moment and catch my breath.  I caught some Z's on the train."
                                 ]
                             },
                             {
@@ -964,13 +964,13 @@
                             {
                                 "text": "(intransitive) To be held back or impeded.",
                                 "examples": [
-                                    "Be careful your dress doesn't catch on that knob.\u2003 His voice caught when he came to his father's name."
+                                    "Be careful your dress doesn't catch on that knob.  His voice caught when he came to his father's name."
                                 ]
                             },
                             {
                                 "text": "(intransitive) To engage with some mechanism; to stick, to succeed in interacting with something or initiating some process.",
                                 "examples": [
-                                    "Push it in until it catches.\u2003 The engine finally caught and roared to life."
+                                    "Push it in until it catches.  The engine finally caught and roared to life."
                                 ]
                             },
                             {
@@ -1011,7 +1011,7 @@
                             {
                                 "text": "(transitive) To seize or intercept an object moving through the air (or, sometimes, some other medium). [from 16thc.]",
                                 "examples": [
-                                    "I will throw you the ball, and you catch it.\u2003 Watch me catch this raisin in my mouth."
+                                    "I will throw you the ball, and you catch it.  Watch me catch this raisin in my mouth."
                                 ]
                             },
                             "(transitive, now rare) To seize (an opportunity) when it occurs. [from 16thc.]",
@@ -1039,7 +1039,7 @@
                             {
                                 "text": "(transitive) To be touched or affected by (something) through exposure. [from 13thc.]",
                                 "examples": [
-                                    "The sunlight caught the leaves and the trees turned to gold.\u2003 Her hair was caught by the light breeze."
+                                    "The sunlight caught the leaves and the trees turned to gold.  Her hair was caught by the light breeze."
                                 ]
                             },
                             {
@@ -1052,7 +1052,7 @@
                             {
                                 "text": "(transitive, intransitive) To receive or be affected by (wind, water, fire etc.). [from 18thc.]",
                                 "examples": [
-                                    "The bucket catches water from the downspout.\u2003 The trees caught quickly in the dry wind."
+                                    "The bucket catches water from the downspout.  The trees caught quickly in the dry wind."
                                 ]
                             },
                             {
@@ -1080,7 +1080,7 @@
                             {
                                 "text": "(transitive) To grasp mentally: perceive and understand. [from 16thc.]",
                                 "examples": [
-                                    "Did you catch his name?\u2003 Did you catch the way she looked at him?"
+                                    "Did you catch his name?  Did you catch the way she looked at him?"
                                 ]
                             },
                             {
@@ -1102,7 +1102,7 @@
                             {
                                 "text": "(transitive) To attract and hold (a faculty or organ of sense). [from 17thc.]",
                                 "examples": [
-                                    "He managed to catch her attention.\u2003 The enormous scarf did catch my eye."
+                                    "He managed to catch her attention.  The enormous scarf did catch my eye."
                                 ]
                             }
                         ],
@@ -1179,7 +1179,7 @@
                         {
                             "text": "Conforming to a rule or pattern; exact; accurate.",
                             "examples": [
-                                "a true copy; \u00a0 a true likeness of the original"
+                                "a true copy;   a true likeness of the original"
                             ]
                         },
                         {
@@ -1191,7 +1191,7 @@
                         {
                             "text": "Loyal, faithful.",
                             "examples": [
-                                "He\u2019s turned out to be a true friend."
+                                "He’s turned out to be a true friend."
                             ]
                         },
                         {
@@ -1292,7 +1292,7 @@
                                 "The flag waved in the gentle breeze."
                             ]
                         },
-                        "(intransitive) To move one\u2019s hand back and forth (generally above the head) in greeting or departure.",
+                        "(intransitive) To move one’s hand back and forth (generally above the head) in greeting or departure.",
                         {
                             "text": "(transitive, metonymically) To call attention to, or give a direction or command to, by a waving motion, as of the hand; to signify by waving; to beckon; to signal; to indicate.",
                             "examples": [
@@ -1505,7 +1505,7 @@
                         {
                             "text": "(obsolete) To do with role or capacity; In. [First attested before 1150]",
                             "examples": [
-                                "A God\u2019s name."
+                                "A God’s name."
                             ]
                         },
                         {
@@ -1613,7 +1613,7 @@
                     "part_of_speech": "particle",
                     "text": [
                         "#a",
-                        "Alternative form of -a (\u201cempty syllable added to songs, poetry, verse and other speech\u201d)"
+                        "Alternative form of -a (“empty syllable added to songs, poetry, verse and other speech”)"
                     ]
                 }
             ]

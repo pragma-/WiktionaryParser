@@ -2,7 +2,7 @@
     "en": {
         "grapple": [
             {
-                "etymology": "From Middle English *grapplen (\u201cto seize, lay hold of\u201d), from Old English *gr\u00e6pplian (\u201cto seize\u201d) (compare Old English \u0121egr\u00e6ppian (\u201cto seize\u201d)), from Proto-Germanic *graipil\u014dn\u0105, *grabbal\u014dn\u0105 (\u201cto seize\u201d), from Proto-Indo-European *g\u02b0reb\u02b0- (\u201cto take, seize, rake\u201d), equivalent to grab +\u200e -le. Cognate with Dutch grabbelen (\u201cto grope, scramble, scrabble\u201d), German grabbeln (\u201cto rummage, grope about\u201d) and grapsen, grapschen (\u201cto seize, grasp, grabble\u201d). Influenced in some senses by grapple (\u201ctool with claws or hooks\u201d, noun) (see below). See further at grasp.",
+                "etymology": "From Middle English *grapplen (“to seize, lay hold of”), from Old English *græpplian (“to seize”) (compare Old English ġegræppian (“to seize”)), from Proto-Germanic *graipilōną, *grabbalōną (“to seize”), from Proto-Indo-European *gʰrebʰ- (“to take, seize, rake”), equivalent to grab +‎ -le. Cognate with Dutch grabbelen (“to grope, scramble, scrabble”), German grabbeln (“to rummage, grope about”) and grapsen, grapschen (“to seize, grasp, grabble”). Influenced in some senses by grapple (“tool with claws or hooks”, noun) (see below). See further at grasp.",
                 "definitions": [
                     {
                         "partOfSpeech": "verb",
@@ -32,15 +32,15 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(Received Pronunciation, General American) enPR: gr\u0103p\u02b9\u0259l, IPA: /\u02c8\u0261\u0279\u00e6p\u0259l/",
-                        "Rhymes: -\u00e6p\u0259l",
-                        "Hyphenation: grap\u2027ple"
+                        "(Received Pronunciation, General American) enPR: grăpʹəl, IPA: /ˈɡɹæpəl/",
+                        "Rhymes: -æpəl",
+                        "Hyphenation: grap‧ple"
                     ],
                     "audio": []
                 }
             },
             {
-                "etymology": "From Middle English *grapple, *graple, from Old French grappil (\u201ca ship's grapple\u201d) (compare Old French grappin (\u201chook\u201d)), from Old French grape, grappe, crape (\u201chook\u201d), of Germanic origin, from Frankish *krapp\u014d (\u201chook\u201d), from Proto-Indo-European *grep- (\u201chook\u201d), *gremb- (\u201ccrooked, uneven\u201d), from Proto-Indo-European *ger- (\u201cto turn, bend, twist\u201d). See further at grape. Influenced in some senses by grapple (\u201cseize\u201d, verb) (see above).",
+                "etymology": "From Middle English *grapple, *graple, from Old French grappil (“a ship's grapple”) (compare Old French grappin (“hook”)), from Old French grape, grappe, crape (“hook”), of Germanic origin, from Frankish *krappō (“hook”), from Proto-Indo-European *grep- (“hook”), *gremb- (“crooked, uneven”), from Proto-Indo-European *ger- (“to turn, bend, twist”). See further at grape. Influenced in some senses by grapple (“seize”, verb) (see above).",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -49,7 +49,7 @@
                             [
                                 "A tool with claws or hooks which is used to catch or hold something.",
                                 "(nautical) A device consisting of iron claws, attached to the end of a rope, used for grasping and holding an enemy ship prior to boarding; a grappling iron.",
-                                "(nautical) A grapnel (\u201ctype of anchor\u201d)."
+                                "(nautical) A grapnel (“type of anchor”)."
                             ]
                         ],
                         "relatedWords": [],
@@ -70,9 +70,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(Received Pronunciation, General American) enPR: gr\u0103p\u02b9\u0259l, IPA: /\u02c8\u0261\u0279\u00e6p\u0259l/",
-                        "Rhymes: -\u00e6p\u0259l",
-                        "Hyphenation: grap\u2027ple"
+                        "(Received Pronunciation, General American) enPR: grăpʹəl, IPA: /ˈɡɹæpəl/",
+                        "Rhymes: -æpəl",
+                        "Hyphenation: grap‧ple"
                     ],
                     "audio": []
                 }
@@ -80,7 +80,7 @@
         ],
         "cat": [
             {
-                "etymology": "From Middle English cat, catte, from Old English catt (\u201cmale cat\u201d), catte (\u201cfemale cat\u201d), from Proto-Germanic *kattuz.",
+                "etymology": "From Middle English cat, catte, from Old English catt (“male cat”), catte (“female cat”), from Proto-Germanic *kattuz.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -146,9 +146,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -169,9 +169,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -202,9 +202,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -230,9 +230,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -253,9 +253,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -281,9 +281,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -304,9 +304,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -327,9 +327,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(US, UK) enPR: k\u0103t, IPA: /k\u00e6t/, [k\u02b0\u00e6t], [k\u02b0\u00e6t\u031a]",
+                        "(US, UK) enPR: kăt, IPA: /kæt/, [kʰæt], [kʰæt̚]",
                         "(UK) IPA: /kat/",
-                        "Rhymes: -\u00e6t",
+                        "Rhymes: -æt",
                         "Homophone: Kat"
                     ],
                     "audio": []
@@ -357,7 +357,7 @@
         ],
         "dog": [
             {
-                "etymology": "From Middle English dogge (whence also Scots dug (\u201cdog\u201d)), from Old English dogga, docga, of uncertain origin.\nThe original meaning seems to have been a common dog, as opposed to a well-bred one, or something like 'cur', and perhaps later came to be used for stocky dogs. Possibly a pet-form diminutive with suffix -ga (compare frocga (\u201cfrog\u201d), *picga (\u201cpig\u201d)), appended to a base *dog-, *doc- of unclear origin and meaning. One possibility is Old English dox (\u201cdark, swarthy\u201d) (compare frocga from frox). Another is Old Saxon <d\u00f4g> \"good\" (English dow, German taugen), the theory being that this could have been a commonly used epithet for dogs, especially by children. [3]In 14th-century England, hound (from Old English hund) was the general word for all domestic canines, and dog referred to a subtype resembling the modern mastiff and bulldog. By the 16th century, dog had become the general word, and hound had begun to refer only to breeds used for hunting. In the 16th century, the word dog was adopted by several continental European languages as their word for mastiff.",
+                "etymology": "From Middle English dogge (whence also Scots dug (“dog”)), from Old English dogga, docga, of uncertain origin.\nThe original meaning seems to have been a common dog, as opposed to a well-bred one, or something like 'cur', and perhaps later came to be used for stocky dogs. Possibly a pet-form diminutive with suffix -ga (compare frocga (“frog”), *picga (“pig”)), appended to a base *dog-, *doc- of unclear origin and meaning. One possibility is Old English dox (“dark, swarthy”) (compare frocga from frox). Another is Old Saxon <dôg> \"good\" (English dow, German taugen), the theory being that this could have been a commonly used epithet for dogs, especially by children. [3]In 14th-century England, hound (from Old English hund) was the general word for all domestic canines, and dog referred to a subtype resembling the modern mastiff and bulldog. By the 16th century, dog had become the general word, and hound had begun to refer only to breeds used for hunting. In the 16th century, the word dog was adopted by several continental European languages as their word for mastiff.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -422,7 +422,7 @@
                             },
                             {
                                 "index": 3,
-                                "text": "She\u2019s a real dog."
+                                "text": "She’s a real dog."
                             },
                             {
                                 "index": 4,
@@ -446,7 +446,7 @@
                             },
                             {
                                 "index": 14,
-                                "text": "My dogs are barking! \u2015 My feet hurt!"
+                                "text": "My dogs are barking! ― My feet hurt!"
                             },
                             {
                                 "index": 15,
@@ -505,10 +505,10 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(Received Pronunciation) IPA: /d\u0252\u0261/",
-                        "(US) enPR: d\u00f4g, IPA: /d\u0254\u0261/",
-                        "(US, Canada, cot\u2013caught merger) IPA: /d\u0251\u0261/",
-                        "Rhymes: -\u0252\u0261"
+                        "(Received Pronunciation) IPA: /dɒɡ/",
+                        "(US) enPR: dôg, IPA: /dɔɡ/",
+                        "(US, Canada, cot–caught merger) IPA: /dɑɡ/",
+                        "Rhymes: -ɒɡ"
                     ],
                     "audio": []
                 }
@@ -516,7 +516,7 @@
         ],
         "test": [
             {
-                "etymology": "From Middle English test, teste, borrowed from Old French test, teste (\u201can earthen vessel, especially a pot in which metals were tried\u201d), from Latin testum (\u201cthe lid of an earthen vessel, an earthen vessel, an earthen pot\u201d), from *terstus, past participle of the root *tersa (\u201cdry land\u201d). See terra, thirst.",
+                "etymology": "From Middle English test, teste, borrowed from Old French test, teste (“an earthen vessel, especially a pot in which metals were tried”), from Latin testum (“the lid of an earthen vessel, an earthen vessel, an earthen pot”), from *terstus, past participle of the root *tersa (“dry land”). See terra, thirst.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -526,7 +526,7 @@
                             "A cupel or cupelling hearth in which precious metals are melted for trial and refinement.",
                             "(academia) An examination, given often during the academic term.",
                             "A session in which a product or piece of equipment is examined under everyday or extreme conditions to evaluate its durability, etc.",
-                            "(cricket, normally \u201cTest\u201d) A Test match.",
+                            "(cricket, normally “Test”) A Test match.",
                             "(marine biology) The external calciferous shell, or endoskeleton, of an echinoderm, e.g. sand dollars and sea urchins.",
                             "(botany) Testa; seed coat.",
                             "(obsolete) Judgment; distinction; discrimination."
@@ -605,15 +605,15 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "IPA: /t\u025bst/",
-                        "Rhymes: -\u025bst",
+                        "IPA: /tɛst/",
+                        "Rhymes: -ɛst",
                         "(South African) IPA: /test/"
                     ],
                     "audio": []
                 }
             },
             {
-                "etymology": "From Middle English teste, from Old French teste, test and Latin testis (\u201cone who attests, a witness\u201d).",
+                "etymology": "From Middle English teste, from Old French teste, test and Latin testis (“one who attests, a witness”).",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -647,8 +647,8 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "IPA: /t\u025bst/",
-                        "Rhymes: -\u025bst",
+                        "IPA: /tɛst/",
+                        "Rhymes: -ɛst",
                         "(South African) IPA: /test/"
                     ],
                     "audio": []
@@ -669,8 +669,8 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "IPA: /t\u025bst/",
-                        "Rhymes: -\u025bst",
+                        "IPA: /tɛst/",
+                        "Rhymes: -ɛst",
                         "(South African) IPA: /test/"
                     ],
                     "audio": []
@@ -679,7 +679,7 @@
         ],
         "house": [
             {
-                "etymology": "From Middle English hous, hus, from Old English h\u016bs (\u201cdwelling, shelter, house\u201d), from Proto-Germanic *h\u016bs\u0105 (compare Scots hoose, West Frisian h\u00fbs, Dutch huis, Low German Huus, German Haus, Danish hus, Norwegian Bokm\u00e5l hus and Swedish hus), possibly from Proto-Indo-European *(s)kews-, from *(s)kew- (\u201cto cover, hide\u201d). Eclipsed non-native Middle English meson, measoun (\u201chouse\u201d), borrowed from Old French maison (\u201chouse\u201d). More at hose.\nThe uncommon plural form housen is from Middle English husen, housen.",
+                "etymology": "From Middle English hous, hus, from Old English hūs (“dwelling, shelter, house”), from Proto-Germanic *hūsą (compare Scots hoose, West Frisian hûs, Dutch huis, Low German Huus, German Haus, Danish hus, Norwegian Bokmål hus and Swedish hus), possibly from Proto-Indo-European *(s)kews-, from *(s)kew- (“to cover, hide”). Eclipsed non-native Middle English meson, measoun (“house”), borrowed from Old French maison (“house”). More at hose.\nThe uncommon plural form housen is from Middle English husen, housen.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -707,7 +707,7 @@
                             "Lotto; bingo. [from 20th c.]",
                             "(uncountable) A children's game in which the players pretend to be members of a household.",
                             "(US, dialect) A small stand of trees in a swamp.",
-                            "(sudoku) A set of cells in a Sudoku puzzle which must contain each digit exactly once, such as a row, column, or 3\u00d73 box in classic Sudoku."
+                            "(sudoku) A set of cells in a Sudoku puzzle which must contain each digit exactly once, such as a row, column, or 3×3 box in classic Sudoku."
                         ],
                         "relatedWords": [
                             {
@@ -820,7 +820,7 @@
                             },
                             {
                                 "index": 4,
-                                "text": "One more, sir, then I'll have to stop serving you \u2013 rules of the house, I'm afraid."
+                                "text": "One more, sir, then I'll have to stop serving you – rules of the house, I'm afraid."
                             },
                             {
                                 "index": 4,
@@ -851,18 +851,18 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: hous, IPA: /ha\u028as/",
-                        "(Canada) IPA: /h\u028c\u028as/",
-                        "Rhymes: -a\u028as",
-                        "enPR: houz, IPA: /ha\u028az/",
-                        "Rhymes: -a\u028as, -a\u028az",
+                        "enPR: hous, IPA: /haʊs/",
+                        "(Canada) IPA: /hʌʊs/",
+                        "Rhymes: -aʊs",
+                        "enPR: houz, IPA: /haʊz/",
+                        "Rhymes: -aʊs, -aʊz",
                         "Homophone: how's (verb)"
                     ],
                     "audio": []
                 }
             },
             {
-                "etymology": "From Middle English housen, from Old English h\u016bsian, from Proto-Germanic *h\u016bs\u014dn\u0105 (\u201cto house, live, dwell\u201d), from the noun (see above). Compare Dutch huizen (\u201cto live, dwell, reside\u201d), German Low German husen (\u201cto live, dwell, reside\u201d), German hausen (\u201cto live, dwell, reside\u201d), Norwegian Nynorsk husa (\u201cto house\u201d), Faroese h\u00fasa (\u201cto house\u201d), Icelandic h\u00fasa (\u201cto shelter, house\u201d).",
+                "etymology": "From Middle English housen, from Old English hūsian, from Proto-Germanic *hūsōną (“to house, live, dwell”), from the noun (see above). Compare Dutch huizen (“to live, dwell, reside”), German Low German husen (“to live, dwell, reside”), German hausen (“to live, dwell, reside”), Norwegian Nynorsk husa (“to house”), Faroese húsa (“to house”), Icelandic húsa (“to shelter, house”).",
                 "definitions": [
                     {
                         "partOfSpeech": "verb",
@@ -902,11 +902,11 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: hous, IPA: /ha\u028as/",
-                        "(Canada) IPA: /h\u028c\u028as/",
-                        "Rhymes: -a\u028as",
-                        "enPR: houz, IPA: /ha\u028az/",
-                        "Rhymes: -a\u028as, -a\u028az",
+                        "enPR: hous, IPA: /haʊs/",
+                        "(Canada) IPA: /hʌʊs/",
+                        "Rhymes: -aʊs",
+                        "enPR: houz, IPA: /haʊz/",
+                        "Rhymes: -aʊs, -aʊz",
                         "Homophone: how's (verb)"
                     ],
                     "audio": []
@@ -933,7 +933,7 @@
         ],
         "game": [
             {
-                "etymology": "From Middle English game, gamen, gammen, from Old English gamen (\u201csport, joy, mirth, pastime, game, amusement, pleasure\u201d), from Proto-West Germanic *gaman, from Proto-Germanic *gaman\u0105 (\u201camusement, pleasure, game\", literally \"participation, communion, people together\u201d), from *ga- (collective prefix) + *mann- (\u201cman\u201d); or alternatively from *ga- + a root from Proto-Indo-European *men- (\u201cto think, have in mind\u201d).\nCognate with Middle High German gamen (\u201cjoy, amusement, fun, pleasure\u201d), Swedish gamman (\u201cmirth, rejoicing, merriment\u201d), Icelandic gaman (\u201cfun\u201d). Related to gammon, gamble.",
+                "etymology": "From Middle English game, gamen, gammen, from Old English gamen (“sport, joy, mirth, pastime, game, amusement, pleasure”), from Proto-West Germanic *gaman, from Proto-Germanic *gamaną (“amusement, pleasure, game\", literally \"participation, communion, people together”), from *ga- (collective prefix) + *mann- (“man”); or alternatively from *ga- + a root from Proto-Indo-European *men- (“to think, have in mind”).\nCognate with Middle High German gamen (“joy, amusement, fun, pleasure”), Swedish gamman (“mirth, rejoicing, merriment”), Icelandic gaman (“fun”). Related to gammon, gamble.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -1084,8 +1084,8 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: g\u0101m, IPA: /\u0261e\u026am/",
-                        "Rhymes: -e\u026am"
+                        "enPR: gām, IPA: /ɡeɪm/",
+                        "Rhymes: -eɪm"
                     ],
                     "audio": []
                 }
@@ -1093,19 +1093,19 @@
         ],
         "line": [
             {
-                "etymology": "From Middle English line, lyne, from Old English l\u012bne (\u201cline, cable, rope, hawser, series, row, rule, direction\u201d), from Proto-Germanic *l\u012bn\u01ed (\u201cline, rope, flaxen cord, thread\u201d), from Proto-Germanic *l\u012bn\u0105 (\u201cflax, linen\u201d), from Proto-Indo-European *l\u012bno- (\u201cflax\u201d).",
+                "etymology": "From Middle English line, lyne, from Old English līne (“line, cable, rope, hawser, series, row, rule, direction”), from Proto-Germanic *līnǭ (“line, rope, flaxen cord, thread”), from Proto-Germanic *līną (“flax, linen”), from Proto-Indo-European *līno- (“flax”).",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
                         "text": [
                             "#line (plural lines)",
                             [
-                                "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight.",
+                                "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
                                 "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.\nSynonym: straight line",
                                 "(geometry, informal) A line segment; a continuous finite segment of such a figure.\nSynonym: line segment",
                                 "(graph theory) An edge of a graph.",
                                 "(geography) A circle of latitude or of longitude, as represented on a map.",
-                                "(geography, \u2018the line\u2019 or \u2018equinoctial line\u2019) The equator.",
+                                "(geography, ‘the line’ or ‘equinoctial line’) The equator.",
                                 "(music) One of the straight horizontal and parallel prolonged strokes on and between which the notes are placed.",
                                 "(cricket) The horizontal path of a ball towards the batsman (see also length).",
                                 "(soccer) The goal line."
@@ -1145,8 +1145,8 @@
                                 "One fortieth of an inch."
                             ],
                             "(historical) A maxwell, a unit of magnetic flux.",
-                            "(baseball, slang, 1800s, with \"the\") The batter\u2019s box.",
-                            "(fencing, \u2018line of engagement\u2019) The position in which the fencers hold their swords.",
+                            "(baseball, slang, 1800s, with \"the\") The batter’s box.",
+                            "(fencing, ‘line of engagement’) The position in which the fencers hold their swords.",
                             "(engineering) Proper relative position or adjustment (of parts, not as to design or proportion, but with reference to smooth working).",
                             "A small portion or serving of a powdery illegal drug.",
                             "(obsolete) Instruction; doctrine.",
@@ -1193,7 +1193,7 @@
                             },
                             {
                                 "index": 12,
-                                "text": "a dedicated line;\u2003 a shared line"
+                                "text": "a dedicated line;  a shared line"
                             },
                             {
                                 "index": 12,
@@ -1306,14 +1306,14 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: l\u012bn, IPA: /la\u026an/",
-                        "Rhymes: -a\u026an"
+                        "enPR: līn, IPA: /laɪn/",
+                        "Rhymes: -aɪn"
                     ],
                     "audio": []
                 }
             },
             {
-                "etymology": "Old English l\u012bn (\u201cflax, linen, cloth\u201d). For more information, see the entry linen.",
+                "etymology": "Old English līn (“flax, linen, cloth”). For more information, see the entry linen.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -1359,8 +1359,8 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: l\u012bn, IPA: /la\u026an/",
-                        "Rhymes: -a\u026an"
+                        "enPR: līn, IPA: /laɪn/",
+                        "Rhymes: -aɪn"
                     ],
                     "audio": []
                 }
@@ -1380,8 +1380,8 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: l\u012bn, IPA: /la\u026an/",
-                        "Rhymes: -a\u026an"
+                        "enPR: līn, IPA: /laɪn/",
+                        "Rhymes: -aɪn"
                     ],
                     "audio": []
                 }
@@ -1389,7 +1389,7 @@
         ],
         "catch": [
             {
-                "etymology": "From Middle English cacchen, from Anglo-Norman cachier, from Late Latin capti\u0101re, present active infinitive of capti\u014d, from Latin capt\u014d, frequentative of capi\u014d. Akin to Modern French chasser (from Old French chacier) and Spanish cazar, and thus a doublet of chase. Displaced Middle English fangen (\"to catch\"; > Modern English fang (verb)), from Old English f\u014dn (\u201cto seize, take\u201d); Middle English lacchen (\"to catch\"; > Modern English latch), from Old English l\u00e6\u010b\u010ban.\nThe verb became irregular, possibly under the influence of the semantically similar latch (from Old English l\u00e6\u010b\u010ban) whose past tense was lahte, lauhte, laught (Old English l\u00e6hte) until becoming regularised in Modern English.",
+                "etymology": "From Middle English cacchen, from Anglo-Norman cachier, from Late Latin captiāre, present active infinitive of captiō, from Latin captō, frequentative of capiō. Akin to Modern French chasser (from Old French chacier) and Spanish cazar, and thus a doublet of chase. Displaced Middle English fangen (\"to catch\"; > Modern English fang (verb)), from Old English fōn (“to seize, take”); Middle English lacchen (\"to catch\"; > Modern English latch), from Old English læċċan.\nThe verb became irregular, possibly under the influence of the semantically similar latch (from Old English læċċan) whose past tense was lahte, lauhte, laught (Old English læhte) until becoming regularised in Modern English.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -1574,7 +1574,7 @@
                         "examples": [
                             {
                                 "index": 1,
-                                "text": "I hope I catch a fish.\u2003 He ran but we caught him at the exit.\u2003 The police caught the robber at a nearby casino."
+                                "text": "I hope I catch a fish.  He ran but we caught him at the exit.  The police caught the robber at a nearby casino."
                             },
                             {
                                 "index": 4,
@@ -1582,11 +1582,11 @@
                             },
                             {
                                 "index": 5,
-                                "text": "If you leave now you might catch him.\u2003 I would love to have dinner but I have to catch a plane."
+                                "text": "If you leave now you might catch him.  I would love to have dinner but I have to catch a plane."
                             },
                             {
                                 "index": 6,
-                                "text": "He was caught on video robbing the bank.\u2003 He was caught in the act of stealing a biscuit."
+                                "text": "He was caught on video robbing the bank.  He was caught in the act of stealing a biscuit."
                             },
                             {
                                 "index": 7,
@@ -1598,7 +1598,7 @@
                             },
                             {
                                 "index": 11,
-                                "text": "I have to stop for a moment and catch my breath.\u2003 I caught some Z's on the train."
+                                "text": "I have to stop for a moment and catch my breath.  I caught some Z's on the train."
                             },
                             {
                                 "index": 12,
@@ -1606,11 +1606,11 @@
                             },
                             {
                                 "index": 13,
-                                "text": "Be careful your dress doesn't catch on that knob.\u2003 His voice caught when he came to his father's name."
+                                "text": "Be careful your dress doesn't catch on that knob.  His voice caught when he came to his father's name."
                             },
                             {
                                 "index": 14,
-                                "text": "Push it in until it catches.\u2003 The engine finally caught and roared to life."
+                                "text": "Push it in until it catches.  The engine finally caught and roared to life."
                             },
                             {
                                 "index": 15,
@@ -1634,7 +1634,7 @@
                             },
                             {
                                 "index": 23,
-                                "text": "I will throw you the ball, and you catch it.\u2003 Watch me catch this raisin in my mouth."
+                                "text": "I will throw you the ball, and you catch it.  Watch me catch this raisin in my mouth."
                             },
                             {
                                 "index": 25,
@@ -1650,7 +1650,7 @@
                             },
                             {
                                 "index": 29,
-                                "text": "The sunlight caught the leaves and the trees turned to gold.\u2003 Her hair was caught by the light breeze."
+                                "text": "The sunlight caught the leaves and the trees turned to gold.  Her hair was caught by the light breeze."
                             },
                             {
                                 "index": 30,
@@ -1658,7 +1658,7 @@
                             },
                             {
                                 "index": 32,
-                                "text": "The bucket catches water from the downspout.\u2003 The trees caught quickly in the dry wind."
+                                "text": "The bucket catches water from the downspout.  The trees caught quickly in the dry wind."
                             },
                             {
                                 "index": 33,
@@ -1674,7 +1674,7 @@
                             },
                             {
                                 "index": 38,
-                                "text": "Did you catch his name?\u2003 Did you catch the way she looked at him?"
+                                "text": "Did you catch his name?  Did you catch the way she looked at him?"
                             },
                             {
                                 "index": 39,
@@ -1686,17 +1686,17 @@
                             },
                             {
                                 "index": 43,
-                                "text": "He managed to catch her attention.\u2003 The enormous scarf did catch my eye."
+                                "text": "He managed to catch her attention.  The enormous scarf did catch my eye."
                             }
                         ]
                     }
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: k\u0103ch, IPA: /k\u00e6t\u0361\u0283/",
-                        "(US) enPR: k\u0103ch, k\u0115ch, IPA: /k\u00e6t\u0361\u0283/, /k\u025bt\u0361\u0283/",
-                        "Noah Webster's American Dictionary (1828) regards /k\u025bt\u0283/ as the \"popular or common pronunciation.\" It is labeled \"not infreq[uent]\" in Kenyon & Knott (1949).",
-                        "Rhymes: -\u00e6t\u0283, -\u025bt\u0283"
+                        "enPR: kăch, IPA: /kæt͡ʃ/",
+                        "(US) enPR: kăch, kĕch, IPA: /kæt͡ʃ/, /kɛt͡ʃ/",
+                        "Noah Webster's American Dictionary (1828) regards /kɛtʃ/ as the \"popular or common pronunciation.\" It is labeled \"not infreq[uent]\" in Kenyon & Knott (1949).",
+                        "Rhymes: -ætʃ, -ɛtʃ"
                     ],
                     "audio": []
                 }
@@ -1727,7 +1727,7 @@
         ],
         "error": [
             {
-                "etymology": "From Anglo-Norman errour, from Old French error, from Latin error (\u201cwandering about\u201d), infinitive of err\u014d (\u201cto wander, to err\u201d). Cognate with Gothic \ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf36\ud800\udf34\ud800\udf39 (airzei, \u201cerror\u201d), Gothic \ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf36\ud800\udf3e\ud800\udf30\ud800\udf3d (airzjan, \u201cto lead astray\u201d). More at err.",
+                "etymology": "From Anglo-Norman errour, from Old French error, from Latin error (“wandering about”), infinitive of errō (“to wander, to err”). Cognate with Gothic 𐌰𐌹𐍂𐌶𐌴𐌹 (airzei, “error”), Gothic 𐌰𐌹𐍂𐌶𐌾𐌰𐌽 (airzjan, “to lead astray”). More at err.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -1832,10 +1832,10 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(UK) enPR: \u0115r'\u0259(r), IPA: /\u02c8\u025b\u0279\u0259(\u0279)/",
-                        "(US) IPA: /\u02c8\u025b\u0279\u025a/",
-                        "(some accents) IPA: /\u02c8\u025b\u025a/",
-                        "Rhymes: -\u025br\u0259(r)",
+                        "(UK) enPR: ĕr'ə(r), IPA: /ˈɛɹə(ɹ)/",
+                        "(US) IPA: /ˈɛɹɚ/",
+                        "(some accents) IPA: /ˈɛɚ/",
+                        "Rhymes: -ɛrə(r)",
                         "Hyphenation: error",
                         "Homophone: era (in non-rhotic US pronunciations)",
                         "Homophones: air, e'er, ere, heir (in some US pronunciations)",
@@ -1847,7 +1847,7 @@
         ],
         "true": [
             {
-                "etymology": "From Middle English trewe, from Old English tr\u012bewe, (Mercian) tr\u0113owe (\u201ctrusty, faithful\u201d), from Proto-Germanic *triwwiz (compare Saterland Frisian trjou (\u201chonest\u201d), Dutch getrouw and trouw, German treu, Norwegian and Swedish trygg (\u201csafe, secure\u2019\u201d), from pre-Germanic *drewh\u2082yos, from Proto-Indo-European *drewh\u2082- (\u201csteady, firm\u201d) (compare Irish dearbh (\u201csure\u201d), Old Prussian druwis (\u201cfaith\u201d), Ancient Greek \u03b4\u03c1\u03bf\u03cc\u03bd (dro\u00f3n, \u201cfirm\u201d)), extension of *d\u00f3ru (\u201ctree\u201d). More at tree.\nFor the semantic development, compare Latin robustus (\u201ctough\u201d) from robur (\u201cred oak\u201d).",
+                "etymology": "From Middle English trewe, from Old English trīewe, (Mercian) trēowe (“trusty, faithful”), from Proto-Germanic *triwwiz (compare Saterland Frisian trjou (“honest”), Dutch getrouw and trouw, German treu, Norwegian and Swedish trygg (“safe, secure’”), from pre-Germanic *drewh₂yos, from Proto-Indo-European *drewh₂- (“steady, firm”) (compare Irish dearbh (“sure”), Old Prussian druwis (“faith”), Ancient Greek δροόν (droón, “firm”)), extension of *dóru (“tree”). More at tree.\nFor the semantic development, compare Latin robustus (“tough”) from robur (“red oak”).",
                 "definitions": [
                     {
                         "partOfSpeech": "adjective",
@@ -1885,7 +1885,7 @@
                             },
                             {
                                 "index": 1,
-                                "text": "a true copy; \u00a0 a true likeness of the original"
+                                "text": "a true copy;   a true likeness of the original"
                             },
                             {
                                 "index": 2,
@@ -1893,7 +1893,7 @@
                             },
                             {
                                 "index": 3,
-                                "text": "He\u2019s turned out to be a true friend."
+                                "text": "He’s turned out to be a true friend."
                             },
                             {
                                 "index": 4,
@@ -1968,11 +1968,11 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(UK) IPA: /t\u0279u\u02d0/",
-                        "(US) enPR: tr\u014d\u014d IPA: /t\u0279u/, [t\u0361\u0283\u0279\u00fc]",
-                        "(archaic) IPA: /t\u0279ju\u02d0/",
-                        "(now dialectal) IPA: /t\u0279\u026a\u028a\u032f/",
-                        "Rhymes: -u\u02d0"
+                        "(UK) IPA: /tɹuː/",
+                        "(US) enPR: trōō IPA: /tɹu/, [t͡ʃɹü]",
+                        "(archaic) IPA: /tɹjuː/",
+                        "(now dialectal) IPA: /tɹɪʊ̯/",
+                        "Rhymes: -uː"
                     ],
                     "audio": []
                 }
@@ -1980,7 +1980,7 @@
         ],
         "golf": [
             {
-                "etymology": "The word is first known in English from the 15th century from Scots. Although the etymology is uncertain, the most likely origin is that it comes from the Middle Dutch colve, colf (\u201cclub\u201d), ultimately from Proto-Germanic *kulb\u00f4 (\u201cclub\u201d), related to German Kolben (\u201cpiston, rod\u201d), Swedish kolv (\u201cpiston, rod\u201d), Old English clopp (\u201crock; cliff\u201d).",
+                "etymology": "The word is first known in English from the 15th century from Scots. Although the etymology is uncertain, the most likely origin is that it comes from the Middle Dutch colve, colf (“club”), ultimately from Proto-Germanic *kulbô (“club”), related to German Kolben (“piston, rod”), Swedish kolv (“piston, rod”), Old English clopp (“rock; cliff”).",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -2005,10 +2005,10 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(Received Pronunciation) IPA: /\u0261\u0252lf/",
-                        "(Conservative RP) IPA: /\u0261\u0252f/",
-                        "(General American) IPA: /\u0261\u0251lf/, /\u0261\u0254lf/",
-                        "Rhymes: -\u0252lf"
+                        "(Received Pronunciation) IPA: /ɡɒlf/",
+                        "(Conservative RP) IPA: /ɡɒf/",
+                        "(General American) IPA: /ɡɑlf/, /ɡɔlf/",
+                        "Rhymes: -ɒlf"
                     ],
                     "audio": []
                 }
@@ -2016,14 +2016,14 @@
         ],
         "wave": [
             {
-                "etymology": "From Middle English waven, from Old English wafian (\u201cto wave, fluctuate, waver in mind, wonder\u201d), from Proto-Germanic *wab\u014dn\u0105, *wabjan\u0105 (\u201cto wander, sway\u201d), from Proto-Indo-European *web\u02b0- (\u201cto move to and from, wander\u201d). Cognate with Middle High German waben (\u201cto wave\u201d), German wabern (\u201cto waft\u201d), Icelandic v\u00e1fa (\u201cto fluctuate, waver, doubt\u201d). See also waver.",
+                "etymology": "From Middle English waven, from Old English wafian (“to wave, fluctuate, waver in mind, wonder”), from Proto-Germanic *wabōną, *wabjaną (“to wander, sway”), from Proto-Indo-European *webʰ- (“to move to and from, wander”). Cognate with Middle High German waben (“to wave”), German wabern (“to waft”), Icelandic váfa (“to fluctuate, waver, doubt”). See also waver.",
                 "definitions": [
                     {
                         "partOfSpeech": "verb",
                         "text": [
                             "#wave (third-person singular simple present waves, present participle waving, simple past and past participle waved)",
                             "(intransitive) To move back and forth repeatedly and somewhat loosely.",
-                            "(intransitive) To move one\u2019s hand back and forth (generally above the head) in greeting or departure.",
+                            "(intransitive) To move one’s hand back and forth (generally above the head) in greeting or departure.",
                             "(transitive, metonymically) To call attention to, or give a direction or command to, by a waving motion, as of the hand; to signify by waving; to beckon; to signal; to indicate.",
                             "(intransitive) To have an undulating or wavy form.",
                             "(transitive) To raise into inequalities of surface; to give an undulating form or surface to.",
@@ -2070,15 +2070,15 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: w\u0101v, IPA: /we\u026av/",
+                        "enPR: wāv, IPA: /weɪv/",
                         "Homophone: waive",
-                        "Rhymes: -e\u026av"
+                        "Rhymes: -eɪv"
                     ],
                     "audio": []
                 }
             },
             {
-                "etymology": "From Middle English *wave, partially from waven (\u201cto fluctuate, wave\u201d) (see above) and partially from Middle English wawe, waghe (\u201cwave\u201d), from Old English w\u01e3g (\u201ca wave, billow, motion, water, flood, sea\u201d), from Proto-Germanic *w\u0113gaz (\u201cmotion, storm, wave\u201d), from Proto-Indo-European *we\u01f5\u02b0- (\u201cto drag, carry\u201d). Cognate with North Frisian weage (\u201cwave, flood, sea\u201d), German Woge (\u201cwave\u201d), French vague (\u201cwave\u201d) (from Germanic), Gothic \ud800\udf45\ud800\udf34\ud800\udf32\ud800\udf43 (w\u0113gs, \u201ca wave\u201d). See also waw.",
+                "etymology": "From Middle English *wave, partially from waven (“to fluctuate, wave”) (see above) and partially from Middle English wawe, waghe (“wave”), from Old English wǣg (“a wave, billow, motion, water, flood, sea”), from Proto-Germanic *wēgaz (“motion, storm, wave”), from Proto-Indo-European *weǵʰ- (“to drag, carry”). Cognate with North Frisian weage (“wave, flood, sea”), German Woge (“wave”), French vague (“wave”) (from Germanic), Gothic 𐍅𐌴𐌲𐍃 (wēgs, “a wave”). See also waw.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -2209,9 +2209,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: w\u0101v, IPA: /we\u026av/",
+                        "enPR: wāv, IPA: /weɪv/",
                         "Homophone: waive",
-                        "Rhymes: -e\u026av"
+                        "Rhymes: -eɪv"
                     ],
                     "audio": []
                 }
@@ -2231,9 +2231,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "enPR: w\u0101v, IPA: /we\u026av/",
+                        "enPR: wāv, IPA: /weɪv/",
                         "Homophone: waive",
-                        "Rhymes: -e\u026av"
+                        "Rhymes: -eɪv"
                     ],
                     "audio": []
                 }
@@ -2241,7 +2241,7 @@
         ],
         "song": [
             {
-                "etymology": "From Middle English song, sang, from Old English song, sang (\u201cnoise, song, singing, chanting; poetry; a poem to be sung or recited, psalm, lay\u201d), from Proto-Germanic *sangwaz (\u201csinging, song\u201d), from Proto-Indo-European *seng\u02b7\u02b0- (\u201cto sing\u201d). Cognate with Scots sang, song (\u201csinging, song\u201d), Saterland Frisian Song (\u201csong\u201d), West Frisian sang (\u201csong\u201d), Dutch zang (\u201csong\u201d), Low German sang (\u201csong\u201d), German Sang (\u201csinging, song\u201d), Swedish s\u00e5ng (\u201csong\u201d), Norwegian Bokm\u00e5l sang (\u201csong\u201d), Norwegian Nynorsk song (\u201csong\u201d), Icelandic s\u00f6ngur (\u201csong\u201d), Ancient Greek \u1f40\u03bc\u03c6\u03ae (omph\u1e17, \u201cvoice, oracle\u201d). More at sing.",
+                "etymology": "From Middle English song, sang, from Old English song, sang (“noise, song, singing, chanting; poetry; a poem to be sung or recited, psalm, lay”), from Proto-Germanic *sangwaz (“singing, song”), from Proto-Indo-European *sengʷʰ- (“to sing”). Cognate with Scots sang, song (“singing, song”), Saterland Frisian Song (“song”), West Frisian sang (“song”), Dutch zang (“song”), Low German sang (“song”), German Sang (“singing, song”), Swedish sång (“song”), Norwegian Bokmål sang (“song”), Norwegian Nynorsk song (“song”), Icelandic söngur (“song”), Ancient Greek ὀμφή (omphḗ, “voice, oracle”). More at sing.",
                 "definitions": [
                     {
                         "partOfSpeech": "noun",
@@ -2275,9 +2275,9 @@
                 ],
                 "pronunciations": {
                     "text": [
-                        "(UK) IPA: /s\u0252\u014b/",
-                        "(US) IPA: /s\u0254\u014b/, /s\u0251\u014b/",
-                        "Rhymes: -\u0252\u014b"
+                        "(UK) IPA: /sɒŋ/",
+                        "(US) IPA: /sɔŋ/, /sɑŋ/",
+                        "Rhymes: -ɒŋ"
                     ],
                     "audio": []
                 }
@@ -2285,7 +2285,7 @@
         ],
         "a": [
             {
-                "etymology": "From Middle English and Old English lower case letter a and split of Middle English and Old English lower case letter \u00e6.\n Old English lower case letter a from 7th century replacement by Latin lower case letter a of the Anglo-Saxon Futhorc letter \u16aa (a, \u201c\u0101c\u201d), derived from Runic letter \u16ab (a, \u201cAnsuz\u201d).\n Old English lower case letter \u00e6 from 7th century replacement by Latin lower case ligature \u00e6 of the Anglo-Saxon Futhorc letter \u16ab (\u00e6, \u201c\u00e6sc\u201d), also derived from Runic letter \u16ab (a, \u201cAnsuz\u201d).",
+                "etymology": "From Middle English and Old English lower case letter a and split of Middle English and Old English lower case letter æ.\n Old English lower case letter a from 7th century replacement by Latin lower case letter a of the Anglo-Saxon Futhorc letter ᚪ (a, “āc”), derived from Runic letter ᚫ (a, “Ansuz”).\n Old English lower case letter æ from 7th century replacement by Latin lower case ligature æ of the Anglo-Saxon Futhorc letter ᚫ (æ, “æsc”), also derived from Runic letter ᚫ (a, “Ansuz”).",
                 "definitions": [
                     {
                         "partOfSpeech": "letter",
@@ -2318,26 +2318,26 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
             },
             {
-                "etymology": "From Middle English a, from Old English \u0101n (\u201cone; a; lone; sole\u201d). The \"n\" was gradually lost before consonants in almost all dialects by the 15th century.",
+                "etymology": "From Middle English a, from Old English ān (“one; a; lone; sole”). The \"n\" was gradually lost before consonants in almost all dialects by the 15th century.",
                 "definitions": [
                     {
                         "partOfSpeech": "article",
@@ -2387,20 +2387,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
@@ -2438,7 +2438,7 @@
                             },
                             {
                                 "index": 4,
-                                "text": "A God\u2019s name."
+                                "text": "A God’s name."
                             },
                             {
                                 "index": 5,
@@ -2450,7 +2450,7 @@
                             },
                             {
                                 "index": 6,
-                                "text": "1964, Bob Dylan, The Times They Are a-Changin\u2019The times, they are a-changin'."
+                                "text": "1964, Bob Dylan, The Times They Are a-Changin’The times, they are a-changin'."
                             },
                             {
                                 "index": 9,
@@ -2470,20 +2470,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
@@ -2509,26 +2509,26 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
             },
             {
-                "etymology": "From Middle English a, a reduced form of he (\u201che\u201d)/ha (\u201che\u201d), heo (\u201cshe\u201d)/ha (\u201cshe\u201d) and ha (\u201cit\u201d) (as well as of hie, hie (\u201cthey\u201d)).",
+                "etymology": "From Middle English a, a reduced form of he (“he”)/ha (“he”), heo (“she”)/ha (“she”) and ha (“it”) (as well as of hie, hie (“they”)).",
                 "definitions": [
                     {
                         "partOfSpeech": "pronoun",
@@ -2543,20 +2543,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
@@ -2577,20 +2577,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
@@ -2616,20 +2616,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
@@ -2659,20 +2659,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
@@ -2719,20 +2719,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
@@ -2744,7 +2744,7 @@
                         "partOfSpeech": "particle",
                         "text": [
                             "#a",
-                            "Alternative form of -a (\u201cempty syllable added to songs, poetry, verse and other speech\u201d)"
+                            "Alternative form of -a (“empty syllable added to songs, poetry, verse and other speech”)"
                         ],
                         "relatedWords": [],
                         "examples": []
@@ -2753,20 +2753,20 @@
                 "pronunciations": {
                     "text": [
                         "(letter name)The current pronunciation resulted from the Great Vowel Shift. Before the early part of the 17th century, the pronunciation was similar to that in other languages.",
-                        "(UK, US) IPA: /e\u026a/",
-                        "(General Australian) IPA: /\u00e6\u026a/",
-                        "Rhymes: -e\u026a",
-                        "(phoneme) IPA: /\u00e6/, /\u0251\u02d0/, /e\u026a/, etc.",
-                        "(stressed) IPA: /e\u026a/",
-                        "(unstressed) IPA: /\u0259/",
+                        "(UK, US) IPA: /eɪ/",
+                        "(General Australian) IPA: /æɪ/",
+                        "Rhymes: -eɪ",
+                        "(phoneme) IPA: /æ/, /ɑː/, /eɪ/, etc.",
+                        "(stressed) IPA: /eɪ/",
+                        "(unstressed) IPA: /ə/",
                         "Homophone: her (non-rhotic, unstressed)",
-                        "IPA: /\u0259/",
-                        "IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0259/",
-                        "(it): (Received Pronunciation) IPA: /\u0259/, /\u0251/",
-                        "IPA: /\u0259/, /\u0251\u02d0/",
-                        "(US) IPA: /\u0259/",
-                        "(Received Pronunciation) IPA: /\u0254/"
+                        "IPA: /ə/",
+                        "IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ə/",
+                        "(it): (Received Pronunciation) IPA: /ə/, /ɑ/",
+                        "IPA: /ə/, /ɑː/",
+                        "(US) IPA: /ə/",
+                        "(Received Pronunciation) IPA: /ɔ/"
                     ],
                     "audio": []
                 }
