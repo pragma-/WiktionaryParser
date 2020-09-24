@@ -10,6 +10,8 @@ from tests import test_core as test
 from concurrent.futures import as_completed
 from requests_futures.sessions import FuturesSession
 
+from tests.test_core import test_words
+
 current_dir = os.path.dirname(__file__)
 
 tests_dir = os.path.abspath(os.path.join(current_dir, '..', 'tests'))
@@ -18,8 +20,8 @@ html_test_files_dir = os.path.join(tests_dir, 'html_test_files')
 markup_test_files_dir = os.path.join(tests_dir, 'markup_test_files')
 
 
-wiktionary_base_url = 'https://en.wiktionary.org/wiki/'
-wiktionary_api_url = 'https://en.wiktionary.org/w/api.php'
+wiktionary_base_url = 'https://{}.wiktionary.org/wiki/'
+wiktionary_api_url = 'https://{}.wiktionary.org/w/api.php'
 
 
 def write_file_and_dir(filepath: str, mode: str, content, encoding: str = None):
@@ -32,36 +34,30 @@ def write_file_and_dir(filepath: str, mode: str, content, encoding: str = None):
         f.write(content)
 
 
-def get_words_and_old_ids():
-    """Get a list of words and old ids."""
-    result = []
-    for word, old_id, _ in test.test_words:
-        result.append((word, old_id))
-    return result
-
-
-def save_html_test_file(word: str,
+def save_html_test_file(language:str,
+                        word: str,
                         old_id: int,
                         response: requests.Response):
     """Save the HTML of a word definition page."""
-    print(f"Saving '{word}-{old_id}' HTML.")
+    print(f"Saving '{language}-{word}-{old_id}' HTML.")
 
     filepath = os.path.join(html_test_files_dir,
-                            f'{word}-{old_id}.html')
+                            f'{language}-{word}-{old_id}.html')
 
     write_file_and_dir(filepath, 'wb', response.content)
 
 
-def create_html_request(word: str,
+def create_html_request(language: str,
+                        word: str,
                         old_id: int,
                         session: FuturesSession):
     """Create a request to get the HTML of a word definition page."""
-    print(f"Creating request for '{word}-{old_id}' HTML.")
+    print(f"Creating request for '{language}-{word}-{old_id}' HTML.")
 
     def on_load(response, *args, **kwargs):
-        save_html_test_file(word, old_id, response)
-
-    return session.get(wiktionary_base_url + word,
+        save_html_test_file(language, word, old_id, response)
+    print("caca", wiktionary_base_url.format(language) + word)
+    return session.get(wiktionary_base_url.format(language) + word,
                        params={
                            'oldid': old_id
                        }, hooks={
@@ -85,7 +81,8 @@ def save_markup_test_file(word: str,
                        encoding='utf-8')
 
 
-def create_markup_request(word: str,
+def create_markup_request(language:str,
+                          word: str,
                           old_id: int,
                           session: FuturesSession):
     """Get a JSON from Wiktionary containing a page's WikiMedia markup
@@ -96,7 +93,7 @@ def create_markup_request(word: str,
     def on_load(response, *args, **kwargs):
         save_markup_test_file(word, old_id, response)
 
-    return session.get(wiktionary_api_url,
+    return session.get(wiktionary_api_url.format(language),
                        params={
                            'action': 'parse',
                            'oldid': old_id,
@@ -115,14 +112,12 @@ def download_test_html_and_markup(words_and_old_ids: List[Set]):
     """
     with FuturesSession() as session:
         futures = []
-    
-        for word, old_id in words_and_old_ids:
-            futures.append(create_html_request(word,
-                                               old_id,
-                                               session))
+
+        for word, old_id, language in words_and_old_ids:
+            futures.append(create_html_request(language, word, old_id, session))
 
         as_completed(futures)
 
 
 if __name__ == '__main__':
-    download_test_html_and_markup(get_words_and_old_ids())
+    download_test_html_and_markup(test_words)

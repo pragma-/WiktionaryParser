@@ -2771,6 +2771,2387 @@
                     "audio": []
                 }
             }
+        ],
+        "xanthenic": [
+            {
+                "etymology": "xanthene +‎ -ic",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#xanthenic (not comparable)",
+                            "(organic chemistry) Pertaining to, or derived from, xanthene."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "organic chemistry": [
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#organic chemistry (uncountable)",
+                            "(chemistry) The chemistry of carbon-containing compounds, especially those that occur naturally in living organisms."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "biochemistry",
+                                    "carbochemistry",
+                                    "inorganic chemistry"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "organism": [
+            {
+                "etymology": "From Ancient Greek ὄργανον (órganon, “tool, instrument”), from Proto-Indo-European *werǵ- (“work”). This etymology is incomplete. You can help Wiktionary by elaborating on the origins of this term.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#organism (plural organisms)",
+                            "(biology) A discrete and complete living thing, such as animal, plant, fungus or microorganism.",
+                            "(by extension) Any complex thing with properties normally associated with living things."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "See also Thesaurus:organism"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "enPR: ôr′gənĭzəm",
+                        "(UK) IPA: /ˈɔː.ɡən.ɪ.zəm/",
+                        "(US) IPA: /ˈɔɹ.ɡən.ɪ.zəm/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "complex": [
+            {
+                "etymology": "From French complexe, from Latin complexus, past participle of complectī (“to entwine, encircle, compass, infold”), from com- (“together”) and plectere (“to weave, braid”). See complect. Doublet of complexus.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#complex (comparative complexer or more complex, superlative complexest or most complex)",
+                            "Made up of multiple parts; composite; not simple.",
+                            "Not simple, easy, or straightforward; complicated.",
+                            "(mathematics, of a number) Having the form a + bi, where a and b are real numbers and i is (by definition) the imaginary square root of −1.",
+                            "(mathematics, mathematical analysis, of a function) Whose range is a subset of the complex numbers.",
+                            "(mathematics, algebra) Whose coefficients are complex numbers; defined over the field of complex numbers.",
+                            "(geometry) A curve, polygon or other figure that crosses or intersects itself."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(not simple): complicated, detailed, difficult, hard, intricate, involved, tough"
+                                ]
+                            },
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "(not simple): basic, easy, simple, simplex, straightforward"
+                                ]
+                            },
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "complexion",
+                                    "(mathematics): symplectic"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "a complex being; a complex idea"
+                            },
+                            {
+                                "index": 2,
+                                "text": "complex number"
+                            },
+                            {
+                                "index": 2,
+                                "text": "function of a complex variable"
+                            },
+                            {
+                                "index": 3,
+                                "text": "complex function"
+                            },
+                            {
+                                "index": 4,
+                                "text": "complex polynomial"
+                            },
+                            {
+                                "index": 4,
+                                "text": "complex algebraic variety"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#complex (plural complexes or complices)",
+                            "A problem. (clarification of this definition is needed)",
+                            "A network of interconnected systems.",
+                            "A collection of buildings with a common purpose, such as a university or military base.",
+                            [
+                                "An assemblage of related things; a collection.",
+                                "An organized cluster of thunderstorms.",
+                                "A cluster of wildfires burning in the same vicinity.",
+                                "(taxonomy) A group of closely related species, often distinguished only with difficulty by traditional morphological methods."
+                            ],
+                            "(psychoanalysis) An abnormal mental condition caused by repressed emotions.",
+                            "(informal, by extension) A vehement, often excessive psychological dislike or fear of a particular thing.",
+                            "(chemistry) A structure consisting of a central atom or molecule weakly connected to surrounding atoms or molecules.",
+                            "(mathematics) A complex number."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 1,
+                                "text": "military-industrial complex"
+                            },
+                            {
+                                "index": 5,
+                                "text": "The fire complex began as two separate fires."
+                            },
+                            {
+                                "index": 8,
+                                "text": "Jim has a real complex about working for a woman boss."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#complex (third-person singular simple present complexes, present participle complexing, simple past and past participle complexed)",
+                            "(chemistry, intransitive) To form a complex with another substance",
+                            "(transitive) To complicate."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "Rhymes: -ɛks"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "interconnected": [
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#interconnected (comparative more interconnected, superlative most interconnected)",
+                            "intertwined; connected at multiple points or levels"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#interconnected",
+                            "simple past tense and past participle of interconnect"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "coiled": [
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#coiled",
+                            "simple past tense and past participle of coil"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#coiled (comparative more coiled, superlative most coiled)",
+                            "In the form of coils; having coils.",
+                            "Prepared and poised to act, like a snake that has coiled its lower body so it can strike."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "looped"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "a coiled serpent"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "IPA: /kɔɪld/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "doctrine": [
+            {
+                "etymology": "From Middle English, from Old French, from Latin doctrina (“teaching, instruction, learning, knowledge”), from doctor (“a teacher”), from docere (“to teach”); see doctor.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#doctrine (countable and uncountable, plural doctrines)",
+                            "(countable) A belief or tenet, especially about philosophical or theological matters.",
+                            "(countable and uncountable) The body of teachings of an ideology, most often a religion, or of an ideological or religious leader, organization, group or text."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "docent",
+                                    "docile",
+                                    "doctor",
+                                    "doctorate",
+                                    "doctrinaire",
+                                    "doctrinal, doctrinally",
+                                    "doctrinize, doctrinization",
+                                    "document",
+                                    "indoctrinate"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "The incarnation is a basic doctrine of classical Christianity."
+                            },
+                            {
+                                "index": 0,
+                                "text": "The four noble truths summarise the main doctrines of Buddhism."
+                            },
+                            {
+                                "index": 1,
+                                "text": "What is the understanding of marriage and family in orthodox Marxist doctrine?"
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(General American) IPA: /ˈdɑktɹɪn/",
+                        "(Received Pronunciation) IPA: /ˈdɒktɹɪn/",
+                        "Hyphenation: doc‧trine"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "belief": [
+            {
+                "etymology": "From Middle English [Term?], from Old English lēafa, from Proto-Germanic *laubô. Compare German Glaube (“faith, belief”).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#belief (countable and uncountable, plural beliefs)",
+                            "Mental acceptance of a claim as true.",
+                            "Faith or trust in the reality of something; often based upon one's own reasoning, trust in a claim, desire of actuality, and/or evidence considered.",
+                            "(countable) Something believed.",
+                            "(uncountable) The quality or state of believing.",
+                            "(uncountable) Religious faith.",
+                            "(in the plural) One's religious or moral convictions."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "believe"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "It's my belief that the thief is somebody known to us."
+                            },
+                            {
+                                "index": 1,
+                                "text": "My belief is that there is a bear in the woods. Bill said he saw one."
+                            },
+                            {
+                                "index": 1,
+                                "text": "Based on this data, it is our belief that X does not occur."
+                            },
+                            {
+                                "index": 2,
+                                "text": "The ancient people have a belief in many deities."
+                            },
+                            {
+                                "index": 3,
+                                "text": "My belief that it will rain tomorrow is strong."
+                            },
+                            {
+                                "index": 4,
+                                "text": "She often said it was her belief that carried her through the hard times."
+                            },
+                            {
+                                "index": 5,
+                                "text": "I don't want to do a no-fault divorce on my husband and steal from him under color of law. It's against my beliefs."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "IPA: /bɪˈliːf/, /bəˈliːf/",
+                        "Rhymes: -iːf",
+                        "Hyphenation: be‧lief"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "certainty": [
+            {
+                "etymology": "From Middle English certeynte (“surety”), from Anglo-Norman certeinte, from Old French certeinete, from Vulgar Latin *certānitās, from Latin certus.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#certainty (countable and uncountable, plural certainties)",
+                            "The state of being certain.\nSynonyms: certitude, surenessAntonyms: doubt, uncertainty",
+                            "An instance of being certain.",
+                            "A fact or truth unquestionably established.\nSynonym: sure thing"
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "certain"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(General American) IPA: /ˈsɝtn̩ti/",
+                        "(Received Pronunciation) IPA: /ˈsɜːtn̩ti/",
+                        "Hyphenation: cer‧tain‧ty"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "pregnant": [
+            {
+                "etymology": "From Middle English preignant, from Old French preignant, pregnant, also prenant (compare archaic Modern French prégnant), and their source, Latin praegnāns (“pregnant”), probably from prae- (“pre-”) + gnascī (“to be born”). Displaced Old English ēacniende (literally “increasing”).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#pregnant (comparative more pregnant, superlative most pregnant)",
+                            [
+                                "(chiefly not comparable) Carrying developing offspring within the body.",
+                                "(of a couple) Expecting a baby together."
+                            ],
+                            "(comparable) Having numerous possibilities or implications; full of promise; abounding in ability, resources, etc.",
+                            "(now poetic) Fertile, prolific (usually of soil, ground etc.).",
+                            "(obsolete) Affording entrance; receptive; yielding; willing; open; prompt.",
+                            "(obsolete) Ready-witted; clever; ingenious."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(carrying offspring (standard)): expecting, expecting a baby, expectant, gravid (of animals only), with child, fertilized",
+                                    "(carrying offspring (colloquial/slang)): eating for two, having a bun in the oven, in a family way, knocked up, preggers, up the duff, up the spout",
+                                    "(carrying offspring (euphemistic)): in an interesting condition, in a family way",
+                                    "(having many possibilities or implications): meaningful, significant",
+                                    "See also Thesaurus:pregnant"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "(carrying developing offspring): in trouble"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "I went to the doctor and, guess what, I'm pregnant!"
+                            },
+                            {
+                                "index": 1,
+                                "text": "We are pregnant."
+                            },
+                            {
+                                "index": 2,
+                                "text": "a pregnant pause"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#pregnant (plural pregnants)",
+                            "A pregnant person."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "IPA: /ˈpɹɛɡnənt/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Apparently from Middle French pregnant, preignant (“pressing, compelling”), present participle of prembre (“to press”), from Latin premere (“to press”).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#pregnant (comparative more pregnant, superlative most pregnant)",
+                            "(now rare) Compelling; clear, evident. [from 14th c.]"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "IPA: /ˈpɹɛɡnənt/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "interesting condition": [
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#interesting condition (plural interesting conditions)",
+                            "(euphemistic, archaic) Pregnancy [from mid-18th c.]"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "covert": [
+            {
+                "etymology": "Borrowed from Old French covert, past participle of covrir (“to cover”) (corresponding to Latin coopertus); cognate to cover.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#covert (comparative more covert, superlative most covert)",
+                            "(now  rare) Hidden, covered over; overgrown, sheltered.",
+                            "(figurative) Secret, surreptitious, concealed."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "See also Thesaurus:covert",
+                                    "feme covert"
+                                ]
+                            },
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "overt"
+                                ]
+                            },
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "cover"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#covert (plural coverts)",
+                            "A covering.",
+                            "A disguise.",
+                            "A hiding place.",
+                            "Area of thick undergrowth where animals hide.",
+                            "(ornithology) A feather that covers the bases of flight feathers."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "Adjective:",
+                        "(UK) IPA: /ˈkʌvət/, /ˈkəʊvəːt/",
+                        "(US) IPA: /ˈkoʊvəɹt/, /koʊˈvɜɹt/, /ˈkʌvəɹt/",
+                        "Noun:",
+                        "(UK) IPA: /ˈkʌvət/, /ˈkəʊvəːt/, /ˈkʌvə/",
+                        "(US) IPA: /ˈkʌvəɹt/, /ˈkoʊvəɹt/, /ˈkʌvəɹ/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "vector": [
+            {
+                "etymology": "From Latin vector (“carrier, transporter”), from vehō (“I carry, I transport, I bear”).\nThe “person or entity that passes along an urban legend or other meme” sense derives from the disease sense.\nThe mathematics sense was coined by William Rowan Hamilton in 1846.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#vector (plural vectors)",
+                            "(mathematics) A directed quantity, one with both magnitude and direction; the signed difference between two points.",
+                            "(mathematics) An ordered tuple representing a directed quantity or the signed difference between two points.",
+                            "(mathematics) Any member of a (generalized) vector space.",
+                            "(aviation) A chosen course or direction for motion, as of an aircraft.",
+                            "(epidemiology) A carrier of a disease-causing agent.",
+                            "(sociology) A person or entity that passes along an urban legend or other meme.",
+                            "(psychology) A recurring psychosocial issue that stimulates growth and development in the personality.",
+                            "The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.(Can we add an example for this sense?)",
+                            "(computing, operating systems) A memory address containing the address of a code entry point, usually one which is part of a table and often one that is dereferenced and jumped to during the execution of an interrupt.",
+                            "(programming) A one-dimensional array.",
+                            "(computer graphics, attributive) A graphical representation using outlines; vector graphics.\nCoordinate term: raster",
+                            "(molecular biology) A DNA molecule used to carry genetic information from one organism into another."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "hypernyms",
+                                "words": [
+                                    "tensor"
+                                ]
+                            },
+                            {
+                                "relationshipType": "hyponyms",
+                                "words": [
+                                    "axial vector",
+                                    "Burgers vector",
+                                    "change vector",
+                                    "column vector",
+                                    "Darboux vector",
+                                    "displacement vector",
+                                    "Euclidean vector",
+                                    "gradient vector",
+                                    "gyrovector",
+                                    "Laplace–Runge–Lenz vector",
+                                    "normal vector",
+                                    "null vector",
+                                    "position vector",
+                                    "Poynting vector",
+                                    "random vector",
+                                    "row vector",
+                                    "spin vector (spinor)",
+                                    "tangent vector",
+                                    "unit vector",
+                                    "wave vector"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 2,
+                                "text": "The vectors in \n\n\n\n\n\nQ\n\n\n[\nX\n]\n\n\n{\\displaystyle {\\mathbb {Q} }[X]}\n are the single-variable polynomials with rational coefficients: one is \n\n\n\n\n\nx\n\n42\n\n\n+\n\n\n1\n137\n\n\nx\n−\n1\n\n\n\n{\\displaystyle \\textstyle x^{42}+{\\frac {1}{137}}x-1}\n."
+                            },
+                            {
+                                "index": 10,
+                                "text": "a vector image"
+                            },
+                            {
+                                "index": 10,
+                                "text": "vector graphics"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#vector (third-person singular simple present vectors, present participle vectoring, simple past and past participle vectored)",
+                            "To set (particularly an aircraft) on a course toward a selected point.",
+                            "(computing) To redirect to a vector, or code entry point."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "Hyphenation: vec‧tor",
+                        "(UK) IPA: /ˈvɛktə/",
+                        "(US) enPR: vĕk'tər, IPA: /ˈvɛktɚ/",
+                        "Rhymes: -ɛktə(ɹ)"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "DNA": [
+            {
+                "etymology": "",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#DNA (countable and uncountable, plural DNAs)",
+                            "(informal) The part of a living being that carries genetic information.",
+                            "(biochemistry) A biopolymer of deoxyribonucleic acid (a type of nucleic acid) that has four different chemical groups, called bases: adenine, guanine, cytosine, and thymine.",
+                            "(figurative, business) The fundamental values or vision of an organization."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "proper noun",
+                        "text": [
+                            "#DNA",
+                            "Defense Nuclear Agency."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "phrase",
+                        "text": [
+                            "#DNA",
+                            "Did not answer",
+                            "Did not arrive (used when someone fails to keep an appointment)",
+                            "Did not attend",
+                            "Do not assume",
+                            "Does not apply",
+                            "Drugs 'n' alcohol",
+                            "(US, military) Do not arm."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#DNA (third-person singular simple present DNAs, present participle DNAing, simple past and past participle DNAed)",
+                            "To examine a sample of (someone's) deoxyribonucleic acid.",
+                            "(US, military) To put under a DNA order because of mental illness."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "GNA",
+                                    "PNA",
+                                    "RNA",
+                                    "TNA",
+                                    "XNA"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [],
+                    "audio": []
+                }
+            }
+        ],
+        "terminal": [
+            {
+                "etymology": "Borrowed from Late Latin terminalis (“pertaining to a boundary or to the end, terminal, final”), from Latin terminus (“a bound, boundary, limit, end”). See term, terminus.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "noun",
+                        "text": [
+                            "#terminal (plural terminals)",
+                            "A building in an airport where passengers transfer from ground transportation to the facilities that allow them to board airplanes.",
+                            "A harbour facility where ferries embark and disembark passengers and load and unload vehicles.",
+                            "A rail station where service begins and ends; the end of the line. For example: Grand Central Terminal in New York City.",
+                            "A rate charged on all freight, regardless of distance, and supposed to cover the expenses of station service, as distinct from mileage rate, generally proportionate to the distance and intended to cover movement expenses.",
+                            "A town lying at the end of a railroad, in which the terminal is located; more properly called a terminus.",
+                            "A storage tank for bulk liquids (such as oil or chemicals) prior to further distribution.",
+                            "(electronics) the end of a line where signals are either transmitted or received, or a point along the length of a line where the signals are made available to apparatus.",
+                            "An electric contact on a battery.",
+                            "(telecommunications) The apparatus to send and/or receive signals on a line, such as a telephone or network device.",
+                            "(computing) A device for entering data into a computer or a communications system and/or displaying data received, especially a device equipped with a keyboard and some sort of textual display.",
+                            "(computing) A computer program that emulates a physical terminal.",
+                            "(computing theory) A terminal symbol in a formal grammar.",
+                            "(biology) The end ramification (of an axon, etc.) or one of the extremities of a polypeptid."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "coterminal",
+                                    "term",
+                                    "terminable",
+                                    "terminally",
+                                    "terminate",
+                                    "terminus"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "adjective",
+                        "text": [
+                            "#terminal (comparative more terminal, superlative most terminal)",
+                            "Fatal; resulting in death.",
+                            "Appearing at the end; top or apex of a physical object.",
+                            "Occurring at the end of a word, sentence, or period of time, and serves to terminate it",
+                            "(archaic) Occurring every term; termly."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "synonyms",
+                                "words": [
+                                    "(appearing at the end): endly, final, late, endsome"
+                                ]
+                            },
+                            {
+                                "relationshipType": "antonyms",
+                                "words": [
+                                    "non-terminal",
+                                    "(illness): early",
+                                    "(appearing at the end): initial, early"
+                                ]
+                            },
+                            {
+                                "relationshipType": "related terms",
+                                "words": [
+                                    "term",
+                                    "terminus",
+                                    "terminate",
+                                    "termination",
+                                    "(illness): incurable"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "terminal cancer"
+                            },
+                            {
+                                "index": 3,
+                                "text": "a student's terminal fees"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "#terminal (third-person singular simple present terminals, present participle terminaling or terminalling, simple past and past participle terminaled or terminalled)",
+                            "To store bulk liquids (such as oil or chemicals) in storage tanks prior to further distribution."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "(US) IPA: /ˈtɚmɪnəl/"
+                    ],
+                    "audio": []
+                }
+            }
+        ]
+    },
+    "ro": {
+        "salut": [
+            {
+                "etymology": "Din franceză salut.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "formulă sau gest de politețe cu care se salută.",
+                            "alocuțiune cu care se salută o adunare, un oaspete oficial."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /sa'lut/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "a": [
+            {
+                "etymology": "Din greacă antică Α (a, „alpha”), prin latină < limba feniciană.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "(literă minusculă) prima literă a alfabetului român, situată înainte de litera b.",
+                            "sunet notat cu această literă (vocală deschisă nerotunjită medială)."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "abecedar"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte apropiate",
+                                "words": [
+                                    "ă",
+                                    "â"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "De la a la z = de la început până la sfârșit; totul, în întregime"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /a/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Formație onomatopeică.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "interjecție",
+                        "text": [
+                            "exclamație care exprimă surprindere, admirație, entuziasm, plăcere, satisfacție, necaz, supărare, regret, indignare, reamintirea bruscă a unui lucru omis."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "ah"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /a/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Din latină ad.",
+                "definitions": [],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /a/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Din al.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "articol",
+                        "text": [
+                            "forma de feminin singular pentru al.",
+                            "forma de masculin plural pentru al.",
+                            "forma de feminin plural pentru al."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "2: ai",
+                                    "3: ale"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /a/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "acuarelă": [
+            {
+                "etymology": "Din franceză aquarelle.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "tehnică picturală în care sunt întrebuințate culori diluate cu apă.",
+                            "vopsea solidă care se întrebuințează în acuarelă.",
+                            "pictură executată în acuarelă."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte apropiate",
+                                "words": [
+                                    "acuarelist, acuarelistă",
+                                    "acuarelizat"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /a.kwa're.lə/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "executa": [
+            {
+                "etymology": "Din franceză exécuter.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "(v.tranz.) a face, a confecționa, a fabrica, a prelucra, a efectua.",
+                            "(v.refl.) a face ceea ce i s-a spus.",
+                            "(v.tranz.) a face exerciții de gimnastică sau figuri de balet.",
+                            "a cânta o bucată muzicală.",
+                            "(v.tranz.) a sili pe debitor sa-și îndeplinească obligațiile.",
+                            "a aduce la îndeplinire o hotărâre judecătorească, un act al autorității, o măsură etc.",
+                            "(v.refl.) a se supune, a da ascultare.",
+                            "a supune un condamnat la pedeapsa cu moartea; a aduce la îndeplinire o hotărâre de condamnare la moarte."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "1: confecționa, efectua, face, făuri, înfăptui, realiza, (pop. și fam.) meșteri, meșterui, realiza, săvârși",
+                                    "2: efectua, face, împlini, îndeplini, înfăptui, realiza, săvârși, (înv. și pop.) plini",
+                                    "4: cânta",
+                                    "6: aplica, îndeplini"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "executabil",
+                                    "executant",
+                                    "executare",
+                                    "executiv",
+                                    "executor",
+                                    "execuție, execuțiune",
+                                    "neexecuta"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "A executa un obiect."
+                            },
+                            {
+                                "index": 0,
+                                "text": "Executez o lucrare durabilă."
+                            },
+                            {
+                                "index": 1,
+                                "text": "Am executat tot ce mi-ai dat de făcut."
+                            },
+                            {
+                                "index": 5,
+                                "text": "A executa o hotărâre judecătorească."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "Pronunție lipsă. (Modifică pagina)"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "bucată": [
+            {
+                "etymology": "Din latină buccata.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "parte tăiată, ruptă, desfăcută dintr-un corp solid, dintr-un întreg; dărab.",
+                            "(determinat prin „de drum”, „de cale” sau presupunând această determinare) distanță, porțiune.",
+                            "(determinat prin „de vreme”, „de timp” sau presupunând această determinare) interval, perioadă.",
+                            "(în limbajul comercial și în cel industrial) exemplar, piesă, parte, unitară dintr-un ansamblu, dintr-o mulțime de obiecte de același fel.",
+                            "operă (sau fragment unitar) literară sau muzicală de dimensiuni relativ reduse.",
+                            "(la pl.) (feluri de) mâncare.",
+                            "(pop.) (recoltă de) grâne, cereale."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "bucătar",
+                                    "bucățea",
+                                    "bucăți",
+                                    "bucățică"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "A vinde(sau a cumpăra) cu bucata = a vinde (sau a cumpăra) cu amănuntul, în detaliu",
+                            "A plăti cu bucata (sau, rar bucată) = a plăti munca după numărul de piese executate; a plăti în acord",
+                            "A face ceva din bucăți = a confecționa, a încropi ceva din părți sau piese care provin din ansambluri diferite",
+                            "Om dintr-o bucată = om integru",
+                            "A face(cuiva) bucata = a face (cuiva) cu intenție un lucru neplăcut, un rău, a-i provoca o încurcătură"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /bu'ka.tə/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "mâncare": [
+            {
+                "etymology": "Din a mânca.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "acțiunea de a mânca și rezultatul ei.",
+                            "(abstract) prânz, cină, masă.",
+                            "(concr.) ceea ce se mănâncă.",
+                            "(fig.) (fam. și depr.) soi, fel."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "1: (mai ales în vorbirea copiilor) păpare, (înv. și pop.) ospătare, (fam.) halire, (depr.) rumegare, consumare, mâncat, (înv. și reg.) mâncătură, alimentare, alimentație, hrănire, nutrire, nutriție, (livr.) nutriment",
+                                    "2: masă",
+                                    "3: (concr.) aliment, hrană, (mai ales în vorbirea copiilor) [papă], (pop.) bucate (pl.), demâncare, demâncat, legumă, merinde (pl.), de-ale gurii, (reg.) cost, tain, (Transilv., Maram. și Bucov.) menajă, (înv.) piștă, vipt, (fam.) haleală, (fam. depr.) crăpelniță"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "mânca",
+                                    "mâncat",
+                                    "mâncăcios",
+                                    "mâncălău",
+                                    "mâncărică",
+                                    "mâncărie",
+                                    "mâncătorie",
+                                    "mâncărime",
+                                    "mâncător",
+                                    "mâncătură",
+                                    "mâncău"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "În timpul mâncării."
+                            },
+                            {
+                                "index": 2,
+                                "text": "Ce mâncare ai luat la drum?"
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "Poftă de mâncare = apetit",
+                            "De mâncare sau de-ale mâncării = hrană, alimente",
+                            "A strica mâncarea degeaba = a trăi degeaba, fără a fi de vreun folos, a nu fi bun de nimic",
+                            "A o duce într-o mâncare și într-o băutură = a petrece, a chefui întruna",
+                            "Asta-i altă mâncare (de pește) = asta e cu totul altceva",
+                            "A fi tot o mâncare de pește = a fi același lucru, a fi totuna"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /mɨn'ka.re/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "masă": [
+            {
+                "etymology": "Din franceză masse.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "mulțime compactă de oameni, considerată ca o unitate; grupare mare de oameni cu anumite caractere comune; cercuri largi ale populației.",
+                            "îngrămădire de elemente (de aceeași natură ori diferite) care alcătuiesc împreună un singur corp; (totalitatea unui) corp format printr-o asemenea îngrămădire de elemente.",
+                            "cantitate mare din ceva (în raport cu restul ansamblului).",
+                            "corp solid, compact; bloc.",
+                            "(fiz.) cantitatea de materie a unui corp considerată ca o mărime caracteristică (în raport cu volumul).",
+                            "(jur.) totalitate a creditelor sau datoriilor unui falit; fond bănesc al unei succesiuni sau al unei întreprinderi lucrative."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "mescioară",
+                                    "mesean",
+                                    "mesișoară"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /'ma.sə/",
+                        "AFI: /'ma.sə/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Din latină mensa.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "mobilă formată dintr-o placă dreptunghiulară, pătrată sau rotundă, sprijinită pe unul sau mai multe picioare și pe care se mănâncă, se scrie etc.",
+                            "(cu sens colectiv) persoanele care stau în jurul aceleiași mese și mănâncă; mesenii.",
+                            "ceea ce se mănâncă; mâncare, bucate; (p.ext.) prânz, cină; ospăț, banchet.",
+                            "nume dat mai multor obiecte sau părți de obiecte care seamană cu o masă și se folosesc în diverse scopuri practice."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "măsai",
+                                    "măsar",
+                                    "măsoi",
+                                    "măsuță",
+                                    "măsăriță"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "Capul  (sau fruntea)  mesei = locul de cinste ocupat de unul dintre comeseni",
+                            "A pune  (sau a întinde, a așterne)  masa = a aranja, a pregăti și a pune pe masă toate cele necesare pentru a servi mâncarea",
+                            "A strânge masa = a aduna de pe masă mâncările rămase și farfuriile, tacâmurile etc. cu care s-a mâncat",
+                            "A nu avea ce pune pe masă = a nu avea cu ce trăi, a fi sărac",
+                            "Pune-te  (sau întinde-te) masă, scoală-te  (sau ridică-te) masă = a) se spune despre cei care duc o viață plină de desfătări, care trăiesc fără griji, care așteaptă totul de-a gata; b) se spune când ești obligat să servești mereu de mâncare",
+                            "A întinde masă mare sau a ține masă întinsă = a primi invitați mulți, a oferi ospețe, banchete; p.ext. a se ține de petreceri",
+                            "A pune  (pe cineva) la masă cu tine = a trata (pe cineva) ca pe un prieten apropiat",
+                            "A lua masa sau a sta  (ori a ședea) la masă = a mânca de prânz sau de cină",
+                            "A avea casă și masă = a avea ce-i trebuie pentru a trăi",
+                            "A-i fi  (cuiva) casa casă și masa masă = a duce o viață ordonată, fără necazuri"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /'ma.sə/",
+                        "AFI: /'ma.sə/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "corp": [
+            {
+                "etymology": "Din latină corpus. Confer franceză corps, italiană corpo.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "#I.",
+                            "totalitatea organelor unei ființe vii; organismul considerat ca un întreg anatomic și funcțional; trup.",
+                            "cadavru.",
+                            "denumire a unor structuri anatomice.",
+                            "partea principală a unui obiect, a unei construcții, a unei mașini etc.",
+                            "conținutul unei scrisori (fără formula de introducere și de încheiere și fără adresă); cuprinsul unei cărți.",
+                            "(fiz.) agregat de molecule, porțiune de materie cu masă diferită de zero.",
+                            "(chim.) substanța definită (organică sau anorganică).",
+                            "#II.",
+                            "totalitatea persoanelor care, prin funcție sau prin profesiune, formează o unitate deosebită, legal constituită.",
+                            "(cu determinări introduse de prepozitia \"de\") mare [unitate] militară, cuprinzând mai multe divizii, de obicei de aceeași categorie.\nCorp de aviație."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "1: (anat.) trup",
+                                    "2: cadavru",
+                                    "3: (anat.) trunchi, trup",
+                                    "4: cuprins"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "corporal",
+                                    "corporatism",
+                                    "corporativ",
+                                    "corporație",
+                                    "corpulent",
+                                    "corpuscul",
+                                    "incorpora"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Sufletul și corpul."
+                            },
+                            {
+                                "index": 2,
+                                "text": "Omul este alcătuit din cap, gât, corp și membre."
+                            },
+                            {
+                                "index": 2,
+                                "text": "Corp galben."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "A face corp cu cineva = a se uni, a se asocia cu cineva",
+                            "Corp de casă (sau de case) = clădire, casă mare (cu mai multe apartamente sau aripi"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /korp/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "denumire": [
+            {
+                "etymology": "Din a denumi.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "faptul de a denumi; numire."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "nume"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "denumi",
+                                    "denumit"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "♦ Nume dat unei ființe sau unui lucru; cuvânt cu care numim ceva."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /de.nu'mi.re/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "cuvânt": [
+            {
+                "etymology": "Din latină conventus (\"adunare, întrunire\"), conventum (\"înțelegere\").\nÎnrudit cu franceză couvent (\"mănăstire\").",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "unitate de bază a vocabularului, care reprezintă asocierea unui sens (sau a unui complex de sensuri) și a unui complex sonor.",
+                            "gând, idee exprimată prin vorbe.",
+                            "subiect de vorbă, de povestire, istorisire.",
+                            "cuvântare, discurs, conferință.",
+                            "învățătură, îndrumare, sfat: p. ext. dispoziție, ordin.",
+                            "promisiune, făgăduială.",
+                            "părere, opinie exprimată.",
+                            "libertate, drept de a revendica ceva.",
+                            "(mai ales la pl.) discuție, ceartă, ciorovăială.",
+                            "motiv, rațiune, cauză.",
+                            "(înv.) știre, veste, informație.",
+                            "(înv.) înțelegere, pact, acord, convenție.",
+                            "(rar) facultatea de a vorbi.",
+                            "(inform.) format standard în care se înscriu datele și instrucțiunile la (mini)calculatoare."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "1: termen, vorbă, (livr.) verb, vocabulă, (pop.) zicere, (reg.) boace, (înv.) glas, grai, limbă, parolă, vorbire, voroavă",
+                                    "2: spusă",
+                                    "3: istorisire",
+                                    "4: discurs, conferință",
+                                    "6: angajament",
+                                    "8: libertate, drept",
+                                    "11: zvon",
+                                    "13: voce, grai"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "binecuvânta",
+                                    "binecuvântare",
+                                    "cuvânta",
+                                    "cuvântare",
+                                    "cuvântăreț",
+                                    "cuvântător",
+                                    "necuvântător",
+                                    "precuvânta",
+                                    "precuvântare"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte apropiate",
+                                "words": [
+                                    "spune",
+                                    "vorbi",
+                                    "zice"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Un cuvânt nou intrat în limbă."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "A nu găsi (sau a nu avea) cuvinte = a nu fi în stare (sub impulsul unor stări afective puternice) să exprimi ceea ce gândești",
+                            "Cu alte cuvinte = a) exprimând același lucru altfel; b) deci, prin urmare, așadar",
+                            "Într-un (sau cu un) cuvânt = pe scurt, în concluzie, deci, așadar",
+                            "În puține cuvinte = pe scurt, în rezumat",
+                            "Cuvânt cu (sau de) cuvânt = fără nici o modificare, exact, fidel. Dintr-un cuvânt = imediat, numaidecât",
+                            "A pune un cuvânt (bun) = a interveni (favorabil) pentru cineva",
+                            "În (toată) puterea cuvântului = în înțelesul adevărat, pe deplin, cu desăvârșire",
+                            "A tăia (sau a curma) cuiva cuvântul = a întrerupe pe cineva din vorbă",
+                            "(reg.) A începe cuvânt = a începe vorba, a spune",
+                            "A cere (sau a da, a avea) cuvântul (într-o sedință, într-o adunare) = a cere (sau a da cuiva etc.) dreptul de a vorbi",
+                            "A lua cuvântul = a vorbi (într-o adunare)",
+                            "A-i lua cuiva cuvântul = a interzice cuiva să-și mai continue afirmațiile (într-o adunare)",
+                            "A înțelege (sau a ști) de cuvânt = a asculta de spusele, de sfaturile cuiva",
+                            "Om de cuvânt = om care își ține făgăduielile",
+                            "Cuvânt de onoare (sau de cinste, de om) = promisiune sau asigurare care angajează cinstea cuiva",
+                            "A(-și) da cuvântul (de onoare) = a se angaja în mod hotărât că va face cu orice preț ceva",
+                            "(A crede) pe cuvânt = (a crede) fără a mai controla exactitatea spuselor",
+                            "A-și ține cuvântul sau a se ține de cuvânt = a-și îndeplini o promisiune făcută",
+                            "Schimb de cuvinte = discuție aprinsă, ceartă, sfadă",
+                            "(reg.) Nu-i cuvânt = e indiscutabil",
+                            "Cu drept cuvânt = pe bună dreptate, la drept vorbind"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /ku'vɨnt/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "facultate": [
+            {
+                "etymology": "Din franceză faculté < latină facultas, facultatis.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "capacitate, posibilitate, însușire morală sau intelectuală a cuiva; aptitudine.",
+                            "însușire, capacitate pe care o are un fenomen, un obiect, un sistem etc. de a acționa, a se dezvolta, a realiza ceva.",
+                            "unitate didactică și administrativă în cadrul unei instituții de învățământ superior, condusă de un decan și cuprinzând un ansamblu de discipline înrudite între ele, pentru pregătirea studenților și a doctoranzilor într-un anumit domeniu de specialitate."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /fa.kul'ta.te/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "cadru": [
+            {
+                "etymology": "Din franceză cadre.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "ramă în care se fixează un tablou, o fotografie etc.",
+                            "tablou, fotografie etc. înrămate.",
+                            "(fig.) persoană foarte frumoasă.",
+                            "pervaz al unei uși sau al unei ferestre.",
+                            "deschizătură a zidului ocupată de o ușă sau de o fereastră.",
+                            "desen care înconjură, mărginește un text, o hartă, o fotografie etc.",
+                            "porțiune a unei mărci poștale pe care este executat desenul.",
+                            "(fig.) mediu, ambianță.",
+                            "spațiu în limitele căruia este cuprinsă o imagine pe o peliculă cinematografică.",
+                            "(fig.) limitele unei probleme, ale unui subiect, ale unei acțiuni etc.; (p.ext.) cuprinsul dintre aceste limite.",
+                            "schelet alcătuit din bare de lemn, de metal sau din grinzi de beton armat, care se întrebuințează la construcții; suport pentru diferite aparate.",
+                            "schelet pe care sunt înfășurate conducte (electrice, radiofonice etc.) izolate.",
+                            "(la pl.) efectiv de bază al salariaților dintr-o întreprindere sau dintr-o instituție, dintr-un sindicat etc.; elementele de conducere și de comandă ale subunităților și unităților militare; (p.gener.) întregul efectiv al unei întreprinderi sau al unei instituții.",
+                            "(rar) persoană din efectivul unei întreprinderi sau instituții, dintr-o organizație etc.",
+                            "(ieșit din uz; la pl.) subdiviziune în administrația internă a unei instituții, întreprinderi etc. care se ocupă cu angajarea personalului., cu evidența lui etc.; serviciul personal.",
+                            "(astăzi rar; la pl.) serviciu care se ocupă cu angajarea și evidența personalului unei întreprinderi, instituții etc."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /'ka.dru/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "serviciu": [
+            {
+                "etymology": "Din franceză service < latină servitium.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "acțiunea, faptul de a servi, de a sluji; formă de muncă prestată în folosul sau în interesul cuiva.",
+                            "(în construcție cu verbele „a face”, „a aduce”) faptă, acțiune care servește, avantajează pe cineva; îndatorire, obligație.",
+                            "ocupație pe care o are cineva în calitate de angajat; slujbă.",
+                            "îndatorire care revine cuiva în calitate de angajat; îndeplinirea acestei îndatoriri.",
+                            "funcție.",
+                            "subdiviziune în administrația internă a unei instituții, întreprinderi etc. cuprinzând mai multe secții; (p.ext.) colectivul de muncă corespunzător.",
+                            "grup de obiecte care alcătuiesc un tot cu destinație specială.",
+                            "mulțime ordonată în timp a regimurilor succesive ale unui sistem tehnic.",
+                            "(sport) punere în joc a mingii."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "contraserviciu",
+                                    "deserviciu"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 4,
+                                "text": "Serviciu de casier."
+                            },
+                            {
+                                "index": 6,
+                                "text": "Serviciu de cafea."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "A fi (sau a se pune) în serviciul cuiva (sau a ceva) = a sluji, a servi unei persoane sau unui scop, unei idei etc",
+                            "A face un prost (sau un rău)  serviciu cuiva = a face cuiva (fără voie) un rău",
+                            "(despre angajați, ostași, elevi) (a fi)  de serviciu = (a fi) însărcinat cu o misiune specială în cadrul obligațiilor profesionale",
+                            "A intra în serviciu = a deveni salariat"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /ser'vi.ʧju/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "mulțime": [
+            {
+                "etymology": "Din mult + sufixul -ime.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "(la sg., adesea cu determinări) număr mare de ființe sau de lucruri, cantitate mare.",
+                            "(la sg.) lume multă strânsă laolaltă, grămadă de oameni; (spec.) masele largi ale populației; colectivitate.",
+                            "(mat.) ansamblu de obiecte, numite elemente, grupate fie prin indicarea tuturor elementelor, fie prin formularea unei proprietăți caracteristice lor și numai lor."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "submulțime"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /mul'ʦi.me/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "numit": [
+            {
+                "etymology": "Din a numi.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjectiv",
+                        "text": [
+                            "care poartă numele sau porecla de..., cu numele de..., al cărui nume este...",
+                            "care a fost citat mai înainte, al cărui nume s-a pomenit mai înainte.",
+                            "(înv.) cunoscut, renumit, celebru."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /nu'mit/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "vesti": [
+            {
+                "etymology": "Din veste.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "(v.tranz.) a aduce la cunoștință, a face cunoscut; a înștiința, a anunța, a informa.",
+                            "(v.tranz.) a face să se prevadă; a prevesti.",
+                            "(v.refl.) a-și face cunoscută, simțită existență sau prezența.",
+                            "(v.refl.) (înv.) a deveni vestit, faimos.",
+                            "(v.tranz.) a socoti pe cineva drept..., a considera ca...; a aprecia."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "prevesti",
+                                    "vestire",
+                                    "vestit",
+                                    "vestitor"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /ves'ti/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "drept": [
+            {
+                "etymology": "Din latină directus (cu unele sensuri după franceză droit).",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjectiv",
+                        "text": [
+                            "care merge de la un punct la altul fără ocol, fără abatere.",
+                            "(fig.) (despre privire) care este fără ascunzișuri; deschis, direct.",
+                            "(despre haine) care are o croială simplă, fără cute, clini etc.",
+                            "(despre lucruri, ființe, părți ale lor etc.) care are o poziție verticală (față de un punct de reper).",
+                            "(despre terenuri înclinate, forme de relief sau părți ale lor) aproape vertical; abrupt, povârnit.",
+                            "(despre litere; adesea substantivat, f.) care are tăietura verticală.",
+                            "care are o poziție orizontală (față de un punct de reper); orizontal; plan, neted.",
+                            "(fig.) (despre acțiuni ale omului sau despre noțiuni abstracte) care este, se face etc. potrivit dreptății și adevărului; întemeiat, just, cinstit, bun.",
+                            "(adverbial) în conformitate cu dreptatea, just; în conformitate cu adevărul, adevărat; corect.",
+                            "(despre oameni) care trăiește și lucrează conform dreptății, adevărului, omeniei, binelui; cinstit, integru, cumsecade.",
+                            "(în limbajul bisericesc) cuvios, cucernic.",
+                            "(reg.; despre bunuri materiale) care aparține sau se cuvine cuiva pe temeiul unei legi sau al unei recunoașteri oarecare.",
+                            "(pop.; despre rude) care este legat de cineva prin legături directe, de sânge; adevărat, bun.",
+                            "(în opoziție cu stâng) (despre organe ale corpului) așezat în partea opusă părții corpului omenesc în care se află inima.",
+                            "care se află de partea sau în direcția mâinii drepte (când cineva stă cu fața în direcția în care este orientat un lucru) aripa dreaptă a clădirii.",
+                            "(substantivat; în locuțiuni)"
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "dreptaci",
+                                    "dreptar",
+                                    "dreptunghi",
+                                    "nedrept",
+                                    "îndrepta",
+                                    "îndreptui"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Merge drept la birou."
+                            },
+                            {
+                                "index": 1,
+                                "text": "A ajuns drept la timp."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "A se ține drept = a avea o poziție perfect verticală",
+                            "(mil.) A lua (sau a sta, a se ține în) poziția de drepți = a lua (sau a sta, a se ține în) poziție perfect verticală, stând nemișcat",
+                            "(cu valoare de interjecție) Drepți! = formulă de comandă militară pentru luarea poziției de drepți",
+                            "(adverbial) A călca drept = a avea o purtare bună, cinstită",
+                            "A sta drept = a avea o atitudine de neclintit, a fi dârz, curajos",
+                            "Ce-i drept = într-adevăr, cu adevărat",
+                            "Ce-i drept e drept, = se spune pentru a recunoaște un adevăr incontestabil",
+                            "Drept că... = adevărat că..",
+                            "A spune drept = a spune adevărul; a vorbi deschis, sincer",
+                            "(substantivat) La drept (sau la dreptul) vorbind = în realitate, de fapt",
+                            "(substantivat) A se odihni cu drepții = a fi mort",
+                            "A fi mâna dreaptă a cuiva sau brațul drept al cuiva = a fi cel mai intim, cel mai apropiat colaborator al cuiva; a-i fi cuiva de mare ajutor",
+                            "(substantivat) În dreapta și în stânga sau de-a dreapta și de-a stânga = în ambele părți; în toate părțile, pretutindeni",
+                            "A ține dreapta = a merge pe partea dreaptă a unui drum"
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Merge drept la birou."
+                            },
+                            {
+                                "index": 1,
+                                "text": "A ajuns drept la timp."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "adverb",
+                        "text": [
+                            "(urmat de determinări locale, indică direcția) în linie dreaptă, fără ocol; direct.",
+                            "(urmat de determinări locale, modale sau temporale) tocmai, exact."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Drept penal."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "De-a dreptul = fără a se abate din drum, fără înconjur; în mod direct, nemijlocit; chiar"
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Drept penal."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "totalitatea regulilor și normelor juridice care reglementează relațiile sociale dintr-un stat.",
+                            "știință sau disciplină care studiază dreptul.",
+                            "putere, prerogativă legal recunoscută unei persoane de a avea o anumită conduită, de a se bucura de anumite privilegii etc.; drit.",
+                            "răsplată, retribuție care i se cuvine cuiva pentru prestarea unei munci."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "dreapta",
+                                    "dreptul"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "Drept care... = prin urmare, în concluzie, deci, așadar",
+                            "A i se pune soarele drept în inimă = a i se face foame"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /drept/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "cuvios": [
+            {
+                "etymology": "Din a (se) cuveni + sufixul -os.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjectiv",
+                        "text": [
+                            "cucernic, evlavios, pios.",
+                            "(adesea substantivat) titlu care se dă călugărilor și călugărițelor.",
+                            "(înv.) cuviincios."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "cuvioșie",
+                                    "preacuvios"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    },
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "( în religia creștină) nume dat sfinților proveniți din călugări care nu au fost martiri."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /ku.vi'os/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "frunte": [
+            {
+                "etymology": "Din latină frons, frontis.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "(la oameni) partea superioară a feței, formată din osul frontal, cuprinsă între sprâncene și păr și mărginită lateral de tâmple; (la animale) partea dinainte a capului, imediat deasupra ochilor.",
+                            "cap; față, chip.",
+                            "(fig.) (adesea articulat) tot ce e mai bun, mai ales, mai de seamă, ceea ce e de calitate superioară; persoană care se distinge, care se relevă primul (dintre alții).",
+                            "lichid obținut la începutul unei distilări fracționate."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "fruntaș"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /'frun.te/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "fracționat": [
+            {
+                "etymology": "Din a fracționa.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjectiv",
+                        "text": [
+                            "divizat în fracțiuni; îmbucătățit."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "Pronunție lipsă. (Modifică pagina)"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "prim": [
+            {
+                "etymology": "Din maghiară prém.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "(reg.) garnitură din blană (neagră, de miel) aplicată pe marginea căciulilor, a pieptarelor, a hainelor."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /prim/",
+                        "AFI: /prim/"
+                    ],
+                    "audio": []
+                }
+            },
+            {
+                "etymology": "Din latină primus.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "numeral",
+                        "text": [
+                            "(num.ord.) (adesea cu valoare de adjectiv) cel dintâi (în spațiu sau în timp); care se află la început, în fruntea unei serii; întâi, dintâi.",
+                            "(num.ord.) (cu valoare adverbială, la f.; fam.) mai întâi; primo.",
+                            "(num.ord.) care este înaintea tuturor în privința însemnătății, a rangului, a calităților; important, principal.",
+                            "(num.ord.) (ca element de compunere, precedând un termen care indică o funcție sau un grad ierarhic) pe treapta cea mai înaltă, întâiul în categoria respectivă.",
+                            "(num.ord.) (despre instrumente, voci, instrumentiști) care execută melodia principală, dominantă."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "prim-ministru",
+                                    "prim-plan",
+                                    "prim-pretor"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 3,
+                                "text": "Prim-solist."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /prim/",
+                        "AFI: /prim/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "căciulă": [
+            {
+                "etymology": "Înrudit cu kësul'ë din albaneză.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "obiect confecționat din blană de oaie sau de alt animal și care servește la acoperirea capului.",
+                            "(fig.) om, persoană, individ.",
+                            "obiect în formă de căciulă (care servește ca acoperământ pentru coșuri, canale etc.).",
+                            "partea superioară a ciupercii."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "căciular",
+                                    "căciuli",
+                                    "căciuliță",
+                                    "căciuloi"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 1,
+                                "text": "Câte cinci lei de căciulă."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "A-și lua (sau a-și scoate) căciula (de pe cap) = a-și descoperi capul în semn de salut sau de respect",
+                            "La așa cap, așa căciulă = cum e omul, așa e și purtarea lui",
+                            "A-i ieși (cuiva) părul prin căciulă  = a) a i se urî așteptând; b) a o duce greu; a sărăci",
+                            "A fi(sau a se ști, a se simți) cu musca pe căciulă = a se simți vinovat",
+                            "(Asta sau aia e) altă căciulă = (aceasta e) altceva, altă socoteală",
+                            "A da cu căciula în câini = a fi cu chef, a-și face de cap",
+                            "(Bun de) să dai cu căciula-n câini = foarte gustos",
+                            "Bună ziua căciulă (că stăpânu-tău n-are gură)! = se spune, în bătaie de joc, unuia care nu salută"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /kə'ʧju.lə/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "prim-ministru": [
+            {
+                "etymology": "Din prim + ministru.",
+                "definitions": [],
+                "pronunciations": {
+                    "text": [
+                        "Pronunție lipsă. (Modifică pagina)"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "serie": [
+            {
+                "etymology": "Din franceză série < latină séries.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "înșiruire de termeni care se succedă potrivit unei anumite legi; succesiune neîntreruptă de lucruri, de fapte etc. de același fel, care formează un ansamblu sau care sunt considerate astfel; șir; (p.ext.) mulțime, sumă.",
+                            "grup, tranșă, categorie într-o succesiune sau într-o clasificare.",
+                            "expresie matematică formată dintr-o infinitate de termeni care se deduc unul din altul conform unei anumite reguli și care sunt legați între ei cu semnul plus sau minus.",
+                            "(chim.) grup de compuși organici caracterizați prin faptul că fiecare are în molecula lui câte un atom de carbon și doi atomi de hidrogen mai mult decât compusul precedent al grupului.",
+                            "număr de ordine care se aplică pe mărfurile fabricate într-un număr mare de exemplare de același tip.",
+                            "număr caracteristic unuia dintre tipurile de fabricație a unor produse finite.",
+                            "complex de straturi care s-au depus în timpul unei epoci geologice.",
+                            "grup de sunete sau de foneme caracterizate printr-o trăsătură comună."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "înseria"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /'se.ri.je/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "grup": [
+            {
+                "etymology": "Din franceză groupe.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "ansamblu de obiecte, de animale sau de plante asemănătoare, aflate laolaltă.",
+                            "ansamblu de obiecte, de piese etc. de același fel, reunite pe baza caracteristicilor funcționale și alcătuind un tot.",
+                            "ansamblu de persoane reunite (în mod stabil sau temporar) pe baza unei comunități de interese, de concepții etc.; grupă, colectiv.",
+                            "(spec.) fracțiune politică; grupare formată din reprezentanții unui partid sau ai unui curent politic.",
+                            "(mat.) mulțime de elemente în care fiecărei perechi de elemente îi corespunde un element din aceeași mulțime, în care este adevărată asociativitatea oricare ar fi elementele mulțimii, în care există un element neutru și un element opus legii de compunere a mulțimii."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "grupuleț",
+                                    "grupușor",
+                                    "microgrup"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 1,
+                                "text": "Grup electrogen."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "Grupuri-grupuri = (în) mai multe cete sau grămezi"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /grup/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "neutru": [
+            {
+                "etymology": "Din franceză neutre < latină neuter, neutra, italiană neutro.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjectiv",
+                        "text": [
+                            "(despre state, popoare etc.) care este în stare de neutralitate, care nu face parte din beligeranți sau dintre părțile adverse; neutral.",
+                            "(p.ext.) (despre oameni sau grupuri sociale) care nu se încadrează în nici un partid, în nici un curent etc.; care se abține de la a se pronunța pro sau contra, păstrând o atitudine rezervată, pasivă.",
+                            "care nu poate fi calificat nici în sens pozitiv și nici în sens negativ, care nu trezește nici un interes deosebit, care este nesemnificativ, indiferent; care manifestă indiferență, lipsă de participare: (spec.) lipsit de valoare afectivă sau stilistică.",
+                            "(fon.) care nu participă la o anumită opoziție fonologică.",
+                            "(despre sensul cuvintelor) care este indiferent față de genul (feminin sau masculin) indicat de forma cuvântului; care se poate referi la obiecte de orice gen; neutral.",
+                            "(chim.) care nu are nici caracter acid, nici caracter bazic; neutral.",
+                            "la care ionii de hidrogen ai acidului au fost înlocuiți cu metale.",
+                            "(fiz.) care nu are sarcină electrică; care posedă în cantități egale sarcină electrică pozitivă și negativă."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "Pronunție lipsă. (Modifică pagina)"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "fonologic": [
+            {
+                "etymology": "Din franceză phonologique.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adjectiv",
+                        "text": [
+                            "care ține de fonologie sau de foneme, privitor la fonologie; fonematic."
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /fo.no'lo.ʤik/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "nici": [
+            {
+                "etymology": "Din latină nĕquĕ.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "adverb",
+                        "text": [
+                            "(precedă cuvântul sau cuvintele care poartă accentul frazei, exprimând o negație mai categorică decât „nu” și fiind de obicei dublat de „nu”)",
+                            "(împreună cu pron. nehot. „unul”, „una” formează pronume negative)",
+                            "(adjectival; urmat de art. nehot., „un”, „o”)"
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "nicicând",
+                                    "nicicum",
+                                    "nicidecum",
+                                    "nicio",
+                                    "niciodată",
+                                    "niciun",
+                                    "niciunde"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte apropiate",
+                                "words": [
+                                    "nicăieri"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Nu are timp, nici nu dorește."
+                            },
+                            {
+                                "index": 0,
+                                "text": "Nici nu vede, nici nu aude."
+                            },
+                            {
+                                "index": 1,
+                                "text": "A fost furtună mare, nu vedeai nici înainte, nici înapoi."
+                            },
+                            {
+                                "index": 2,
+                                "text": "Nici tu casă, nici tu masă."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "Nici că = deloc nu..."
+                        ],
+                        "relatedWords": [],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "Nu are timp, nici nu dorește."
+                            },
+                            {
+                                "index": 0,
+                                "text": "Nici nu vede, nici nu aude."
+                            },
+                            {
+                                "index": 1,
+                                "text": "A fost furtună mare, nu vedeai nici înainte, nici înapoi."
+                            },
+                            {
+                                "index": 2,
+                                "text": "Nici tu casă, nici tu masă."
+                            }
+                        ]
+                    },
+                    {
+                        "partOfSpeech": "expresii",
+                        "text": [
+                            "Nici una, nici două sau nici una, nici alta = îndată, numaidecât; brusc, pe neașteptate"
+                        ],
+                        "relatedWords": [],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /niʧʲ/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "poseda": [
+            {
+                "etymology": "Din franceză posséder < latină possidere. Confer italiană possedere.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "verb",
+                        "text": [
+                            "(v.tranz.) a avea ceva în proprietatea sau în stăpânirea sa, a dispune de ceva; a stăpâni.",
+                            "(la pasiv; despre oameni) a fi dominat de..., a fi stăpânit de...",
+                            "a avea anumite însușiri, caracteristici.",
+                            "a cunoaște bine un lucru; spec. a ști bine o limbă, o disciplină științifică etc."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "sinonime",
+                                "words": [
+                                    "1: avea, deține, stăpâni, (înv.) posesui",
+                                    "2, 3: avea",
+                                    "4: cunoaște, ști"
+                                ]
+                            },
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "deposeda",
+                                    "deposedare",
+                                    "deposedat",
+                                    "posedare",
+                                    "posedat",
+                                    "posesiune, posesie",
+                                    "posesor",
+                                    "posesui",
+                                    "posesuitor"
+                                ]
+                            }
+                        ],
+                        "examples": [
+                            {
+                                "index": 0,
+                                "text": "A poseda un bun material."
+                            },
+                            {
+                                "index": 3,
+                                "text": "Posed bine o limbă străină."
+                            },
+                            {
+                                "index": 3,
+                                "text": "Acest medic posedă o experiență bogată."
+                            }
+                        ]
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /po.se'da/"
+                    ],
+                    "audio": []
+                }
+            }
+        ],
+        "disciplină": [
+            {
+                "etymology": "Din franceză discipline < latină disciplina.",
+                "definitions": [
+                    {
+                        "partOfSpeech": "substantiv",
+                        "text": [
+                            "totalitatea regulilor de comportare și de ordine obligatorii pentru membrii unei colectivități.",
+                            "ordine; spirit de ordine, deprindere cu o ordine strictă.",
+                            "ramură a unei științe; (p.gener.) știință."
+                        ],
+                        "relatedWords": [
+                            {
+                                "relationshipType": "cuvinte derivate",
+                                "words": [
+                                    "autodisciplină"
+                                ]
+                            }
+                        ],
+                        "examples": []
+                    }
+                ],
+                "pronunciations": {
+                    "text": [
+                        "AFI: /dis.ʧi'pli.nə/"
+                    ],
+                    "audio": []
+                }
+            }
         ]
     }
 }
