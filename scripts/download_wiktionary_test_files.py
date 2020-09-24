@@ -56,7 +56,6 @@ def create_html_request(language: str,
 
     def on_load(response, *args, **kwargs):
         save_html_test_file(language, word, old_id, response)
-    print("caca", wiktionary_base_url.format(language) + word)
     return session.get(wiktionary_base_url.format(language) + word,
                        params={
                            'oldid': old_id
