@@ -87,15 +87,15 @@
                         "text": [
                             "#cat (plural cats)",
                             [
-                                "An animal of the family Felidae:\nSynonym: felid",
-                                "A domesticated subspecies (Felis silvestris catus) of feline animal, commonly kept as a house pet. [from 8thc.]Synonyms: puss, pussy, malkin, kitty, pussy-cat, grimalkin; see also Thesaurus:cat",
+                                "An animal of the family Felidae:",
+                                "A domesticated subspecies (Felis silvestris catus) of feline animal, commonly kept as a house pet. [from 8thc.]",
                                 "Any similar animal of the family Felidae, which includes lions, tigers, bobcats, etc."
                             ],
                             [
                                 "A person:",
-                                "(offensive) A spiteful or angry woman. [from early 13thc.]Synonym: bitch",
+                                "(offensive) A spiteful or angry woman. [from early 13thc.]",
                                 "An enthusiast or player of jazz.",
-                                "(slang) A person (usually male).\nSynonyms: bloke, chap, cove, dude, fellow, fella, guy",
+                                "(slang) A person (usually male).",
                                 "(slang) A prostitute. [from at least early 15thc.]"
                             ],
                             "(nautical) A strong tackle used to hoist an anchor to the cathead of a ship.",
@@ -108,7 +108,7 @@
                             "(archaic) The pointed piece of wood that is struck in the game of tipcat.",
                             "(slang, vulgar, African American Vernacular English) A vagina, a vulva; the female external genitalia.",
                             "A double tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed.",
-                            "(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences.\nSynonyms: tortoise, Welsh cat"
+                            "(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences."
                         ],
                         "relatedWords": [
                             {
@@ -1101,8 +1101,8 @@
                             "#line (plural lines)",
                             [
                                 "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
-                                "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.\nSynonym: straight line",
-                                "(geometry, informal) A line segment; a continuous finite segment of such a figure.\nSynonym: line segment",
+                                "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.",
+                                "(geometry, informal) A line segment; a continuous finite segment of such a figure.",
                                 "(graph theory) An edge of a graph.",
                                 "(geography) A circle of latitude or of longitude, as represented on a map.",
                                 "(geography, ‘the line’ or ‘equinoctial line’) The equator.",
@@ -1115,7 +1115,7 @@
                             "Direction, path.",
                             "The wire connecting one telegraphic station with another, a telephone or internet cable between two points: a telephone or network connection.",
                             "A clothesline.",
-                            "A letter, a written form of communication.\nSynonyms: epistle, letter, note",
+                            "A letter, a written form of communication.",
                             "A connected series of public conveyances, as a roadbed or railway track; and hence, an established arrangement for forwarding merchandise, etc.",
                             "(military) A trench or rampart, or the non-physical demarcation of the extent of the territory occupied by specified forces.",
                             "The exterior limit of a figure or territory: a boundary, contour, or outline; a demarcation.",
@@ -1124,12 +1124,12 @@
                             "That which was measured by a line, such as a field or any piece of land set apart; hence, allotted place of abode.",
                             "A threadlike crease or wrinkle marking the face, hand, or body; hence, a characteristic mark.",
                             "Lineament; feature; figure (of one's body).",
-                            "A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. [from mid-16thc.]Synonyms: lineup (Canada), queue (UK, Ireland)",
+                            "A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. [from mid-16thc.]",
                             "(military) The regular infantry of an army, as distinguished from militia, guards, volunteer corps, cavalry, artillery, etc.",
                             "A series or succession of ancestors or descendants of a given person; a family or race; compare lineage.",
                             [
                                 "A small amount of text. Specifically:",
-                                "A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text.\nSynonym: row",
+                                "A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text.",
                                 "A verse (in poetry).",
                                 "A sentence of dialogue, especially [from the later 19thc.] in a play, movie, or the like.",
                                 "A lie or exaggeration, especially one told to gain another's approval or prevent losing it."
@@ -2090,7 +2090,7 @@
                             "A shape that alternatingly curves in opposite directions.",
                             "Any of a number of species of moths in the geometrid subfamily Sterrhinae, which have wavy markings on the wings.",
                             "A loose back-and-forth movement, as of the hands.",
-                            "(figurative) A sudden unusually large amount of something that is temporarily experienced.\nSynonym: rush",
+                            "(figurative) A sudden unusually large amount of something that is temporarily experienced.",
                             "(video games, by extension) One of the successive swarms of enemies sent to attack the player in certain games.",
                             "(usually \"the wave\") A group activity in a crowd imitating a wave going through water, where people in successive parts of the crowd stand and stretch upward, then sit."
                         ],
@@ -3168,9 +3168,9 @@
                         "partOfSpeech": "noun",
                         "text": [
                             "#certainty (countable and uncountable, plural certainties)",
-                            "The state of being certain.\nSynonyms: certitude, surenessAntonyms: doubt, uncertainty",
+                            "The state of being certain.",
                             "An instance of being certain.",
-                            "A fact or truth unquestionably established.\nSynonym: sure thing"
+                            "A fact or truth unquestionably established."
                         ],
                         "relatedWords": [
                             {
@@ -3380,7 +3380,7 @@
                             "The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.(Can we add an example for this sense?)",
                             "(computing, operating systems) A memory address containing the address of a code entry point, usually one which is part of a table and often one that is dereferenced and jumped to during the execution of an interrupt.",
                             "(programming) A one-dimensional array.",
-                            "(computer graphics, attributive) A graphical representation using outlines; vector graphics.\nCoordinate term: raster",
+                            "(computer graphics, attributive) A graphical representation using outlines; vector graphics.",
                             "(molecular biology) A DNA molecule used to carry genetic information from one organism into another."
                         ],
                         "relatedWords": [

@@ -55,15 +55,15 @@
                     "text": [
                         "#cat (plural cats)",
                         [
-                            "An animal of the family Felidae:\nSynonym: felid",
-                            "A domesticated subspecies (Felis silvestris catus) of feline animal, commonly kept as a house pet. [from 8thc.]Synonyms: puss, pussy, malkin, kitty, pussy-cat, grimalkin; see also Thesaurus:cat",
+                            "An animal of the family Felidae:",
+                            "A domesticated subspecies (Felis silvestris catus) of feline animal, commonly kept as a house pet. [from 8thc.]",
                             "Any similar animal of the family Felidae, which includes lions, tigers, bobcats, etc."
                         ],
                         [
                             "A person:",
-                            "(offensive) A spiteful or angry woman. [from early 13thc.]Synonym: bitch",
+                            "(offensive) A spiteful or angry woman. [from early 13thc.]",
                             "An enthusiast or player of jazz.",
-                            "(slang) A person (usually male).\nSynonyms: bloke, chap, cove, dude, fellow, fella, guy",
+                            "(slang) A person (usually male).",
                             "(slang) A prostitute. [from at least early 15thc.]"
                         ],
                         "(nautical) A strong tackle used to hoist an anchor to the cathead of a ship.",
@@ -76,7 +76,7 @@
                         "(archaic) The pointed piece of wood that is struck in the game of tipcat.",
                         "(slang, vulgar, African American Vernacular English) A vagina, a vulva; the female external genitalia.",
                         "A double tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed.",
-                        "(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences.\nSynonyms: tortoise, Welsh cat"
+                        "(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences."
                     ]
                 },
                 {
@@ -605,8 +605,8 @@
                                     "The arrow descended in a curved line."
                                 ]
                             },
-                            "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.\nSynonym: straight line",
-                            "(geometry, informal) A line segment; a continuous finite segment of such a figure.\nSynonym: line segment",
+                            "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.",
+                            "(geometry, informal) A line segment; a continuous finite segment of such a figure.",
                             "(graph theory) An edge of a graph.",
                             "(geography) A circle of latitude or of longitude, as represented on a map.",
                             "(geography, ‘the line’ or ‘equinoctial line’) The equator.",
@@ -639,7 +639,7 @@
                         },
                         "A clothesline.",
                         {
-                            "text": "A letter, a written form of communication.\nSynonyms: epistle, letter, note",
+                            "text": "A letter, a written form of communication.",
                             "examples": [
                                 "Drop me a line."
                             ]
@@ -659,7 +659,7 @@
                         "A threadlike crease or wrinkle marking the face, hand, or body; hence, a characteristic mark.",
                         "Lineament; feature; figure (of one's body).",
                         {
-                            "text": "A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. [from mid-16thc.]Synonyms: lineup (Canada), queue (UK, Ireland)",
+                            "text": "A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. [from mid-16thc.]",
                             "examples": [
                                 "The line forms on the right.",
                                 "There is a line of houses."
@@ -670,7 +670,7 @@
                         [
                             "A small amount of text. Specifically:",
                             {
-                                "text": "A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text.\nSynonym: row",
+                                "text": "A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text.",
                                 "examples": [
                                     "The answer to the comprehension question can be found in the third line of the accompanying text."
                                 ]
@@ -1353,7 +1353,7 @@
                             ]
                         },
                         {
-                            "text": "(figurative) A sudden unusually large amount of something that is temporarily experienced.\nSynonym: rush",
+                            "text": "(figurative) A sudden unusually large amount of something that is temporarily experienced.",
                             "examples": [
                                 "A wave of shoppers stampeded through the door when the store opened for its Christmas discount special.",
                                 "A wave of retirees began moving to the coastal area.",
@@ -1850,9 +1850,9 @@
                     "part_of_speech": "noun",
                     "text": [
                         "#certainty (countable and uncountable, plural certainties)",
-                        "The state of being certain.\nSynonyms: certitude, surenessAntonyms: doubt, uncertainty",
+                        "The state of being certain.",
                         "An instance of being certain.",
-                        "A fact or truth unquestionably established.\nSynonym: sure thing"
+                        "A fact or truth unquestionably established."
                     ]
                 }
             ]
@@ -1962,7 +1962,7 @@
                         "(computing, operating systems) A memory address containing the address of a code entry point, usually one which is part of a table and often one that is dereferenced and jumped to during the execution of an interrupt.",
                         "(programming) A one-dimensional array.",
                         {
-                            "text": "(computer graphics, attributive) A graphical representation using outlines; vector graphics.\nCoordinate term: raster",
+                            "text": "(computer graphics, attributive) A graphical representation using outlines; vector graphics.",
                             "examples": [
                                 "a vector image",
                                 "vector graphics"

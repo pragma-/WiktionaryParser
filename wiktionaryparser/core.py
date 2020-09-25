@@ -242,7 +242,7 @@ class WiktionaryParser(object):
                                 "index": index,
                                 "text": example_text
                             })
-                        element.clear()
+                    element.clear()
                 example_list.append((def_index, examples, def_type))
                 table = table.find_next_sibling()
         return example_list
