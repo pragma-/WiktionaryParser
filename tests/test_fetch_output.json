@@ -2441,10 +2441,6 @@
                                 "text": "A God’s name."
                             },
                             {
-                                "index": 5,
-                                "text": "King James Bible \nTo set the people a worke."
-                            },
-                            {
                                 "index": 9,
                                 "text": "To set the people a worke."
                             },
@@ -2455,10 +2451,6 @@
                             {
                                 "index": 9,
                                 "text": "The times, they are a-changin'."
-                            },
-                            {
-                                "index": 7,
-                                "text": "1611, King James Bible, Hebrews 11-21\nJacob, when he was a dying"
                             },
                             {
                                 "index": 9,
@@ -3417,10 +3409,6 @@
                             }
                         ],
                         "examples": [
-                            {
-                                "index": 2,
-                                "text": "The vectors in \n\n\n\n\n\nQ\n\n\n[\nX\n]\n\n\n{\\displaystyle {\\mathbb {Q} }[X]}\n are the single-variable polynomials with rational coefficients: one is \n\n\n\n\n\nx\n\n42\n\n\n+\n\n\n1\n137\n\n\nx\n−\n1\n\n\n\n{\\displaystyle \\textstyle x^{42}+{\\frac {1}{137}}x-1}\n."
-                            },
                             {
                                 "index": 10,
                                 "text": "a vector image"

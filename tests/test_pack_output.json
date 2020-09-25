@@ -1508,12 +1508,7 @@
                                 "A God’s name."
                             ]
                         },
-                        {
-                            "text": "To do with status; In. [First attested before 1150]",
-                            "examples": [
-                                "King James Bible \nTo set the people a worke."
-                            ]
-                        },
+                        "To do with status; In. [First attested before 1150]",
                         "(archaic) To do with process, with a passive verb; In the course of, experiencing. [First attested before 1150]",
                         "(archaic) To do with an action, an active verb; Engaged in. [16th century]",
                         "(archaic) To do with an action/movement; To, into. [16th century]"
@@ -1948,12 +1943,7 @@
                         "#vector (plural vectors)",
                         "(mathematics) A directed quantity, one with both magnitude and direction; the signed difference between two points.",
                         "(mathematics) An ordered tuple representing a directed quantity or the signed difference between two points.",
-                        {
-                            "text": "(mathematics) Any member of a (generalized) vector space.",
-                            "examples": [
-                                "The vectors in \n\n\n\n\n\nQ\n\n\n[\nX\n]\n\n\n{\\displaystyle {\\mathbb {Q} }[X]}\n are the single-variable polynomials with rational coefficients: one is \n\n\n\n\n\nx\n\n42\n\n\n+\n\n\n1\n137\n\n\nx\n−\n1\n\n\n\n{\\displaystyle \\textstyle x^{42}+{\\frac {1}{137}}x-1}\n."
-                            ]
-                        },
+                        "(mathematics) Any member of a (generalized) vector space.",
                         "(aviation) A chosen course or direction for motion, as of an aircraft.",
                         "(epidemiology) A carrier of a disease-causing agent.",
                         "(sociology) A person or entity that passes along an urban legend or other meme.",

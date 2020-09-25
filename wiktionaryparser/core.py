@@ -232,7 +232,7 @@ class WiktionaryParser(object):
                 for element in table.find_all('dd'):
                     if element.find("span", {"class": "nyms"}) is None:
                         example_text = re.sub(r'\([^)]*\)', '', element.text.strip())
-                        if example_text:
+                        if example_text and "\n" not in example_text:
                             index = 0
                             for li in table.find_all("li"):
                                 if li == element.parent.parent:
