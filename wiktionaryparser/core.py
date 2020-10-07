@@ -185,6 +185,11 @@ class WiktionaryParser(object):
             pronunciation_list.append((pronunciation_index, pronunciation_text, audio_links))
         return pronunciation_list
 
+    @staticmethod
+    def fix_uppercase(string: str):
+        """Makes it so `My definitionRandom sentance` becomes `My definition`"""
+        return re.sub(r'(?<=[^\\][a-z])[A-Z].*', "", string)
+
     def parse_definitions(self, word_contents):
         definition_id_list = self.get_id_list(word_contents, 'definitions')
         definition_list = []
@@ -207,11 +212,12 @@ class WiktionaryParser(object):
                             if sub_definitions:
                                 element.find("ol").extract()
                                 top_definition = element.text.strip()
-                                sub_definitions_list = [sub_definition.text.strip() for sub_definition in sub_definitions]
+                                sub_definitions_list = [self.fix_uppercase(sub_definition.text.strip())
+                                                        for sub_definition in sub_definitions]
                                 sub_definitions_list.insert(0, top_definition)
                                 definition_text.append(sub_definitions_list)
                             else:
-                                definition_text.append(element.text.strip())
+                                definition_text.append(self.fix_uppercase(element.text.strip()))
             if def_type == 'definitions':
                 def_type = ''
             definition_list.append((def_index, definition_text, def_type))
