@@ -123,6 +123,14 @@ class WiktionaryParser(object):
                 id_list.append((content_index, content_id, text_to_check))
         return id_list
 
+    def get_languages(self):
+        contents = self.soup.find_all('h2')
+        languages = []
+        for content in contents:
+            if content.text not in ['Contents', 'Navigation menu']:
+                languages.append(content.text)
+        return languages
+
     def get_word_data(self, language):
         contents = self.soup.find_all('span', {'class': 'toctext'})
         word_contents = []
@@ -131,7 +139,7 @@ class WiktionaryParser(object):
             if content.text.lower() == language:
                 start_index = content.find_previous().text + '.'
         if len(contents) != 0 and not start_index:
-            return []
+            return self.get_languages()
         if len(contents) == 0:
             headlines = self.soup.find_all("span", {"class": "mw-headline"})
             did_find_language = False
@@ -139,7 +147,7 @@ class WiktionaryParser(object):
                 if headline.text.lower() == language:
                     did_find_language = True
             if not did_find_language:
-                return []
+                return self.get_languages()
         included_items = [self.translate(item) for item in self.INCLUDED_ITEMS]
         for content in contents:
             index = content.find_previous().text
