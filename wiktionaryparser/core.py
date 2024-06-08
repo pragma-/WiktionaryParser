@@ -123,6 +123,11 @@ class WiktionaryParser(object):
                 id_list.append((content_index, content_id, text_to_check))
         return id_list
 
+    def no_entry(self):
+        languages = self.get_languages()
+        disambig = self.get_disambig()
+        return {'languages': languages, 'disambig': disambig}
+
     def get_languages(self):
         contents = self.soup.find_all('h2')
         languages = []
@@ -130,6 +135,13 @@ class WiktionaryParser(object):
             if content.text not in ['Contents', 'Navigation menu']:
                 languages.append(content.text)
         return languages
+
+    def get_disambig(self):
+        contents = self.soup.find_all('div', {'class': ['disambig-see-also', 'disambig-see-also-2']})
+        disambig = []
+        for content in contents:
+            disambig.append(re.sub(r'See also: ', '', content.text))
+        return disambig
 
     def get_word_data(self, language):
         contents = self.soup.find_all('span', {'class': 'toctext'})
@@ -139,7 +151,7 @@ class WiktionaryParser(object):
             if content.text.lower() == language:
                 start_index = content.find_previous().text + '.'
         if len(contents) != 0 and not start_index:
-            return self.get_languages()
+            return self.no_entry()
         if len(contents) == 0:
             headlines = self.soup.find_all("span", {"class": "mw-headline"})
             did_find_language = False
@@ -147,7 +159,7 @@ class WiktionaryParser(object):
                 if headline.text.lower() == language:
                     did_find_language = True
             if not did_find_language:
-                return self.get_languages()
+                return self.no_entry()
         included_items = [self.translate(item) for item in self.INCLUDED_ITEMS]
         for content in contents:
             index = content.find_previous().text
@@ -269,7 +281,9 @@ class WiktionaryParser(object):
             etymology_text = ''
             span_tag = self.soup.find_all(['h2','h3','h4','h5'], {'id': etymology_id})[0]
             next_tag = span_tag.parent.find_next_sibling()
-            while next_tag and next_tag.name not in ['h3', 'h4', 'div', 'h5']:
+            while next_tag:
+                if next_tag.get('class') is not None and 'mw-heading' in next_tag.get('class'):
+                    break
                 etymology_tag = next_tag
                 next_tag = next_tag.find_next_sibling()
                 if etymology_tag.name == 'p':
