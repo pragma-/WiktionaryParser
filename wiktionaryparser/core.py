@@ -180,28 +180,27 @@ class WiktionaryParser(object):
         pronunciation_id_list = self.get_id_list(word_contents, 'pronunciation')
         pronunciation_list = []
         audio_links = []
-        pronunciation_text = []
         pronunciation_div_classes = ['mw-collapsible', 'vsSwitcher']
         for pronunciation_index, pronunciation_id, _ in pronunciation_id_list:
+            pronunciation_text = []
             span_tag = self.soup.find_all(['h2','h3','h4','h5'], {'id': pronunciation_id})[0]
             list_tag = span_tag.parent
-            while list_tag.name != 'ul':
-                list_tag = list_tag.find_next_sibling()
+            list_tag = list_tag.find_next_sibling()
+            while list_tag.name != 'div':
                 if list_tag.name == 'p':
                     pronunciation_text.append(list_tag.text)
                     break
-                if list_tag.name == 'div' and any(_ in pronunciation_div_classes for _ in list_tag['class']):
-                    break
-            for super_tag in list_tag.find_all('sup'):
-                super_tag.clear()
-            for list_element in list_tag.find_all('li'):
-                for audio_tag in list_element.find_all('div', {'class': 'mediaContainer'}):
-                    audio_links.append(audio_tag.find('source')['src'])
-                    audio_tag.extract()
-                for nested_list_element in list_element.find_all('ul'):
-                    nested_list_element.extract()
-                if list_element.text and not list_element.find('table', {'class': 'audiotable'}):
-                    pronunciation_text.append(list_element.text.strip())
+                for super_tag in list_tag.find_all('sup'):
+                    super_tag.clear()
+                for list_element in list_tag.find_all('li'):
+                    for audio_tag in list_element.find_all('div', {'class': 'mediaContainer'}):
+                        audio_links.append(audio_tag.find('source')['src'])
+                        audio_tag.extract()
+                    for nested_list_element in list_element.find_all('ul'):
+                        nested_list_element.extract()
+                    if list_element.text and not list_element.find('table', {'class': 'audiotable'}):
+                        pronunciation_text.append(list_element.text.strip())
+                list_tag = list_tag.find_next_sibling()
             pronunciation_list.append((pronunciation_index, pronunciation_text, audio_links))
         return pronunciation_list
 
