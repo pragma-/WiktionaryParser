@@ -114,7 +114,7 @@ class WiktionaryParser(object):
         checklist = [self.translate(item) for item in checklist]
         id_list = []
         if len(contents) == 0:
-            return [('1', x.title(), x) for x in checklist if self.soup.find('span', {'id': x.title()})]
+            return [('1', x.title(), x) for x in checklist if self.soup.find(['h2','h3','h4','h5'], {'id': x.title()})]
         for content_tag in contents:
             content_index = content_tag.find_previous().text
             text_to_check = self.remove_digits(content_tag.text).strip().lower()
@@ -153,7 +153,7 @@ class WiktionaryParser(object):
         if len(contents) != 0 and not start_index:
             return self.no_entry()
         if len(contents) == 0:
-            headlines = self.soup.find_all("span", {"class": "mw-headline"})
+            headlines = self.soup.find_all('h2')
             did_find_language = False
             for headline in headlines:
                 if headline.text.lower() == language:
