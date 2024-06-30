@@ -8,7 +8,7 @@ from copy import copy
 from string import digits
 
 PARTS_OF_SPEECH = [
-    "noun", "verb", "adjective", "adverb", "determiner",
+    "noun", "verb", "adjective", "adverb", "determiner", "contraction",
     "article", "preposition", "conjunction", "proper noun",
     "letter", "character", "phrase", "proverb", "idiom",
     "symbol", "syllable", "numeral", "initialism", "interjection",
