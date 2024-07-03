@@ -121,6 +121,13 @@ class WiktionaryParser(object):
             if text_to_check in checklist:
                 content_id = content_tag.parent['href'].replace('#', '')
                 id_list.append((content_index, content_id, text_to_check))
+        if len(id_list) == 0 and content_type == 'definitions':
+            for content_tag in contents:
+                content_index = content_tag.find_previous().text
+                text_to_check = self.remove_digits(content_tag.text).strip().lower()
+                if text_to_check not in ['references', 'cited-source', 'derived characters']:
+                    content_id = content_tag.parent['href'].replace('#', '')
+                    id_list.append((content_index, content_id, text_to_check))
         return id_list
 
     def no_entry(self):
@@ -166,6 +173,12 @@ class WiktionaryParser(object):
             content_text = self.remove_digits(content.text.lower())
             if index.startswith(start_index) and content_text in included_items:
                 word_contents.append(content)
+        if len(word_contents) == 0:
+            for content in contents:
+                index = content.find_previous().text
+                content_text = self.remove_digits(content.text.lower())
+                if index.startswith(start_index):
+                    word_contents.append(content)
         word_data = {
             'examples': self.parse_examples(word_contents),
             'definitions': self.parse_definitions(word_contents),
