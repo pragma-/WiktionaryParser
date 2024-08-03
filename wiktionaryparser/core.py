@@ -13,7 +13,7 @@ PARTS_OF_SPEECH = [
     "letter", "character", "phrase", "proverb", "idiom",
     "symbol", "syllable", "numeral", "initialism", "interjection",
     "definitions", "pronoun", "particle", "predicative", "participle",
-    "suffix",
+    "suffix", "number",
 ]
 
 RELATIONS = [
