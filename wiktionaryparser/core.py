@@ -114,7 +114,7 @@ class WiktionaryParser(object):
         checklist = [self.translate(item) for item in checklist]
         id_list = []
         if len(contents) == 0:
-            return [('1', x.title(), x) for x in checklist if self.soup.find(['h2','h3','h4','h5'], {'id': x.title()})]
+            return [('1', x.capitalize().replace(' ', '_'), x) for x in checklist if self.soup.find(['h2','h3','h4','h5'], {'id': x.capitalize().replace(' ', '_')})]
         for content_tag in contents:
             content_index = content_tag.find_previous().text
             text_to_check = self.remove_digits(content_tag.text).strip().lower()
