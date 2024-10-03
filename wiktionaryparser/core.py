@@ -8,18 +8,27 @@ from copy import copy
 from string import digits
 
 PARTS_OF_SPEECH = [
-    "noun", "verb", "adjective", "adverb", "determiner", "contraction",
-    "article", "preposition", "conjunction", "proper noun", "description",
-    "letter", "character", "phrase", "proverb", "idiom",
-    "symbol", "syllable", "numeral", "initialism", "interjection",
-    "definitions", "pronoun", "particle", "predicative", "participle",
-    "suffix", "number", "prefix",
+    "adjective", "adverb", "ambiposition", "article", "circumposition", "classifier",
+    "conjunction", "contraction", "counter", "determiner", "ideophone", "interjection",
+    "noun", "numeral", "participle", "particle", "postposition", "preposition", "pronoun",
+    "proper noun", "verb",
+
+    "circumfix", "combining form", "infix", "interfix", "prefix", "root", "suffix",
+
+    "diacritical mark", "letter", "ligature", "number", "punctuation mark", "syllable",
+    "symbol",
+
+    "phrase", "proverb", "prepositional phrase",
+
+    "han character", "hanzi", "kanji", "hanja",
+
+    "romanization", "logogram", "determinative",
 ]
 
 RELATIONS = [
     "synonyms", "antonyms", "hypernyms", "hyponyms",
     "meronyms", "holonyms", "troponyms", "related terms",
-    "coordinate terms",
+    "coordinate terms", "anagrams", "derived terms", "see also",
 ]
 
 TRANSLATIONS = json.loads(pkgutil.get_data(__name__, "translations.json").decode("utf-8"))
