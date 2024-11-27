@@ -46,7 +46,7 @@ def is_subheading(child, parent):
 
 class WiktionaryParser(object):
     def __init__(self):
-        self.url = "https://en.wiktionary.org/wiki/{}?printable=yes"
+        self.url = "https://en.wiktionary.org/wiki/{}?useskin=vector"
         self.soup = None
         self.session = requests.Session()
         self.session.mount("http://", requests.adapters.HTTPAdapter(max_retries = 2))
