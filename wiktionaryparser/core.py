@@ -1,6 +1,7 @@
 import json
 import re, requests
 import pkgutil
+import pkg_resources
 from wiktionaryparser.utils import WordData, Definition, RelatedWord
 from bs4 import BeautifulSoup
 from itertools import zip_longest
@@ -357,7 +358,8 @@ class WiktionaryParser(object):
 
     def fetch(self, word, language=None, old_id=None):
         language = self.language if not language else language
-        response = self.session.get(self.url.format(word), params={'oldid': old_id})
+        version = pkg_resources.require('wiktionaryparser')[0].version
+        response = self.session.get(self.url.format(word), params={'oldid': old_id}, headers={'user-agent': 'WiktionaryParser/'+version})
         self.soup = BeautifulSoup(response.text.replace('>\n<', '><'), 'html.parser')
         self.current_word = word
         self.clean_html()
